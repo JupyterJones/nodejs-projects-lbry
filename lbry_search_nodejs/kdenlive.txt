@@ -1,0 +1,2519 @@
+{
+  "blocked": {
+    "channels": [],
+    "total": 0
+  },
+  "items": [
+    {
+      "address": "bDEnFoLMyBJ38Tk8GP6RfFHd7HCa9btDes",
+      "amount": "0.01",
+      "canonical_url": "lbry://@lbryselect.recommended#b/kdenlive-beginners-guide-for-editing#f",
+      "claim_id": "f24160c1b52afcd88da0001bd2b1bf6f037b1688",
+      "claim_op": "create",
+      "confirmations": 1229,
+      "height": 716617,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 716617,
+        "creation_height": 716617,
+        "creation_timestamp": 1581787956,
+        "effective_amount": "0.01",
+        "expiration_height": 2819017,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 716727,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.04692404344677925
+      },
+      "name": "kdenlive-beginners-guide-for-editing",
+      "normalized_name": "kdenlive-beginners-guide-for-editing",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-beginners-guide-for-editing#f24160c1b52afcd88da0001bd2b1bf6f037b1688",
+      "reposted_claim": {
+        "address": "bZwAVZYkjozDL9nzM2PkBRK4FTmFrfEXya",
+        "amount": "0.005",
+        "canonical_url": "lbry://@dasgeek#b/kdenlive-beginners-guide-for-editing#8",
+        "claim_id": "8e7a818ec121b86a156a6beb1343f838bbca13f9",
+        "claim_op": "update",
+        "confirmations": 1119,
+        "height": 716727,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 716614,
+          "creation_height": 716614,
+          "creation_timestamp": 1581787072,
+          "effective_amount": "0.005",
+          "expiration_height": 2819014,
+          "is_controlling": false,
+          "reposted": 1,
+          "support_amount": "0.0",
+          "take_over_height": 0,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": -0.030836965888738632
+        },
+        "name": "kdenlive-beginners-guide-for-editing",
+        "normalized_name": "kdenlive-beginners-guide-for-editing",
+        "nout": 0,
+        "permanent_url": "lbry://kdenlive-beginners-guide-for-editing#8e7a818ec121b86a156a6beb1343f838bbca13f9",
+        "short_url": "lbry://kdenlive-beginners-guide-for-editing#8",
+        "signing_channel": {
+          "address": "bZwAVZYkjozDL9nzM2PkBRK4FTmFrfEXya",
+          "amount": "0.005",
+          "canonical_url": "lbry://@dasgeek#b",
+          "claim_id": "b98bc846825fd2db310895d8c55c7e323533f95a",
+          "claim_op": "update",
+          "confirmations": 1119,
+          "has_signing_key": false,
+          "height": 716727,
+          "meta": {
+            "activation_height": 716460,
+            "claims_in_channel": 343,
+            "creation_height": 716460,
+            "creation_timestamp": 1581763446,
+            "effective_amount": "10.004893",
+            "expiration_height": 2818860,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "9.999893",
+            "take_over_height": 716460,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.2615353763103485
+          },
+          "name": "@dasgeek",
+          "normalized_name": "@dasgeek",
+          "nout": 0,
+          "permanent_url": "lbry://@dasgeek#b98bc846825fd2db310895d8c55c7e323533f95a",
+          "short_url": "lbry://@dasgeek#b",
+          "timestamp": 1581805152,
+          "txid": "56b130ee2a81a92f7e681d24e8c7334f3a6fed61b746a4e55489fbb7eafcbe41",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://thumbnails.lbry.com/banner-UCIme1suHyN7cAGrTy8RBdhQ"
+            },
+            "description": "DasGeek is a Youtube channel that focuses on education of hardware, software, security, and privacy. The DasGeek community shares a common passion of learning and experimenting with technology. I cover a variety of subjects with a focus on Linux. My channel gained popularity with the 30 Days Of Linux challenge in which I tested Linux out on the latest and greatest computer hardware.\n\nFill Your Brains with:\n- Product Reviews\n- Linux and OS \n- Tips & Tricks\n- Gaming\n- Programming\n- Open-source and Software Reviews\n\nA host of the Destination Linux Podcast: https://www.youtube.com/channel/UCWJUSpXVHTaHErtGWC5qPlQ\n\nFollow me on Twitter: @dasgeekchannel or https://twitter.com/dasgeekchannel\n\nFollow me on Mastodon: https://mastodon.social/invite/2VUdiCHL\n\nBecome a sponsor of the content and get some cool perks: https://bitbacker.io/user/dasgeek/",
+            "locations": [
+              {
+                "country": "US"
+              }
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a0342000442c0d4de3f35a1c44c74911677eb5307efeac84497cf82ee4da0e7c05537b6373ccd652d4700d91e075cf7736e6fef337e53481157a09ab464f7763afbf4deb3",
+            "public_key_id": "bLbQoBxm4PXyD7epjDkr1gkKrr3J1wtbw6",
+            "thumbnail": {
+              "url": "https://thumbnails.lbry.com/UCIme1suHyN7cAGrTy8RBdhQ"
+            },
+            "title": "DASGeek"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1581805152,
+        "txid": "edf72d76a2ae57c1311c550d311227836a360955553af6d48676a8fb0c1e227a",
+        "type": "claim",
+        "value": {
+          "description": "In this video I show you all the basic features you will need to start using Kdenlive as your main video editing software suite. From being able to trim, overlay video or images, make adjustments to sound, and rendering your video for the first time. \n\nSocial:\nTwitter: @dasgeekchannel\nDiscord: https://discord.gg/BpgdgGr\nWeb: http://www.dasgeekcommunity.com\nSteam: http://steamcommunity.com/id/dasgeekchannel\n\nPodcast: Destination Linux - http://destinationlinux.org/\n\n\n\n\nMail/Product Reviews:\nIf you would like for me to review a product or you're just an awesome person who wants to send me anything at all you can do so using this P.O. BOX where mail things get sent and I open them like its Christmas morning.\n\nDas Geek\nP.O. BOX 2567\nEllijay GA 30540\n...\nhttps://www.youtube.com/watch?v=TLNiycXlnaI",
+          "languages": [
+            "en"
+          ],
+          "license": "Copyrighted (contact publisher)",
+          "release_time": "1511740237",
+          "source": {
+            "hash": "ced1b3bd3446b460fa9c5ceabe7baec7490d92a28f877a98e265bdc968a437a1c6926b251eb244f1d270350b4b7f60b3",
+            "media_type": "video/mp4",
+            "name": "kdenlive-beginners-guide-for.mp4",
+            "sd_hash": "8e3fdae63333ff41c2b5a267b2f23cc9a52d4dae59a15d95bee003055d7a5a60be7a1555dde9643edfc6a2318ffa1a6a",
+            "size": "50271073"
+          },
+          "stream_type": "video",
+          "tags": [
+            "4k",
+            "adobe",
+            "basics",
+            "best video editor",
+            "cut",
+            "effects",
+            "image insertion",
+            "kdenlive",
+            "opensource",
+            "overlay",
+            "render",
+            "sound",
+            "transitions",
+            "trim",
+            "video insertion",
+            "volume",
+            "science & technology"
+          ],
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/TLNiycXlnaI"
+          },
+          "title": "Kdenlive - Beginners Guide For Editing & Rendering Videos",
+          "video": {
+            "duration": 652,
+            "height": 1080,
+            "width": 1920
+          }
+        },
+        "value_type": "stream"
+      },
+      "short_url": "lbry://kdenlive-beginners-guide-for-editing#f",
+      "signing_channel": {
+        "address": "bEnhcSPHuWa8uTP1JC23Pz7qWx7QodPmeN",
+        "amount": "1.0",
+        "canonical_url": "lbry://@lbryselect.recommended#b",
+        "claim_id": "be8cc6683b1a7f6186cb4cd1823f0f17c5fe8439",
+        "claim_op": "update",
+        "confirmations": 1294,
+        "has_signing_key": false,
+        "height": 716552,
+        "meta": {
+          "activation_height": 716543,
+          "claims_in_channel": 21,
+          "creation_height": 716543,
+          "creation_timestamp": 1581776583,
+          "effective_amount": "11.0",
+          "expiration_height": 2818943,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "10.0",
+          "take_over_height": 716543,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.19834670424461365
+        },
+        "name": "@lbryselect.recommended",
+        "normalized_name": "@lbryselect.recommended",
+        "nout": 0,
+        "permanent_url": "lbry://@lbryselect.recommended#be8cc6683b1a7f6186cb4cd1823f0f17c5fe8439",
+        "short_url": "lbry://@lbryselect.recommended#b",
+        "timestamp": 1581777607,
+        "txid": "dfbba86e23d0b2a98318b156715f12c33c4e810c5b3a8187e18aa6d24107856a",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://spee.ch/b/ff5d3cce-e7f9-49f5-baa0-60a4cb84b90f.jpg"
+          },
+          "description": "Lbryselect.recommended selects the best videos on LBRY. Simply watch and find out about the best videos of various topics and interests.",
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004deaafb5463f1dac80795a09725b5b145d4dcbcf4d0487cb1d957c1c6807a6d9c48120d65d1d9be73678eec9faa37c4bb71f19f1323c10a715b6ff97bd96fbf33",
+          "public_key_id": "bGiU5vXZuFyr2W6JaR1EeUMWGAxQNh2Vbx",
+          "tags": [
+            "news",
+            "tech",
+            "gameplay",
+            "entertainment",
+            "science",
+            "education",
+            "funny",
+            "game",
+            "crypto",
+            "repost"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/d/e1504212-5549-4aed-bb87-5129c8d2231f.png"
+          },
+          "title": "The most populer and interesting videos curated form LBRY",
+          "website_url": "lbry://@lbryselect.recommended#b"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1581787956,
+      "txid": "e8df70f95867d68531530e6b8530d9c64704322eb7315d58baae70c1669ed20c",
+      "type": "claim",
+      "value": {
+        "claim_hash": "+RPKuzj4QxPra2oVarghwY6Beo4="
+      },
+      "value_type": "repost"
+    },
+    {
+      "address": "bE3ZYEo4mJMfmQYfXZXuTbRypv6aFNZZEi",
+      "amount": "0.005",
+      "canonical_url": "lbry://@rodo#c/compaginando-video-en-kdenlive-en#7",
+      "claim_id": "7ccd8c87b535b8488a03073397571e43ceb434a7",
+      "claim_op": "update",
+      "confirmations": 50976,
+      "height": 666870,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 596989,
+        "creation_height": 596989,
+        "creation_timestamp": 1562601834,
+        "effective_amount": "0.005",
+        "expiration_height": 2699389,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 596989,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "compaginando-video-en-kdenlive-en",
+      "normalized_name": "compaginando-video-en-kdenlive-en",
+      "nout": 0,
+      "permanent_url": "lbry://compaginando-video-en-kdenlive-en#7ccd8c87b535b8488a03073397571e43ceb434a7",
+      "short_url": "lbry://compaginando-video-en-kdenlive-en#7",
+      "signing_channel": {
+        "address": "bE3ZYEo4mJMfmQYfXZXuTbRypv6aFNZZEi",
+        "amount": "0.005",
+        "canonical_url": "lbry://@rodo#c",
+        "claim_id": "ca2fa6bc86a7e9b817acf7ff51ccbbd9bee24e4f",
+        "claim_op": "update",
+        "confirmations": 50976,
+        "has_signing_key": false,
+        "height": 666870,
+        "meta": {
+          "activation_height": 596988,
+          "claims_in_channel": 62,
+          "creation_height": 596988,
+          "creation_timestamp": 1562601747,
+          "effective_amount": "20.004786",
+          "expiration_height": 2699388,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "19.999786",
+          "take_over_height": 596988,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@rodo",
+        "normalized_name": "@rodo",
+        "nout": 0,
+        "permanent_url": "lbry://@rodo#ca2fa6bc86a7e9b817acf7ff51ccbbd9bee24e4f",
+        "short_url": "lbry://@rodo#c",
+        "timestamp": 1573823261,
+        "txid": "b84b5bd0bff397f901931d7f7f60f52620f2773f31b6ff54b79a6b2929dd0529",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCweBjZoA-EJ1i33CXcpghgQ"
+          },
+          "description": "Games, Music and other stuff",
+          "public_key": "3056301006072a8648ce3d020106052b8104000a034200047db885bd0b7cd6ae888d760e2d85e5168d38a8fc6167f0fde54728ec353169a1426c2d36eb2c3366a71e55e9dc3fe60d958b87714bf3c56261b4b2a60818fc14",
+          "public_key_id": "bFswZhgADQb58uh7cApazgZfHGGbDk2V5U",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCweBjZoA-EJ1i33CXcpghgQ"
+          },
+          "title": "rodo"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1573823261,
+      "txid": "1dc4db32fb40170f8dc2d589fa208d6acbfd54c58c0086147c0ea6bc10882612",
+      "type": "claim",
+      "value": {
+        "description": "Creamos el video con Kdenlive. Muy F\u00e1cil!\n...\nhttps://www.youtube.com/watch?v=0GadthreSIU",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1409959491",
+        "source": {
+          "hash": "c44529abca6d27001122c5de79076180591270ba95325dfcdf2ed561cbd681189cee5d58edef05c338fef21c764f3fe9",
+          "media_type": "video/mp4",
+          "name": "compaginando-video-en-kdenlive.mp4",
+          "sd_hash": "5c800dc7b18a9c06b5d085cf34aea49671ac03c8e4a380fcc53acc156fff3e3bcd4042309566f04dd586ced6c1f7de2b",
+          "size": "16074515"
+        },
+        "stream_type": "video",
+        "tags": [
+          "learning",
+          "technology",
+          "avlinux",
+          "focusrite scarlett",
+          "kdenlive",
+          "linux",
+          "open source",
+          "tutorial",
+          "gaming"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/0GadthreSIU"
+        },
+        "title": "Compaginando Video en Kdenlive en AVLinux",
+        "video": {
+          "duration": 272,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bE1dJ53iMqcp4JSBXUzneMpv55JLA4V9XP",
+      "amount": "0.005",
+      "canonical_url": "lbry://@gotbletu#b/fixing-render-install-errors-kdenlive#5",
+      "claim_id": "5d9172c05e8e149b2214d265d005de8902a36b4e",
+      "claim_op": "update",
+      "confirmations": 4349,
+      "height": 713497,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 712789,
+        "creation_height": 712789,
+        "creation_timestamp": 1581175733,
+        "effective_amount": "0.005",
+        "expiration_height": 2815189,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 712789,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "fixing-render-install-errors-kdenlive",
+      "normalized_name": "fixing-render-install-errors-kdenlive",
+      "nout": 0,
+      "permanent_url": "lbry://fixing-render-install-errors-kdenlive#5d9172c05e8e149b2214d265d005de8902a36b4e",
+      "short_url": "lbry://fixing-render-install-errors-kdenlive#5",
+      "signing_channel": {
+        "address": "bE1dJ53iMqcp4JSBXUzneMpv55JLA4V9XP",
+        "amount": "0.005",
+        "canonical_url": "lbry://@gotbletu#b",
+        "claim_id": "bd381ba7c18a95c7ef54b76211e6f45f647f23cf",
+        "claim_op": "update",
+        "confirmations": 4349,
+        "has_signing_key": false,
+        "height": 713497,
+        "meta": {
+          "activation_height": 712705,
+          "claims_in_channel": 998,
+          "creation_height": 712705,
+          "creation_timestamp": 1581162047,
+          "effective_amount": "6.104786",
+          "expiration_height": 2815105,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "6.099786",
+          "take_over_height": 712705,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@gotbletu",
+        "normalized_name": "@gotbletu",
+        "nout": 0,
+        "permanent_url": "lbry://@gotbletu#bd381ba7c18a95c7ef54b76211e6f45f647f23cf",
+        "short_url": "lbry://@gotbletu#b",
+        "timestamp": 1581289799,
+        "txid": "abb3c097c3294b3ed6b3c84b01d7ad0392bd8c2cd05f6919cc9a2b4871afd22a",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCkf4VIqu3Acnfzuk3kRIFwA"
+          },
+          "description": "Talking about open source / linux / freedom software\n\nIf you like to ask a question or submit video ideas, post a comment on any of my existing video or PM/tweet/G+/email\n\nHappy Learning!\n\nModded Consoles:\nPS2 Fat FreeHDBoot / Network Adapter / 200GB\nPS2 Slim FreeMcBoot / Pogoplug with Samba Share / 4TB\nWii Softmodded 2TB Gamecube\nWii Softmodded 2TB Wii\nOriginal Xbox TSOP 2TB\nXbox 360 Fat Falcon RGH1.2 60GB\nXbox 360 Fat Jasper RGH1.2 60GB\nXbox 360 Slim Trinity RGH 250GB\nPS3 Fat CECHA01 REBUG 4.81.2 CFW 60GB\nPS3 Slim 2001A REBUG 4.81.2 CFW / 2TB PSX PSP\nPlaystation Vita TV 3.60 Henkaku Enso 1TB\nPlaystation Vita 1000 3.65 H-Encore Enso 64GB SD2Vita\nPSP 1000 CFW 16GB\nPSP 3000 CFW 16GB\nOld 3DS XL CFW 32GB\nOld 3DS CFW 32GB\nOld 2DS CFW 32GB\n\nNot Modded Yet / Dont Got Yet:\nWii U 32GB\nPS4\nPSP Go\nXbox One\nSwitch",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000400d6bea168b32ae02ef6f2a4f603cd85f57edfdbd39ac2c7984a096bf1c7840ee6405e7b4f6ee0c895b067a3dd117889f4e71b96bc222ff7093d05942b41c852",
+          "public_key_id": "bY9QaWJbjm6tLRaCdehpDcaYT7Z1LQFaDg",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCkf4VIqu3Acnfzuk3kRIFwA"
+          },
+          "title": "gotbletu"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1581289799,
+      "txid": "e16e52d29249a26131a38daf101771f28f5613008b8e8e3a6720d1a3dbd58723",
+      "type": "claim",
+      "value": {
+        "description": "\n...\nhttps://www.youtube.com/watch?v=6hxiGvFpGIE",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1241757643",
+        "source": {
+          "hash": "b404f3d051d3eff4c598eaa2002f05e98b94446b81664adaacc19ad9a5f111c795e619500d6bbf263b6ffb45ef66f514",
+          "media_type": "video/mp4",
+          "name": "fixing-render-install-errors.mp4",
+          "sd_hash": "5dbe6ee9a725b4e96e3443d6945f213dd452b1bbe4485f60c0ad3501384d62359ad02e005c0527f1a7ef89f0b6611359",
+          "size": "36010433"
+        },
+        "stream_type": "video",
+        "tags": [
+          "technology",
+          "codec",
+          "errors",
+          "fixing",
+          "frei0r",
+          "greyed",
+          "install",
+          "kdenlive",
+          "linux",
+          "mlt",
+          "out",
+          "packages",
+          "render",
+          "ubuntu",
+          "howto & style"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/6hxiGvFpGIE"
+        },
+        "title": "Fixing Render & Install Errors - Kdenlive - Ubuntu 9.04",
+        "video": {
+          "duration": 331,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bNrq7DQimoKRgD1cysgMSaXkqGK17M1mjb",
+      "amount": "0.005",
+      "canonical_url": "lbry://@art#7/make-videos-like-a-boss-in-kdenlive#7",
+      "claim_id": "7e914de84b2607d558b0c0b6f3f006fcd3b12f11",
+      "claim_op": "update",
+      "confirmations": 397,
+      "height": 717449,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 716340,
+        "creation_height": 716340,
+        "creation_timestamp": 1581744336,
+        "effective_amount": "0.005",
+        "expiration_height": 2818740,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 716340,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": -3.2148826122283936
+      },
+      "name": "make-videos-like-a-boss-in-kdenlive",
+      "normalized_name": "make-videos-like-a-boss-in-kdenlive",
+      "nout": 0,
+      "permanent_url": "lbry://make-videos-like-a-boss-in-kdenlive#7e914de84b2607d558b0c0b6f3f006fcd3b12f11",
+      "short_url": "lbry://make-videos-like-a-boss-in-kdenlive#7",
+      "signing_channel": {
+        "address": "bNrq7DQimoKRgD1cysgMSaXkqGK17M1mjb",
+        "amount": "0.005",
+        "canonical_url": "lbry://@art#7",
+        "claim_id": "7c2c1abed24787c8c2a65fef2793dc2e876b54b3",
+        "claim_op": "update",
+        "confirmations": 397,
+        "has_signing_key": false,
+        "height": 717449,
+        "meta": {
+          "activation_height": 720199,
+          "claims_in_channel": 338,
+          "creation_height": 716167,
+          "creation_timestamp": 1581715342,
+          "effective_amount": "0.0",
+          "expiration_height": 2818567,
+          "is_controlling": false,
+          "reposted": 0,
+          "support_amount": "32.998922",
+          "take_over_height": 0,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 43.44935607910156
+        },
+        "name": "@art",
+        "normalized_name": "@art",
+        "nout": 0,
+        "permanent_url": "lbry://@art#7c2c1abed24787c8c2a65fef2793dc2e876b54b3",
+        "short_url": "lbry://@art#7",
+        "timestamp": 1581920192,
+        "txid": "47952a8f3da10a1915d8e4742f6748b274a2146f5ad077d6b829c2e8d21b4a4d",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCUrR2u9y_zTBbXBbHgmvmuQ"
+          },
+          "description": "Watch me as I make a fool out of myself ranting about Linux, Music, and general nerdiness.  Sometimes I sings songs!",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004f6462ede52a5e1c845fc8fc4b73568d4aac3dbfb874485260cb928c9a67cf5b745374b940e2042c1fbd78dd49b47effee3819e4c22fbab917959f51d60193002",
+          "public_key_id": "bMjScvF7qtbMJGNYCeU3ewGjaJt3xc1Ubj",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCUrR2u9y_zTBbXBbHgmvmuQ"
+          },
+          "title": "Arthur Reeder"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1581920192,
+      "txid": "cc5398893a369d7b4d119162408894a7765fe76423f19ff51c0096762b0101fe",
+      "type": "claim",
+      "value": {
+        "description": "Maybe if I show how I make my videos it will help others make videos with kdenlive.\n...\nhttps://www.youtube.com/watch?v=yUhsaWH5XyQ",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1305938805",
+        "source": {
+          "hash": "b5d7ba0d9c637b0f4a314b42eacfb0a54f59c719474f0e8ff43472ecc71123630fe83bc0017c6cd3782fa7cb4f426478",
+          "media_type": "video/mp4",
+          "name": "make-videos-like-a-boss-in.mp4",
+          "sd_hash": "ad3d73b09ac8d63e2a1e737d5d4c6c6215b4ace1ce6dd715cd7c01b112ed0f0eed3edaf38269c95aff879cf6e5abf33f",
+          "size": "32723021"
+        },
+        "stream_type": "video",
+        "tags": [
+          "creators",
+          "editing",
+          "kdenlive",
+          "nonlinear",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/yUhsaWH5XyQ"
+        },
+        "title": "Make videos like a Boss (In Kdenlive)",
+        "video": {
+          "duration": 206,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bDT9b62AyVLGRbXqQ2dZSfuAZmZXpAwASd",
+      "amount": "0.005",
+      "canonical_url": "lbry://@saulsecsiramirez#582/intro-to-linux-repos-kdenlive-install#5",
+      "claim_id": "5194b051ad1476632690e0da447688ab39dea9a2",
+      "claim_op": "update",
+      "confirmations": 3224,
+      "height": 714622,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 713101,
+        "creation_height": 713101,
+        "creation_timestamp": 1581225996,
+        "effective_amount": "0.005",
+        "expiration_height": 2815501,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 713101,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "intro-to-linux-repos-kdenlive-install",
+      "normalized_name": "intro-to-linux-repos-kdenlive-install",
+      "nout": 0,
+      "permanent_url": "lbry://intro-to-linux-repos-kdenlive-install#5194b051ad1476632690e0da447688ab39dea9a2",
+      "short_url": "lbry://intro-to-linux-repos-kdenlive-install#5",
+      "signing_channel": {
+        "address": "bDT9b62AyVLGRbXqQ2dZSfuAZmZXpAwASd",
+        "amount": "0.005",
+        "canonical_url": "lbry://@saulsecsiramirez#582",
+        "claim_id": "582f1e58dc298ba2608c99aa8489bfedb31d5c8e",
+        "claim_op": "update",
+        "confirmations": 3224,
+        "has_signing_key": false,
+        "height": 714622,
+        "meta": {
+          "activation_height": 713344,
+          "claims_in_channel": 94,
+          "creation_height": 713084,
+          "creation_timestamp": 1581223205,
+          "effective_amount": "0.005",
+          "expiration_height": 2815484,
+          "is_controlling": false,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 0,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@saulsecsiramirez",
+        "normalized_name": "@saulsecsiramirez",
+        "nout": 0,
+        "permanent_url": "lbry://@saulsecsiramirez#582f1e58dc298ba2608c99aa8489bfedb31d5c8e",
+        "short_url": "lbry://@saulsecsiramirez#582",
+        "timestamp": 1581468158,
+        "txid": "86777e9c2f97952792db02b91050b970dff4bdc8ad8c9bdb57f06f1619f59efb",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCXameA4LxXl72tcOgadEZsA"
+          },
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004b2380e73270243220a257d5d8bc6cd9032fd3cfe0fb5e54751fbe8fc0b205edef25f0f9535b80cc9fa9146883f42fd7baaa6cd0dabbb6451c81c85e601b82b4b",
+          "public_key_id": "bSwqZgR8tC5F4NBvo4QXBgCSgwivXfXtpK",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCXameA4LxXl72tcOgadEZsA"
+          },
+          "title": "Saul Ramirez"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1581468158,
+      "txid": "a466f4c0d110e1a293effd9a5677c436f2431f1c7a64b26ddfb075f75f83cb90",
+      "type": "claim",
+      "value": {
+        "description": "\n...\nhttps://www.youtube.com/watch?v=DLejSgYixVA",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1535587440",
+        "source": {
+          "hash": "116482fd51e1d4bc079cb0e9474e18dcac9bb34bdf32f326fb7b703999909e91e189d5a82caad4e2ed0a0acbe2f33c82",
+          "media_type": "video/mp4",
+          "name": "intro-to-linux-repos-kdenlive.mp4",
+          "sd_hash": "139564b618ef822d060630fb89c7e0ac76aae2578047ca638acde9d7ad56a920e4b0eef1197149af0f9fd3cca5d841aa",
+          "size": "99984710"
+        },
+        "stream_type": "video",
+        "tags": [
+          "gaming",
+          "learning",
+          "technology",
+          "kdenlive",
+          "kodi",
+          "launchpad",
+          "libretro",
+          "linux",
+          "ppa",
+          "repositories",
+          "retroarch",
+          "sc-controller",
+          "software updater",
+          "steam",
+          "steam controller",
+          "terminal",
+          "tutorial",
+          "ubuntu"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/DLejSgYixVA"
+        },
+        "title": "Intro to Linux Repos/kdenlive install",
+        "video": {
+          "duration": 659,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bNrq7DQimoKRgD1cysgMSaXkqGK17M1mjb",
+      "amount": "0.005",
+      "canonical_url": "lbry://@art#7/re-kdenlive-demo-and-review-part-2#7",
+      "claim_id": "71a39661357371802b40dd88d6d8fafe3b302f3f",
+      "claim_op": "update",
+      "confirmations": 397,
+      "height": 717449,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 716334,
+        "creation_height": 716334,
+        "creation_timestamp": 1581743066,
+        "effective_amount": "0.005",
+        "expiration_height": 2818734,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 716334,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": -3.2152247428894043
+      },
+      "name": "re-kdenlive-demo-and-review-part-2",
+      "normalized_name": "re-kdenlive-demo-and-review-part-2",
+      "nout": 0,
+      "permanent_url": "lbry://re-kdenlive-demo-and-review-part-2#71a39661357371802b40dd88d6d8fafe3b302f3f",
+      "short_url": "lbry://re-kdenlive-demo-and-review-part-2#7",
+      "signing_channel": {
+        "address": "bNrq7DQimoKRgD1cysgMSaXkqGK17M1mjb",
+        "amount": "0.005",
+        "canonical_url": "lbry://@art#7",
+        "claim_id": "7c2c1abed24787c8c2a65fef2793dc2e876b54b3",
+        "claim_op": "update",
+        "confirmations": 397,
+        "has_signing_key": false,
+        "height": 717449,
+        "meta": {
+          "activation_height": 720199,
+          "claims_in_channel": 338,
+          "creation_height": 716167,
+          "creation_timestamp": 1581715342,
+          "effective_amount": "0.0",
+          "expiration_height": 2818567,
+          "is_controlling": false,
+          "reposted": 0,
+          "support_amount": "32.998922",
+          "take_over_height": 0,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 43.44935607910156
+        },
+        "name": "@art",
+        "normalized_name": "@art",
+        "nout": 0,
+        "permanent_url": "lbry://@art#7c2c1abed24787c8c2a65fef2793dc2e876b54b3",
+        "short_url": "lbry://@art#7",
+        "timestamp": 1581920192,
+        "txid": "47952a8f3da10a1915d8e4742f6748b274a2146f5ad077d6b829c2e8d21b4a4d",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCUrR2u9y_zTBbXBbHgmvmuQ"
+          },
+          "description": "Watch me as I make a fool out of myself ranting about Linux, Music, and general nerdiness.  Sometimes I sings songs!",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004f6462ede52a5e1c845fc8fc4b73568d4aac3dbfb874485260cb928c9a67cf5b745374b940e2042c1fbd78dd49b47effee3819e4c22fbab917959f51d60193002",
+          "public_key_id": "bMjScvF7qtbMJGNYCeU3ewGjaJt3xc1Ubj",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCUrR2u9y_zTBbXBbHgmvmuQ"
+          },
+          "title": "Arthur Reeder"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1581920192,
+      "txid": "44a8fe85eacdc0be047f4676c9f919d914cf17f7cab17ea582f2d8c9a50bb7b5",
+      "type": "claim",
+      "value": {
+        "description": "Welcome to the community! I'm sure as you know, this video was edited in Kdenlive.\r\n\r\nhttp://www.youtube.com/watch?v=r9eoO83kXqU\n...\nhttps://www.youtube.com/watch?v=DMkab2wN7D4",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1290076607",
+        "source": {
+          "hash": "bc7adb368e5070ff0f13360964289fb901b3e1086874b874b1dae346946b254d9070e409517e18f090be6f226a1d56b7",
+          "media_type": "video/mp4",
+          "name": "re-kdenlive-demo-and-review.mp4",
+          "sd_hash": "51536032cdecc37046be583f77de6776567cfc5551bb46ab6edc04f43d9261404868d98aeea2a6a711391d0f7eb8f14c",
+          "size": "15163649"
+        },
+        "stream_type": "video",
+        "tags": [
+          "technology",
+          "kdenlive",
+          "linux",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/DMkab2wN7D4"
+        },
+        "title": "RE: Kdenlive demo and review Part 2",
+        "video": {
+          "duration": 110,
+          "height": 480,
+          "width": 852
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+      "amount": "0.005",
+      "canonical_url": "lbry://@tjfree#1/kdenlive-lesson-18-chromo-key-and-green#7",
+      "claim_id": "7e05167511eac36c80980574a09a626235c74c2d",
+      "claim_op": "update",
+      "confirmations": 51325,
+      "height": 666521,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 634620,
+        "creation_height": 634620,
+        "creation_timestamp": 1568648062,
+        "effective_amount": "10.005",
+        "expiration_height": 2737020,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "10.0",
+        "take_over_height": 634620,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "kdenlive-lesson-18-chromo-key-and-green",
+      "normalized_name": "kdenlive-lesson-18-chromo-key-and-green",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-lesson-18-chromo-key-and-green#7e05167511eac36c80980574a09a626235c74c2d",
+      "short_url": "lbry://kdenlive-lesson-18-chromo-key-and-green#7",
+      "signing_channel": {
+        "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+        "amount": "0.005",
+        "canonical_url": "lbry://@tjfree#1",
+        "claim_id": "149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "claim_op": "update",
+        "confirmations": 51325,
+        "has_signing_key": false,
+        "height": 666521,
+        "meta": {
+          "activation_height": 634610,
+          "claims_in_channel": 396,
+          "creation_height": 634610,
+          "creation_timestamp": 1568646573,
+          "effective_amount": "4176.965",
+          "expiration_height": 2737010,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "4176.96",
+          "take_over_height": 634610,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 2.9224363970570266e-05
+        },
+        "name": "@tjfree",
+        "normalized_name": "@tjfree",
+        "nout": 0,
+        "permanent_url": "lbry://@tjfree#149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "short_url": "lbry://@tjfree#1",
+        "timestamp": 1573767616,
+        "txid": "378fea0767817b69dc52d909cf9f79b83495c2f02fa1891d08613ad0cda70773",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "description": "Hi!\n\nI\u2019m Ryndon Ricks, known commonly here as TJ.\n\nI try to provide accurate information for people looking for free alternatives to proprietary and paid software.\n\nAll of the programs recommend here are free to download and use, and most are Free Open Source Software (FOSS).\n\nThese are genuinely free/libre programs who\u2019s creators (in many cases) have chosen to donate their time and ideas in order to create awesome and useful tools for everyone to use. If you find their software useful, please consider donating on their official website(s).\n\nI discovered open source and free software in the mid 2000\u2019s, and noticed a lack of information and education surrounding some of this software.\n\nIn 2009, I uploaded a YouTube video demonstrating my favorite free software applications, showing some of the useful and cool things they can do. \n\nFree software can be incredibly powerful and useful. In some case, even outperforming paid versions of similar software.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000468868b57b5599c5c8706dc222f1daab35573897e3ae63a9fbe3a2752ace4036d7a717c38386dae09a033da70590fc0d147548b19ca82f18a35ce3a9e0ca34a71",
+          "public_key_id": "bTFydm4oZbHjMadUqrKhLR4qvFvNFdautb",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "title": "TJ FREE"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1573767616,
+      "txid": "3e6fe76aaaf1a2038a4549c6cae8b1b02e2b1e201d662a2b5765bdd01d60df7c",
+      "type": "claim",
+      "value": {
+        "description": "Kdenlive is a powerful, free and open source video editor. \n\nIt can be downloaded here (for Windows, Linux, and Mac): \nhttps://kdenlive.org/en/\n...\nhttps://www.youtube.com/watch?v=bMwbffYIS40",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1534953026",
+        "source": {
+          "hash": "901dd122e8e80cc8b998a83fd86b1594c4e409fb4370a0e18fc4d3c3d5dccaef649e74881a3f67c9368b3fdacffee38c",
+          "media_type": "video/mp4",
+          "name": "kdenlive-lesson-18-chromo-key.mp4",
+          "sd_hash": "a17c98ae7ea64584f213a4046176d61f25f8179a84354c5ab4839f96e7529ef453250e5b35096dc6d24baccb24818ead",
+          "size": "24864517"
+        },
+        "stream_type": "video",
+        "tags": [
+          "choma key",
+          "chromokey",
+          "diy green screen",
+          "free green screen",
+          "free video editor",
+          "green screen tutorial",
+          "green screen video editor",
+          "kdenlive blue screen",
+          "kdenlive chomokey",
+          "kdenlive green screen",
+          "kdenlive transparency",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/bMwbffYIS40"
+        },
+        "title": "Kdenlive Lesson 18 - Chromo Key and Green Screen",
+        "video": {
+          "duration": 301,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+      "amount": "0.005",
+      "canonical_url": "lbry://@tjfree#1/kdenlive-lesson-15-video-transitions#f",
+      "claim_id": "f40972da4bd049a424e30ea6d4cf5b3bd353f53b",
+      "claim_op": "update",
+      "confirmations": 51325,
+      "height": 666521,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 634619,
+        "creation_height": 634619,
+        "creation_timestamp": 1568647749,
+        "effective_amount": "25.005",
+        "expiration_height": 2737019,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "25.0",
+        "take_over_height": 634619,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "kdenlive-lesson-15-video-transitions",
+      "normalized_name": "kdenlive-lesson-15-video-transitions",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-lesson-15-video-transitions#f40972da4bd049a424e30ea6d4cf5b3bd353f53b",
+      "short_url": "lbry://kdenlive-lesson-15-video-transitions#f",
+      "signing_channel": {
+        "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+        "amount": "0.005",
+        "canonical_url": "lbry://@tjfree#1",
+        "claim_id": "149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "claim_op": "update",
+        "confirmations": 51325,
+        "has_signing_key": false,
+        "height": 666521,
+        "meta": {
+          "activation_height": 634610,
+          "claims_in_channel": 396,
+          "creation_height": 634610,
+          "creation_timestamp": 1568646573,
+          "effective_amount": "4176.965",
+          "expiration_height": 2737010,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "4176.96",
+          "take_over_height": 634610,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 2.9224363970570266e-05
+        },
+        "name": "@tjfree",
+        "normalized_name": "@tjfree",
+        "nout": 0,
+        "permanent_url": "lbry://@tjfree#149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "short_url": "lbry://@tjfree#1",
+        "timestamp": 1573767616,
+        "txid": "378fea0767817b69dc52d909cf9f79b83495c2f02fa1891d08613ad0cda70773",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "description": "Hi!\n\nI\u2019m Ryndon Ricks, known commonly here as TJ.\n\nI try to provide accurate information for people looking for free alternatives to proprietary and paid software.\n\nAll of the programs recommend here are free to download and use, and most are Free Open Source Software (FOSS).\n\nThese are genuinely free/libre programs who\u2019s creators (in many cases) have chosen to donate their time and ideas in order to create awesome and useful tools for everyone to use. If you find their software useful, please consider donating on their official website(s).\n\nI discovered open source and free software in the mid 2000\u2019s, and noticed a lack of information and education surrounding some of this software.\n\nIn 2009, I uploaded a YouTube video demonstrating my favorite free software applications, showing some of the useful and cool things they can do. \n\nFree software can be incredibly powerful and useful. In some case, even outperforming paid versions of similar software.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000468868b57b5599c5c8706dc222f1daab35573897e3ae63a9fbe3a2752ace4036d7a717c38386dae09a033da70590fc0d147548b19ca82f18a35ce3a9e0ca34a71",
+          "public_key_id": "bTFydm4oZbHjMadUqrKhLR4qvFvNFdautb",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "title": "TJ FREE"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1573767616,
+      "txid": "6e0c3dfad6751770f1f253c76dae5a4748ba3d1ba5e53ee2b59d3663a0ce05a6",
+      "type": "claim",
+      "value": {
+        "description": "Kdenlive is a powerful, free and open source video editor. \n\nIt can be downloaded here (for Windows, Linux, and Mac): \nhttps://kdenlive.org/en/\n...\nhttps://www.youtube.com/watch?v=jB77vpWGuz4",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1534952927",
+        "source": {
+          "hash": "8e202ac58e4153c613fc8fba9f7e0a8c52b353785447ca06de40c51d8a642024fab87079522e40d62971d1199ee0f885",
+          "media_type": "video/mp4",
+          "name": "kdenlive-lesson-15-video.mp4",
+          "sd_hash": "c7fe19250e57eebdc76a82144b157539c70b549758444c2a3ef8bdcc2d2733638a2d66165714e5e9d11b7417ca966df5",
+          "size": "27784389"
+        },
+        "stream_type": "video",
+        "tags": [
+          "animated transition",
+          "change picture",
+          "kdenlive",
+          "movie transitions",
+          "slide show",
+          "transition between videos",
+          "video effects",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/jB77vpWGuz4"
+        },
+        "title": "Kdenlive Lesson 15 - Video Transitions",
+        "video": {
+          "duration": 491,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bNrq7DQimoKRgD1cysgMSaXkqGK17M1mjb",
+      "amount": "0.005",
+      "canonical_url": "lbry://@art#7/kdenlive-vs-openshot#b",
+      "claim_id": "b5735516ed9ba4fde0fb5617f4901139fcaf6c04",
+      "claim_op": "update",
+      "confirmations": 397,
+      "height": 717449,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 716324,
+        "creation_height": 716324,
+        "creation_timestamp": 1581741338,
+        "effective_amount": "0.005",
+        "expiration_height": 2818724,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 716324,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": -3.2157721519470215
+      },
+      "name": "kdenlive-vs-openshot",
+      "normalized_name": "kdenlive-vs-openshot",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-vs-openshot#b5735516ed9ba4fde0fb5617f4901139fcaf6c04",
+      "short_url": "lbry://kdenlive-vs-openshot#b",
+      "signing_channel": {
+        "address": "bNrq7DQimoKRgD1cysgMSaXkqGK17M1mjb",
+        "amount": "0.005",
+        "canonical_url": "lbry://@art#7",
+        "claim_id": "7c2c1abed24787c8c2a65fef2793dc2e876b54b3",
+        "claim_op": "update",
+        "confirmations": 397,
+        "has_signing_key": false,
+        "height": 717449,
+        "meta": {
+          "activation_height": 720199,
+          "claims_in_channel": 338,
+          "creation_height": 716167,
+          "creation_timestamp": 1581715342,
+          "effective_amount": "0.0",
+          "expiration_height": 2818567,
+          "is_controlling": false,
+          "reposted": 0,
+          "support_amount": "32.998922",
+          "take_over_height": 0,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 43.44935607910156
+        },
+        "name": "@art",
+        "normalized_name": "@art",
+        "nout": 0,
+        "permanent_url": "lbry://@art#7c2c1abed24787c8c2a65fef2793dc2e876b54b3",
+        "short_url": "lbry://@art#7",
+        "timestamp": 1581920192,
+        "txid": "47952a8f3da10a1915d8e4742f6748b274a2146f5ad077d6b829c2e8d21b4a4d",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCUrR2u9y_zTBbXBbHgmvmuQ"
+          },
+          "description": "Watch me as I make a fool out of myself ranting about Linux, Music, and general nerdiness.  Sometimes I sings songs!",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004f6462ede52a5e1c845fc8fc4b73568d4aac3dbfb874485260cb928c9a67cf5b745374b940e2042c1fbd78dd49b47effee3819e4c22fbab917959f51d60193002",
+          "public_key_id": "bMjScvF7qtbMJGNYCeU3ewGjaJt3xc1Ubj",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCUrR2u9y_zTBbXBbHgmvmuQ"
+          },
+          "title": "Arthur Reeder"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1581920192,
+      "txid": "8b29370d73375be93b8d32bf472d1432f699928e0c75c889653ae0269963b369",
+      "type": "claim",
+      "value": {
+        "description": "I gave OpenShot a test drive.  It's not quite good enough to take the spot that KdenLive has in my heart.  KdenLive is a rock solid editor.  Soon OpenShot will be too, just not yet.\n...\nhttps://www.youtube.com/watch?v=qvniAepVDgg",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1264874109",
+        "source": {
+          "hash": "82d9bf5b9cd32a0434aefc2698bd6177d5ac6e68291b7d123d2c716c743cb8d644e0b17204919479b1f65eb31bad1b2f",
+          "media_type": "video/mp4",
+          "name": "kdenlive-vs-openshot.mp4",
+          "sd_hash": "67b1ff93858d6eb67d72aa20149516a5a50ac9e7240dfc609498c674b2e835e7bde79d9a0c3fb8b01b13b39d6f8a5217",
+          "size": "6746028"
+        },
+        "stream_type": "video",
+        "tags": [
+          "technology",
+          "editing",
+          "kdenlive",
+          "linux",
+          "nle",
+          "openshot",
+          "ubuntu",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/qvniAepVDgg"
+        },
+        "title": "Kdenlive Vs OpenShot",
+        "video": {
+          "duration": 128,
+          "height": 360,
+          "width": 640
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bNrq7DQimoKRgD1cysgMSaXkqGK17M1mjb",
+      "amount": "0.005",
+      "canonical_url": "lbry://@art#7/kdenlive-0-7-8-pan-and-zoom#e",
+      "claim_id": "e8bf68309e1f8b4b43d0a654435368478e877147",
+      "claim_op": "update",
+      "confirmations": 397,
+      "height": 717449,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 716331,
+        "creation_height": 716331,
+        "creation_timestamp": 1581742684,
+        "effective_amount": "0.005",
+        "expiration_height": 2818731,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 716331,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": -3.2153918743133545
+      },
+      "name": "kdenlive-0-7-8-pan-and-zoom",
+      "normalized_name": "kdenlive-0-7-8-pan-and-zoom",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-0-7-8-pan-and-zoom#e8bf68309e1f8b4b43d0a654435368478e877147",
+      "short_url": "lbry://kdenlive-0-7-8-pan-and-zoom#e",
+      "signing_channel": {
+        "address": "bNrq7DQimoKRgD1cysgMSaXkqGK17M1mjb",
+        "amount": "0.005",
+        "canonical_url": "lbry://@art#7",
+        "claim_id": "7c2c1abed24787c8c2a65fef2793dc2e876b54b3",
+        "claim_op": "update",
+        "confirmations": 397,
+        "has_signing_key": false,
+        "height": 717449,
+        "meta": {
+          "activation_height": 720199,
+          "claims_in_channel": 338,
+          "creation_height": 716167,
+          "creation_timestamp": 1581715342,
+          "effective_amount": "0.0",
+          "expiration_height": 2818567,
+          "is_controlling": false,
+          "reposted": 0,
+          "support_amount": "32.998922",
+          "take_over_height": 0,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 43.44935607910156
+        },
+        "name": "@art",
+        "normalized_name": "@art",
+        "nout": 0,
+        "permanent_url": "lbry://@art#7c2c1abed24787c8c2a65fef2793dc2e876b54b3",
+        "short_url": "lbry://@art#7",
+        "timestamp": 1581920192,
+        "txid": "47952a8f3da10a1915d8e4742f6748b274a2146f5ad077d6b829c2e8d21b4a4d",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCUrR2u9y_zTBbXBbHgmvmuQ"
+          },
+          "description": "Watch me as I make a fool out of myself ranting about Linux, Music, and general nerdiness.  Sometimes I sings songs!",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004f6462ede52a5e1c845fc8fc4b73568d4aac3dbfb874485260cb928c9a67cf5b745374b940e2042c1fbd78dd49b47effee3819e4c22fbab917959f51d60193002",
+          "public_key_id": "bMjScvF7qtbMJGNYCeU3ewGjaJt3xc1Ubj",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCUrR2u9y_zTBbXBbHgmvmuQ"
+          },
+          "title": "Arthur Reeder"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1581920192,
+      "txid": "df5d14a0116e96282b66358743e1840637651fd66ed64809b495e4d2fc49c7d6",
+      "type": "claim",
+      "value": {
+        "description": "I'm doing screencasting again.  Should have never turned my back on it in the first place...\n...\nhttps://www.youtube.com/watch?v=ccgo8Fne6xA",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1285559297",
+        "source": {
+          "hash": "de8d36951eca6708efeaa47918629820eb0725500f41f530af71871809f2772bfdb2f058ea80938af4db9c6cdc063501",
+          "media_type": "video/mp4",
+          "name": "kdenlive-0-7-8-pan-and-zoom.mp4",
+          "sd_hash": "d19fc143057d1557cf3e664bd53c8a5a41492b2559c5d42235a1b319ed7cf75237b4e636ad279e3a1866110cdf817591",
+          "size": "47559820"
+        },
+        "stream_type": "video",
+        "tags": [
+          "gnome",
+          "kdenlive",
+          "kodak zi6",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/ccgo8Fne6xA"
+        },
+        "title": "Kdenlive 0.7.8 : Pan and Zoom!",
+        "video": {
+          "duration": 350,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+      "amount": "0.005",
+      "canonical_url": "lbry://@tjfree#1/kdenlive-lesson-21-obscure-with-auto#1",
+      "claim_id": "1344d98366eb826648f1aece6122a4afda947de6",
+      "claim_op": "update",
+      "confirmations": 51325,
+      "height": 666521,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 634618,
+        "creation_height": 634618,
+        "creation_timestamp": 1568647707,
+        "effective_amount": "0.005",
+        "expiration_height": 2737018,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 634618,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "kdenlive-lesson-21-obscure-with-auto",
+      "normalized_name": "kdenlive-lesson-21-obscure-with-auto",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-lesson-21-obscure-with-auto#1344d98366eb826648f1aece6122a4afda947de6",
+      "short_url": "lbry://kdenlive-lesson-21-obscure-with-auto#1",
+      "signing_channel": {
+        "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+        "amount": "0.005",
+        "canonical_url": "lbry://@tjfree#1",
+        "claim_id": "149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "claim_op": "update",
+        "confirmations": 51325,
+        "has_signing_key": false,
+        "height": 666521,
+        "meta": {
+          "activation_height": 634610,
+          "claims_in_channel": 396,
+          "creation_height": 634610,
+          "creation_timestamp": 1568646573,
+          "effective_amount": "4176.965",
+          "expiration_height": 2737010,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "4176.96",
+          "take_over_height": 634610,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 2.9224363970570266e-05
+        },
+        "name": "@tjfree",
+        "normalized_name": "@tjfree",
+        "nout": 0,
+        "permanent_url": "lbry://@tjfree#149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "short_url": "lbry://@tjfree#1",
+        "timestamp": 1573767616,
+        "txid": "378fea0767817b69dc52d909cf9f79b83495c2f02fa1891d08613ad0cda70773",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "description": "Hi!\n\nI\u2019m Ryndon Ricks, known commonly here as TJ.\n\nI try to provide accurate information for people looking for free alternatives to proprietary and paid software.\n\nAll of the programs recommend here are free to download and use, and most are Free Open Source Software (FOSS).\n\nThese are genuinely free/libre programs who\u2019s creators (in many cases) have chosen to donate their time and ideas in order to create awesome and useful tools for everyone to use. If you find their software useful, please consider donating on their official website(s).\n\nI discovered open source and free software in the mid 2000\u2019s, and noticed a lack of information and education surrounding some of this software.\n\nIn 2009, I uploaded a YouTube video demonstrating my favorite free software applications, showing some of the useful and cool things they can do. \n\nFree software can be incredibly powerful and useful. In some case, even outperforming paid versions of similar software.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000468868b57b5599c5c8706dc222f1daab35573897e3ae63a9fbe3a2752ace4036d7a717c38386dae09a033da70590fc0d147548b19ca82f18a35ce3a9e0ca34a71",
+          "public_key_id": "bTFydm4oZbHjMadUqrKhLR4qvFvNFdautb",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "title": "TJ FREE"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1573767616,
+      "txid": "e500131ad87fdc9778adde0e131328d1ab2155c181b5e3e22a030070bd273fd3",
+      "type": "claim",
+      "value": {
+        "description": "Kdenlive is a powerful, free and open source video editor. \n\nIt can be downloaded here (for Windows, Linux, and Mac): \nhttps://kdenlive.org/en/\n...\nhttps://www.youtube.com/watch?v=sDejINBEYc4",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1534953302",
+        "source": {
+          "hash": "369617385486bd3d1561872304a04f837752f18330c4b562ccdc324dd14ae5e2c8a4e7c936dd31228c2352513e989562",
+          "media_type": "video/mp4",
+          "name": "kdenlive-lesson-21-obscure.mp4",
+          "sd_hash": "1f17d2f92336882f2d8d213a4cb9b31414fb0851f3a1d0f99d1608e14bca9c32d3954d9eb160b334502f51ee5645417d",
+          "size": "14908011"
+        },
+        "stream_type": "video",
+        "tags": [
+          "learning",
+          "auto tracking",
+          "blur filter",
+          "cops face",
+          "face blur",
+          "hide face",
+          "kdenlive",
+          "kdenlive tracking",
+          "obscure",
+          "privacy",
+          "tutorial",
+          "video editor",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/sDejINBEYc4"
+        },
+        "title": "Kdenlive Lesson 21 - Obscure with Auto Mask Tracking",
+        "video": {
+          "duration": 178,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+      "amount": "0.005",
+      "canonical_url": "lbry://@tjfree#1/kdenlive-lesson-13-transform-crop-and#6",
+      "claim_id": "6188c5eae624cf8c203fe7aff03c534315b48a2f",
+      "claim_op": "update",
+      "confirmations": 51325,
+      "height": 666521,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 634618,
+        "creation_height": 634618,
+        "creation_timestamp": 1568647707,
+        "effective_amount": "10.782",
+        "expiration_height": 2737018,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "10.777",
+        "take_over_height": 634618,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "kdenlive-lesson-13-transform-crop-and",
+      "normalized_name": "kdenlive-lesson-13-transform-crop-and",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-lesson-13-transform-crop-and#6188c5eae624cf8c203fe7aff03c534315b48a2f",
+      "short_url": "lbry://kdenlive-lesson-13-transform-crop-and#6",
+      "signing_channel": {
+        "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+        "amount": "0.005",
+        "canonical_url": "lbry://@tjfree#1",
+        "claim_id": "149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "claim_op": "update",
+        "confirmations": 51325,
+        "has_signing_key": false,
+        "height": 666521,
+        "meta": {
+          "activation_height": 634610,
+          "claims_in_channel": 396,
+          "creation_height": 634610,
+          "creation_timestamp": 1568646573,
+          "effective_amount": "4176.965",
+          "expiration_height": 2737010,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "4176.96",
+          "take_over_height": 634610,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 2.9224363970570266e-05
+        },
+        "name": "@tjfree",
+        "normalized_name": "@tjfree",
+        "nout": 0,
+        "permanent_url": "lbry://@tjfree#149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "short_url": "lbry://@tjfree#1",
+        "timestamp": 1573767616,
+        "txid": "378fea0767817b69dc52d909cf9f79b83495c2f02fa1891d08613ad0cda70773",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "description": "Hi!\n\nI\u2019m Ryndon Ricks, known commonly here as TJ.\n\nI try to provide accurate information for people looking for free alternatives to proprietary and paid software.\n\nAll of the programs recommend here are free to download and use, and most are Free Open Source Software (FOSS).\n\nThese are genuinely free/libre programs who\u2019s creators (in many cases) have chosen to donate their time and ideas in order to create awesome and useful tools for everyone to use. If you find their software useful, please consider donating on their official website(s).\n\nI discovered open source and free software in the mid 2000\u2019s, and noticed a lack of information and education surrounding some of this software.\n\nIn 2009, I uploaded a YouTube video demonstrating my favorite free software applications, showing some of the useful and cool things they can do. \n\nFree software can be incredibly powerful and useful. In some case, even outperforming paid versions of similar software.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000468868b57b5599c5c8706dc222f1daab35573897e3ae63a9fbe3a2752ace4036d7a717c38386dae09a033da70590fc0d147548b19ca82f18a35ce3a9e0ca34a71",
+          "public_key_id": "bTFydm4oZbHjMadUqrKhLR4qvFvNFdautb",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "title": "TJ FREE"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1573767616,
+      "txid": "0d2d9a60dbde597472ce1804049a070c162ab7a06e67945f3bd2a89b33bbc7a5",
+      "type": "claim",
+      "value": {
+        "description": "Kdenlive is a powerful, free and open source video editor. \n\nIt can be downloaded here (for Windows, Linux, and Mac): \nhttps://kdenlive.org/en/\n...\nhttps://www.youtube.com/watch?v=ssk84N9CAE0",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1534952908",
+        "source": {
+          "hash": "c37486669f68c11640cd31320089bc856a9a5c61555a5fa74134d1904dd32e2e631f7803b465516493fe96e894412d18",
+          "media_type": "video/mp4",
+          "name": "kdenlive-lesson-13-transform.mp4",
+          "sd_hash": "cd36c9d62ef5d51b9666ea9c9072328ef1c69c0f8a12639345eff43f29273fd8dab102f46f62b66df9efc37e31580038",
+          "size": "25648756"
+        },
+        "stream_type": "video",
+        "tags": [
+          "technology",
+          "change video size",
+          "free video",
+          "kdenlive",
+          "learn kdenlive",
+          "move movie",
+          "move video",
+          "movie editor",
+          "open source",
+          "resize movie",
+          "zoom in",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/ssk84N9CAE0"
+        },
+        "title": "Kdenlive Lesson 13 - Transform, Crop, and Resize Video",
+        "video": {
+          "duration": 458,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+      "amount": "0.005",
+      "canonical_url": "lbry://@tjfree#1/kdenlive-lesson-6-artistic-effects-and#3",
+      "claim_id": "3e0ca861d4ec924dfbf2ef929f10862b69448137",
+      "claim_op": "update",
+      "confirmations": 51325,
+      "height": 666521,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 634616,
+        "creation_height": 634616,
+        "creation_timestamp": 1568647578,
+        "effective_amount": "5.005",
+        "expiration_height": 2737016,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "5.0",
+        "take_over_height": 634616,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "kdenlive-lesson-6-artistic-effects-and",
+      "normalized_name": "kdenlive-lesson-6-artistic-effects-and",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-lesson-6-artistic-effects-and#3e0ca861d4ec924dfbf2ef929f10862b69448137",
+      "short_url": "lbry://kdenlive-lesson-6-artistic-effects-and#3",
+      "signing_channel": {
+        "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+        "amount": "0.005",
+        "canonical_url": "lbry://@tjfree#1",
+        "claim_id": "149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "claim_op": "update",
+        "confirmations": 51325,
+        "has_signing_key": false,
+        "height": 666521,
+        "meta": {
+          "activation_height": 634610,
+          "claims_in_channel": 396,
+          "creation_height": 634610,
+          "creation_timestamp": 1568646573,
+          "effective_amount": "4176.965",
+          "expiration_height": 2737010,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "4176.96",
+          "take_over_height": 634610,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 2.9224363970570266e-05
+        },
+        "name": "@tjfree",
+        "normalized_name": "@tjfree",
+        "nout": 0,
+        "permanent_url": "lbry://@tjfree#149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "short_url": "lbry://@tjfree#1",
+        "timestamp": 1573767616,
+        "txid": "378fea0767817b69dc52d909cf9f79b83495c2f02fa1891d08613ad0cda70773",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "description": "Hi!\n\nI\u2019m Ryndon Ricks, known commonly here as TJ.\n\nI try to provide accurate information for people looking for free alternatives to proprietary and paid software.\n\nAll of the programs recommend here are free to download and use, and most are Free Open Source Software (FOSS).\n\nThese are genuinely free/libre programs who\u2019s creators (in many cases) have chosen to donate their time and ideas in order to create awesome and useful tools for everyone to use. If you find their software useful, please consider donating on their official website(s).\n\nI discovered open source and free software in the mid 2000\u2019s, and noticed a lack of information and education surrounding some of this software.\n\nIn 2009, I uploaded a YouTube video demonstrating my favorite free software applications, showing some of the useful and cool things they can do. \n\nFree software can be incredibly powerful and useful. In some case, even outperforming paid versions of similar software.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000468868b57b5599c5c8706dc222f1daab35573897e3ae63a9fbe3a2752ace4036d7a717c38386dae09a033da70590fc0d147548b19ca82f18a35ce3a9e0ca34a71",
+          "public_key_id": "bTFydm4oZbHjMadUqrKhLR4qvFvNFdautb",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "title": "TJ FREE"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1573767616,
+      "txid": "a43baaf81738973d0ac954da84470e33f14dbab22d9615448943fb53d248ccd4",
+      "type": "claim",
+      "value": {
+        "description": "Kdenlive is a powerful, free and open source video editor. \n\nIt can be downloaded here (for Windows, Linux, and Mac): \nhttps://kdenlive.org/en/\n...\nhttps://www.youtube.com/watch?v=ogUl9IwsnDM",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1534952378",
+        "source": {
+          "hash": "048eb582d041433b1542ed2998e68c8777126cfe4abc4e4aa4c85a4a9ee69e3bccb5622cf28c0cab50630c0ab0491845",
+          "media_type": "video/mp4",
+          "name": "kdenlive-lesson-6-artistic.mp4",
+          "sd_hash": "9c1819330e2594a6731d9e06df571aaf2903e78b6dda3bf0cceb03082f207e994f1c6ada372dcf75a8b9428b8e52de6d",
+          "size": "24872962"
+        },
+        "stream_type": "video",
+        "tags": [
+          "learning",
+          "change look",
+          "free effects",
+          "free filters",
+          "how to",
+          "kdenlive",
+          "movie effects",
+          "video filters",
+          "video lesson",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/ogUl9IwsnDM"
+        },
+        "title": "Kdenlive Lesson 6 - Artistic Effects and Filters",
+        "video": {
+          "duration": 314,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+      "amount": "0.005",
+      "canonical_url": "lbry://@tjfree#1/kdenlive-download-and-run-on-windows#c",
+      "claim_id": "c1a9256c53d8b7a326eb641a3fbafedec71449e6",
+      "claim_op": "update",
+      "confirmations": 51325,
+      "height": 666521,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 634616,
+        "creation_height": 634616,
+        "creation_timestamp": 1568647578,
+        "effective_amount": "0.005",
+        "expiration_height": 2737016,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 634616,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "kdenlive-download-and-run-on-windows",
+      "normalized_name": "kdenlive-download-and-run-on-windows",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-download-and-run-on-windows#c1a9256c53d8b7a326eb641a3fbafedec71449e6",
+      "short_url": "lbry://kdenlive-download-and-run-on-windows#c",
+      "signing_channel": {
+        "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+        "amount": "0.005",
+        "canonical_url": "lbry://@tjfree#1",
+        "claim_id": "149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "claim_op": "update",
+        "confirmations": 51325,
+        "has_signing_key": false,
+        "height": 666521,
+        "meta": {
+          "activation_height": 634610,
+          "claims_in_channel": 396,
+          "creation_height": 634610,
+          "creation_timestamp": 1568646573,
+          "effective_amount": "4176.965",
+          "expiration_height": 2737010,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "4176.96",
+          "take_over_height": 634610,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 2.9224363970570266e-05
+        },
+        "name": "@tjfree",
+        "normalized_name": "@tjfree",
+        "nout": 0,
+        "permanent_url": "lbry://@tjfree#149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "short_url": "lbry://@tjfree#1",
+        "timestamp": 1573767616,
+        "txid": "378fea0767817b69dc52d909cf9f79b83495c2f02fa1891d08613ad0cda70773",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "description": "Hi!\n\nI\u2019m Ryndon Ricks, known commonly here as TJ.\n\nI try to provide accurate information for people looking for free alternatives to proprietary and paid software.\n\nAll of the programs recommend here are free to download and use, and most are Free Open Source Software (FOSS).\n\nThese are genuinely free/libre programs who\u2019s creators (in many cases) have chosen to donate their time and ideas in order to create awesome and useful tools for everyone to use. If you find their software useful, please consider donating on their official website(s).\n\nI discovered open source and free software in the mid 2000\u2019s, and noticed a lack of information and education surrounding some of this software.\n\nIn 2009, I uploaded a YouTube video demonstrating my favorite free software applications, showing some of the useful and cool things they can do. \n\nFree software can be incredibly powerful and useful. In some case, even outperforming paid versions of similar software.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000468868b57b5599c5c8706dc222f1daab35573897e3ae63a9fbe3a2752ace4036d7a717c38386dae09a033da70590fc0d147548b19ca82f18a35ce3a9e0ca34a71",
+          "public_key_id": "bTFydm4oZbHjMadUqrKhLR4qvFvNFdautb",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "title": "TJ FREE"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1573767616,
+      "txid": "5cac6b3a4d6717d4005f234a186382365801807ca7912e61f09f427aef2a0bca",
+      "type": "claim",
+      "value": {
+        "description": "kdenlive is an Open Source and Free video editor for Windows, Linux, and Mac.\n\nThe download link can be found here:\nhttps://kdenlive.org/en/download/\n...\nhttps://www.youtube.com/watch?v=mExkwP040SY",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1534195855",
+        "source": {
+          "hash": "8f8d7f21e4dbff56f85611987040fcff3f9bed7482026453ab172dfa14008c5a30bf73932e72894051af2cabfa2b0d16",
+          "media_type": "video/mp4",
+          "name": "kdenlive-download-and-run-on.mp4",
+          "sd_hash": "bf00993c2ade0a3e7ac0b3f454b83db199fa39665cf127368bfcb6318b39f4a27ff5284026cb512db6dee2b539acf534",
+          "size": "5744387"
+        },
+        "stream_type": "video",
+        "tags": [
+          "best free windows video editor",
+          "download kdenlive",
+          "free download",
+          "free editor",
+          "free video",
+          "install kdenlive",
+          "kdenlive for windows",
+          "kdenlive windows",
+          "movie maker",
+          "open source video",
+          "tjfree",
+          "video editing",
+          "video software",
+          "windows dkenlive download",
+          "windows video maker",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/mExkwP040SY"
+        },
+        "title": "Kdenlive - Download and run on Windows (Free Video Editor)",
+        "video": {
+          "duration": 153,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bNrq7DQimoKRgD1cysgMSaXkqGK17M1mjb",
+      "amount": "0.005",
+      "canonical_url": "lbry://@art#7/kdenlive-0-8-2-first-look-and-my#2",
+      "claim_id": "23fe1e5ec8234f0a8fe41a0af843ed2829a2ebb4",
+      "claim_op": "update",
+      "confirmations": 397,
+      "height": 717449,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 716344,
+        "creation_height": 716344,
+        "creation_timestamp": 1581744655,
+        "effective_amount": "0.005",
+        "expiration_height": 2818744,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 716344,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": -3.214648485183716
+      },
+      "name": "kdenlive-0-8-2-first-look-and-my",
+      "normalized_name": "kdenlive-0-8-2-first-look-and-my",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-0-8-2-first-look-and-my#23fe1e5ec8234f0a8fe41a0af843ed2829a2ebb4",
+      "short_url": "lbry://kdenlive-0-8-2-first-look-and-my#2",
+      "signing_channel": {
+        "address": "bNrq7DQimoKRgD1cysgMSaXkqGK17M1mjb",
+        "amount": "0.005",
+        "canonical_url": "lbry://@art#7",
+        "claim_id": "7c2c1abed24787c8c2a65fef2793dc2e876b54b3",
+        "claim_op": "update",
+        "confirmations": 397,
+        "has_signing_key": false,
+        "height": 717449,
+        "meta": {
+          "activation_height": 720199,
+          "claims_in_channel": 338,
+          "creation_height": 716167,
+          "creation_timestamp": 1581715342,
+          "effective_amount": "0.0",
+          "expiration_height": 2818567,
+          "is_controlling": false,
+          "reposted": 0,
+          "support_amount": "32.998922",
+          "take_over_height": 0,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 43.44935607910156
+        },
+        "name": "@art",
+        "normalized_name": "@art",
+        "nout": 0,
+        "permanent_url": "lbry://@art#7c2c1abed24787c8c2a65fef2793dc2e876b54b3",
+        "short_url": "lbry://@art#7",
+        "timestamp": 1581920192,
+        "txid": "47952a8f3da10a1915d8e4742f6748b274a2146f5ad077d6b829c2e8d21b4a4d",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCUrR2u9y_zTBbXBbHgmvmuQ"
+          },
+          "description": "Watch me as I make a fool out of myself ranting about Linux, Music, and general nerdiness.  Sometimes I sings songs!",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004f6462ede52a5e1c845fc8fc4b73568d4aac3dbfb874485260cb928c9a67cf5b745374b940e2042c1fbd78dd49b47effee3819e4c22fbab917959f51d60193002",
+          "public_key_id": "bMjScvF7qtbMJGNYCeU3ewGjaJt3xc1Ubj",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCUrR2u9y_zTBbXBbHgmvmuQ"
+          },
+          "title": "Arthur Reeder"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1581920192,
+      "txid": "f252b390a8df8fbac648477032165455193eb155fc8992d23de275132dfcd649",
+      "type": "claim",
+      "value": {
+        "description": "I love kdenlive and in this update it's looking to be a very professional application.\n...\nhttps://www.youtube.com/watch?v=XYzOEKlWfwE",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1321634455",
+        "source": {
+          "hash": "dd5995398c671d0c97bf978d01b01166d9f3636e40ef72b078e64b94556d6ce290569faa3de7b9a33588c3da8f65c6df",
+          "media_type": "video/mp4",
+          "name": "kdenlive-0-8-2-first-look-and.mp4",
+          "sd_hash": "0857eedb9b7bf0dd57616bf12b74946d7d6e097227ab10612d0e76552c5374c4a42c47135a851edc0333383d1eb935b8",
+          "size": "15766848"
+        },
+        "stream_type": "video",
+        "tags": [
+          "technology",
+          "editing",
+          "kdenlive",
+          "linux",
+          "look",
+          "mint",
+          "nle",
+          "post",
+          "production",
+          "professional",
+          "proxy",
+          "tools",
+          "ubuntu",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/XYzOEKlWfwE"
+        },
+        "title": "Kdenlive 0.8.2 : first look and my favorite features",
+        "video": {
+          "duration": 152,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+      "amount": "0.005",
+      "canonical_url": "lbry://@tjfree#1/kdenlive-lesson-11-adjust-audio-levels#f",
+      "claim_id": "f89fc450d6fa5d23241487abc588f02f7b7db484",
+      "claim_op": "update",
+      "confirmations": 51325,
+      "height": 666521,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 634616,
+        "creation_height": 634616,
+        "creation_timestamp": 1568647578,
+        "effective_amount": "5.005",
+        "expiration_height": 2737016,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "5.0",
+        "take_over_height": 634616,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "kdenlive-lesson-11-adjust-audio-levels",
+      "normalized_name": "kdenlive-lesson-11-adjust-audio-levels",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-lesson-11-adjust-audio-levels#f89fc450d6fa5d23241487abc588f02f7b7db484",
+      "short_url": "lbry://kdenlive-lesson-11-adjust-audio-levels#f",
+      "signing_channel": {
+        "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+        "amount": "0.005",
+        "canonical_url": "lbry://@tjfree#1",
+        "claim_id": "149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "claim_op": "update",
+        "confirmations": 51325,
+        "has_signing_key": false,
+        "height": 666521,
+        "meta": {
+          "activation_height": 634610,
+          "claims_in_channel": 396,
+          "creation_height": 634610,
+          "creation_timestamp": 1568646573,
+          "effective_amount": "4176.965",
+          "expiration_height": 2737010,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "4176.96",
+          "take_over_height": 634610,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 2.9224363970570266e-05
+        },
+        "name": "@tjfree",
+        "normalized_name": "@tjfree",
+        "nout": 0,
+        "permanent_url": "lbry://@tjfree#149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "short_url": "lbry://@tjfree#1",
+        "timestamp": 1573767616,
+        "txid": "378fea0767817b69dc52d909cf9f79b83495c2f02fa1891d08613ad0cda70773",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "description": "Hi!\n\nI\u2019m Ryndon Ricks, known commonly here as TJ.\n\nI try to provide accurate information for people looking for free alternatives to proprietary and paid software.\n\nAll of the programs recommend here are free to download and use, and most are Free Open Source Software (FOSS).\n\nThese are genuinely free/libre programs who\u2019s creators (in many cases) have chosen to donate their time and ideas in order to create awesome and useful tools for everyone to use. If you find their software useful, please consider donating on their official website(s).\n\nI discovered open source and free software in the mid 2000\u2019s, and noticed a lack of information and education surrounding some of this software.\n\nIn 2009, I uploaded a YouTube video demonstrating my favorite free software applications, showing some of the useful and cool things they can do. \n\nFree software can be incredibly powerful and useful. In some case, even outperforming paid versions of similar software.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000468868b57b5599c5c8706dc222f1daab35573897e3ae63a9fbe3a2752ace4036d7a717c38386dae09a033da70590fc0d147548b19ca82f18a35ce3a9e0ca34a71",
+          "public_key_id": "bTFydm4oZbHjMadUqrKhLR4qvFvNFdautb",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "title": "TJ FREE"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1573767616,
+      "txid": "aae6646213ef1f6d714f968c901bf7fcddedcefe86ae153653af8ec8a4d10095",
+      "type": "claim",
+      "value": {
+        "description": "Kdenlive is a powerful, free and open source video editor. \n\nIt can be downloaded here (for Windows, Linux, and Mac): \nhttps://kdenlive.org/en/\n...\nhttps://www.youtube.com/watch?v=GN1PtMHCCUo",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1534952500",
+        "source": {
+          "hash": "a02d61626c85e1fc0f914193c1221c14632dbfc7a60156afd12f83b5e60d5913cf8b1b934ff0bdb3765bed2b84fa1c9f",
+          "media_type": "video/mp4",
+          "name": "kdenlive-lesson-11-adjust.mp4",
+          "sd_hash": "1cb851c67abecc2fea8fa337c45b66b8a58bee09f78de8fa6f1a964201eb30dc013737f93fa2916cb14bd28ea7abeeef",
+          "size": "17881284"
+        },
+        "stream_type": "video",
+        "tags": [
+          "learning",
+          "audio track",
+          "change volume",
+          "fade in",
+          "fade out",
+          "how to",
+          "kdenlive",
+          "sound settings",
+          "tutorial",
+          "video editing",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/GN1PtMHCCUo"
+        },
+        "title": "Kdenlive Lesson 11 -  Adjust Audio Levels & Volume Control",
+        "video": {
+          "duration": 318,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+      "amount": "0.005",
+      "canonical_url": "lbry://@tjfree#1/kdenlive-lesson-12-picture-slide-show#b",
+      "claim_id": "b4a7bef52035440a4ac53a33f45293bf5319f09b",
+      "claim_op": "update",
+      "confirmations": 51325,
+      "height": 666521,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 634616,
+        "creation_height": 634616,
+        "creation_timestamp": 1568647578,
+        "effective_amount": "10.005",
+        "expiration_height": 2737016,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "10.0",
+        "take_over_height": 634616,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "kdenlive-lesson-12-picture-slide-show",
+      "normalized_name": "kdenlive-lesson-12-picture-slide-show",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-lesson-12-picture-slide-show#b4a7bef52035440a4ac53a33f45293bf5319f09b",
+      "short_url": "lbry://kdenlive-lesson-12-picture-slide-show#b",
+      "signing_channel": {
+        "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+        "amount": "0.005",
+        "canonical_url": "lbry://@tjfree#1",
+        "claim_id": "149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "claim_op": "update",
+        "confirmations": 51325,
+        "has_signing_key": false,
+        "height": 666521,
+        "meta": {
+          "activation_height": 634610,
+          "claims_in_channel": 396,
+          "creation_height": 634610,
+          "creation_timestamp": 1568646573,
+          "effective_amount": "4176.965",
+          "expiration_height": 2737010,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "4176.96",
+          "take_over_height": 634610,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 2.9224363970570266e-05
+        },
+        "name": "@tjfree",
+        "normalized_name": "@tjfree",
+        "nout": 0,
+        "permanent_url": "lbry://@tjfree#149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "short_url": "lbry://@tjfree#1",
+        "timestamp": 1573767616,
+        "txid": "378fea0767817b69dc52d909cf9f79b83495c2f02fa1891d08613ad0cda70773",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "description": "Hi!\n\nI\u2019m Ryndon Ricks, known commonly here as TJ.\n\nI try to provide accurate information for people looking for free alternatives to proprietary and paid software.\n\nAll of the programs recommend here are free to download and use, and most are Free Open Source Software (FOSS).\n\nThese are genuinely free/libre programs who\u2019s creators (in many cases) have chosen to donate their time and ideas in order to create awesome and useful tools for everyone to use. If you find their software useful, please consider donating on their official website(s).\n\nI discovered open source and free software in the mid 2000\u2019s, and noticed a lack of information and education surrounding some of this software.\n\nIn 2009, I uploaded a YouTube video demonstrating my favorite free software applications, showing some of the useful and cool things they can do. \n\nFree software can be incredibly powerful and useful. In some case, even outperforming paid versions of similar software.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000468868b57b5599c5c8706dc222f1daab35573897e3ae63a9fbe3a2752ace4036d7a717c38386dae09a033da70590fc0d147548b19ca82f18a35ce3a9e0ca34a71",
+          "public_key_id": "bTFydm4oZbHjMadUqrKhLR4qvFvNFdautb",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "title": "TJ FREE"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1573767616,
+      "txid": "660a89c7b95376b56dca1589a1885553206791b498e8184ecedf6c0dfa56070a",
+      "type": "claim",
+      "value": {
+        "description": "Kdenlive is a powerful, free and open source video editor. \n\nIt can be downloaded here (for Windows, Linux, and Mac): \nhttps://kdenlive.org/en/\n...\nhttps://www.youtube.com/watch?v=xYUl0oW5n74",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1534952539",
+        "source": {
+          "hash": "c4dc27b25cff91ff3051e929dddc2b0eb4440a072384511197a176487c3889556f3b0686d6b55505fe8212c489ba2570",
+          "media_type": "video/mp4",
+          "name": "kdenlive-lesson-12-picture.mp4",
+          "sd_hash": "4915ca6cb8d7a520cc9d500571230435170ee08392c43c173cbe52b26a6f4526a4698892369edf47f5554ea1dd0331ff",
+          "size": "21139887"
+        },
+        "stream_type": "video",
+        "tags": [
+          "technology",
+          "free slide show",
+          "free video maker",
+          "import images",
+          "kdenlive",
+          "make slide show",
+          "open source",
+          "picture video",
+          "slide show",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/xYUl0oW5n74"
+        },
+        "title": "Kdenlive Lesson 12 - Picture Slide Show",
+        "video": {
+          "duration": 397,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+      "amount": "0.005",
+      "canonical_url": "lbry://@tjfree#1/kdenlive-lesson-20-blur-and-obscure#a",
+      "claim_id": "a8c103a982d0b6e9f2b1b57e4b79ee19cc2f9a28",
+      "claim_op": "update",
+      "confirmations": 51325,
+      "height": 666521,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 634618,
+        "creation_height": 634618,
+        "creation_timestamp": 1568647707,
+        "effective_amount": "15.005",
+        "expiration_height": 2737018,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "15.0",
+        "take_over_height": 634618,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "kdenlive-lesson-20-blur-and-obscure",
+      "normalized_name": "kdenlive-lesson-20-blur-and-obscure",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-lesson-20-blur-and-obscure#a8c103a982d0b6e9f2b1b57e4b79ee19cc2f9a28",
+      "short_url": "lbry://kdenlive-lesson-20-blur-and-obscure#a",
+      "signing_channel": {
+        "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+        "amount": "0.005",
+        "canonical_url": "lbry://@tjfree#1",
+        "claim_id": "149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "claim_op": "update",
+        "confirmations": 51325,
+        "has_signing_key": false,
+        "height": 666521,
+        "meta": {
+          "activation_height": 634610,
+          "claims_in_channel": 396,
+          "creation_height": 634610,
+          "creation_timestamp": 1568646573,
+          "effective_amount": "4176.965",
+          "expiration_height": 2737010,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "4176.96",
+          "take_over_height": 634610,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 2.9224363970570266e-05
+        },
+        "name": "@tjfree",
+        "normalized_name": "@tjfree",
+        "nout": 0,
+        "permanent_url": "lbry://@tjfree#149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "short_url": "lbry://@tjfree#1",
+        "timestamp": 1573767616,
+        "txid": "378fea0767817b69dc52d909cf9f79b83495c2f02fa1891d08613ad0cda70773",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "description": "Hi!\n\nI\u2019m Ryndon Ricks, known commonly here as TJ.\n\nI try to provide accurate information for people looking for free alternatives to proprietary and paid software.\n\nAll of the programs recommend here are free to download and use, and most are Free Open Source Software (FOSS).\n\nThese are genuinely free/libre programs who\u2019s creators (in many cases) have chosen to donate their time and ideas in order to create awesome and useful tools for everyone to use. If you find their software useful, please consider donating on their official website(s).\n\nI discovered open source and free software in the mid 2000\u2019s, and noticed a lack of information and education surrounding some of this software.\n\nIn 2009, I uploaded a YouTube video demonstrating my favorite free software applications, showing some of the useful and cool things they can do. \n\nFree software can be incredibly powerful and useful. In some case, even outperforming paid versions of similar software.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000468868b57b5599c5c8706dc222f1daab35573897e3ae63a9fbe3a2752ace4036d7a717c38386dae09a033da70590fc0d147548b19ca82f18a35ce3a9e0ca34a71",
+          "public_key_id": "bTFydm4oZbHjMadUqrKhLR4qvFvNFdautb",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "title": "TJ FREE"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1573767616,
+      "txid": "f2f3c71b1bcad5c4b51be76e7c68aa89a31c8eb34b952b10173e35169cb5945d",
+      "type": "claim",
+      "value": {
+        "description": "Kdenlive is a powerful, free and open source video editor. \n\nIt can be downloaded here (for Windows, Linux, and Mac): \nhttps://kdenlive.org/en/\n...\nhttps://www.youtube.com/watch?v=irZhvdhmx-U",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1534953289",
+        "source": {
+          "hash": "3b3d635380e46f1e9af385bc46ecc9516719992c22bbe753eaae0a219dfb5151dbf0b623c9f6f1ea9fda65f287a9b98e",
+          "media_type": "video/mp4",
+          "name": "kdenlive-lesson-20-blur-and.mp4",
+          "sd_hash": "603ad4e83a22a2a0fce5251eb1d1f3bb5ce32247ae3caf0239fedd4cdd9c0602ed4a3fbaaf60649ad71868c67364d2e7",
+          "size": "23546665"
+        },
+        "stream_type": "video",
+        "tags": [
+          "learning",
+          "blur effect",
+          "blur out",
+          "how to",
+          "kdenlive",
+          "keep private",
+          "make blurry",
+          "obscure face",
+          "video software",
+          "video tutorial",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/irZhvdhmx-U"
+        },
+        "title": "Kdenlive Lesson 20 - Blur and Obscure",
+        "video": {
+          "duration": 348,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+      "amount": "0.005",
+      "canonical_url": "lbry://@tjfree#1/kdenlive-lesson-19-key-frames-and#a",
+      "claim_id": "aed97fc365ea2a89d6778bbcd4bbfaa86e6294ff",
+      "claim_op": "update",
+      "confirmations": 51325,
+      "height": 666521,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 634618,
+        "creation_height": 634618,
+        "creation_timestamp": 1568647707,
+        "effective_amount": "10.005",
+        "expiration_height": 2737018,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "10.0",
+        "take_over_height": 634618,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "kdenlive-lesson-19-key-frames-and",
+      "normalized_name": "kdenlive-lesson-19-key-frames-and",
+      "nout": 0,
+      "permanent_url": "lbry://kdenlive-lesson-19-key-frames-and#aed97fc365ea2a89d6778bbcd4bbfaa86e6294ff",
+      "short_url": "lbry://kdenlive-lesson-19-key-frames-and#a",
+      "signing_channel": {
+        "address": "bZUN1HT1XDwR97jn2Vr5dPPD3tsoCGZTKW",
+        "amount": "0.005",
+        "canonical_url": "lbry://@tjfree#1",
+        "claim_id": "149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "claim_op": "update",
+        "confirmations": 51325,
+        "has_signing_key": false,
+        "height": 666521,
+        "meta": {
+          "activation_height": 634610,
+          "claims_in_channel": 396,
+          "creation_height": 634610,
+          "creation_timestamp": 1568646573,
+          "effective_amount": "4176.965",
+          "expiration_height": 2737010,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "4176.96",
+          "take_over_height": 634610,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 2.9224363970570266e-05
+        },
+        "name": "@tjfree",
+        "normalized_name": "@tjfree",
+        "nout": 0,
+        "permanent_url": "lbry://@tjfree#149c4686ff0792b8d68dac1f17b6273a85628d34",
+        "short_url": "lbry://@tjfree#1",
+        "timestamp": 1573767616,
+        "txid": "378fea0767817b69dc52d909cf9f79b83495c2f02fa1891d08613ad0cda70773",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "description": "Hi!\n\nI\u2019m Ryndon Ricks, known commonly here as TJ.\n\nI try to provide accurate information for people looking for free alternatives to proprietary and paid software.\n\nAll of the programs recommend here are free to download and use, and most are Free Open Source Software (FOSS).\n\nThese are genuinely free/libre programs who\u2019s creators (in many cases) have chosen to donate their time and ideas in order to create awesome and useful tools for everyone to use. If you find their software useful, please consider donating on their official website(s).\n\nI discovered open source and free software in the mid 2000\u2019s, and noticed a lack of information and education surrounding some of this software.\n\nIn 2009, I uploaded a YouTube video demonstrating my favorite free software applications, showing some of the useful and cool things they can do. \n\nFree software can be incredibly powerful and useful. In some case, even outperforming paid versions of similar software.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000468868b57b5599c5c8706dc222f1daab35573897e3ae63a9fbe3a2752ace4036d7a717c38386dae09a033da70590fc0d147548b19ca82f18a35ce3a9e0ca34a71",
+          "public_key_id": "bTFydm4oZbHjMadUqrKhLR4qvFvNFdautb",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCx-ljiKQcLSd8_4AFi_yaIw"
+          },
+          "title": "TJ FREE"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1573767616,
+      "txid": "b4c60934326f8beac8621e27a82215b232f198c79588d562defe23b3e4eb5434",
+      "type": "claim",
+      "value": {
+        "description": "Kdenlive is a powerful, free and open source video editor. \n\nIt can be downloaded here (for Windows, Linux, and Mac): \nhttps://kdenlive.org/en/\n...\nhttps://www.youtube.com/watch?v=d5RaWR0xMW4",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1534954391",
+        "source": {
+          "hash": "5c1a6114b2f684784dfb0f57fa65289e54d86f98b7b2f990ad72d71c60649c83a484e8fc0d7751494f3d323d781558f7",
+          "media_type": "video/mp4",
+          "name": "kdenlive-lesson-19-key-frames.mp4",
+          "sd_hash": "10ceae4da098c29d00ceade95ce5267be523cf9a891fe3c649e7ebca8abb3481579edcb7a9cfee1ba1faac60be388474",
+          "size": "45508162"
+        },
+        "stream_type": "video",
+        "tags": [
+          "animation tutorial",
+          "cartoon software",
+          "frame animation",
+          "free animation software",
+          "green screen animation",
+          "kdenlive animation",
+          "kdenlive key frames",
+          "keyframes",
+          "screen object",
+          "transparent background",
+          "video editing",
+          "video overlay",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/d5RaWR0xMW4"
+        },
+        "title": "Kdenlive Lesson 19 - Key frames and Animation",
+        "video": {
+          "duration": 462,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bE1dJ53iMqcp4JSBXUzneMpv55JLA4V9XP",
+      "amount": "0.005",
+      "canonical_url": "lbry://@gotbletu#b/qna-03-chromium-kdenlive-compiz-burning#6",
+      "claim_id": "62159017ec3a5b9d843804905e651d4f3c5a8d93",
+      "claim_op": "update",
+      "confirmations": 4351,
+      "height": 713495,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 713012,
+        "creation_height": 713012,
+        "creation_timestamp": 1581211906,
+        "effective_amount": "0.005",
+        "expiration_height": 2815412,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 713012,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "qna-03-chromium-kdenlive-compiz-burning",
+      "normalized_name": "qna-03-chromium-kdenlive-compiz-burning",
+      "nout": 0,
+      "permanent_url": "lbry://qna-03-chromium-kdenlive-compiz-burning#62159017ec3a5b9d843804905e651d4f3c5a8d93",
+      "short_url": "lbry://qna-03-chromium-kdenlive-compiz-burning#6",
+      "signing_channel": {
+        "address": "bE1dJ53iMqcp4JSBXUzneMpv55JLA4V9XP",
+        "amount": "0.005",
+        "canonical_url": "lbry://@gotbletu#b",
+        "claim_id": "bd381ba7c18a95c7ef54b76211e6f45f647f23cf",
+        "claim_op": "update",
+        "confirmations": 4349,
+        "has_signing_key": false,
+        "height": 713497,
+        "meta": {
+          "activation_height": 712705,
+          "claims_in_channel": 998,
+          "creation_height": 712705,
+          "creation_timestamp": 1581162047,
+          "effective_amount": "6.104786",
+          "expiration_height": 2815105,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "6.099786",
+          "take_over_height": 712705,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@gotbletu",
+        "normalized_name": "@gotbletu",
+        "nout": 0,
+        "permanent_url": "lbry://@gotbletu#bd381ba7c18a95c7ef54b76211e6f45f647f23cf",
+        "short_url": "lbry://@gotbletu#b",
+        "timestamp": 1581289799,
+        "txid": "abb3c097c3294b3ed6b3c84b01d7ad0392bd8c2cd05f6919cc9a2b4871afd22a",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCkf4VIqu3Acnfzuk3kRIFwA"
+          },
+          "description": "Talking about open source / linux / freedom software\n\nIf you like to ask a question or submit video ideas, post a comment on any of my existing video or PM/tweet/G+/email\n\nHappy Learning!\n\nModded Consoles:\nPS2 Fat FreeHDBoot / Network Adapter / 200GB\nPS2 Slim FreeMcBoot / Pogoplug with Samba Share / 4TB\nWii Softmodded 2TB Gamecube\nWii Softmodded 2TB Wii\nOriginal Xbox TSOP 2TB\nXbox 360 Fat Falcon RGH1.2 60GB\nXbox 360 Fat Jasper RGH1.2 60GB\nXbox 360 Slim Trinity RGH 250GB\nPS3 Fat CECHA01 REBUG 4.81.2 CFW 60GB\nPS3 Slim 2001A REBUG 4.81.2 CFW / 2TB PSX PSP\nPlaystation Vita TV 3.60 Henkaku Enso 1TB\nPlaystation Vita 1000 3.65 H-Encore Enso 64GB SD2Vita\nPSP 1000 CFW 16GB\nPSP 3000 CFW 16GB\nOld 3DS XL CFW 32GB\nOld 3DS CFW 32GB\nOld 2DS CFW 32GB\n\nNot Modded Yet / Dont Got Yet:\nWii U 32GB\nPS4\nPSP Go\nXbox One\nSwitch",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000400d6bea168b32ae02ef6f2a4f603cd85f57edfdbd39ac2c7984a096bf1c7840ee6405e7b4f6ee0c895b067a3dd117889f4e71b96bc222ff7093d05942b41c852",
+          "public_key_id": "bY9QaWJbjm6tLRaCdehpDcaYT7Z1LQFaDg",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCkf4VIqu3Acnfzuk3kRIFwA"
+          },
+          "title": "gotbletu"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1581289518,
+      "txid": "a33781a082d80e79c9c21d956cf40d97ec0242852b727293bc0a8e859f1b972e",
+      "type": "claim",
+      "value": {
+        "description": "Chromium, Kdenlive, Compiz, Burning, Lite Music Players, UNetBootin, Wallpapers\n\nWallpaper Packs:\nhttp://www.youtube.com/watch?v=KX6UEt632c4\n...\nhttps://www.youtube.com/watch?v=yfkmx5kvK-g",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1281547908",
+        "source": {
+          "hash": "107e5dd97f490211bdfb3fd74adeb100dbda312ae97a78a31eeddf661a77e850f25084a236595c2bb10b0ba89314d8cf",
+          "media_type": "video/mp4",
+          "name": "qna-03-chromium-kdenlive.mp4",
+          "sd_hash": "bcf7a8ab55a073d7fa02cf678562bc1473cb0dc58867093516ca6cad1257cf65e3e48e546c4443ed86ca13763039a0c3",
+          "size": "40177275"
+        },
+        "stream_type": "video",
+        "tags": [
+          "burning",
+          "compiz",
+          "kdenlive",
+          "lite music players",
+          "ubuntu linux qna 03 - chromium",
+          "unetbootin",
+          "wallpapers",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/yfkmx5kvK-g"
+        },
+        "title": "QnA 03 - Chromium, Kdenlive, Compiz, Burning, Lite Music Players, UNetBootin, Wallpapers",
+        "video": {
+          "duration": 728,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    }
+  ],
+  "page": 1,
+  "page_size": 20,
+  "total_items": 782,
+  "total_pages": 40
+}

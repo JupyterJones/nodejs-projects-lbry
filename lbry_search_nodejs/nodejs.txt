@@ -1,0 +1,2402 @@
+{
+  "blocked": {
+    "channels": [],
+    "total": 0
+  },
+  "items": [
+    {
+      "address": "bCjSSXCtvPcZL6XG4rdGuyHiAdbvDFpP1R",
+      "amount": "0.01",
+      "canonical_url": "lbry://@mgtowlifestyle#2/lisk-n-nodejs#0",
+      "claim_id": "07431c90757bd3d9cd8bf7e9b72ce0cc39b9558f",
+      "claim_op": "create",
+      "confirmations": 4127,
+      "height": 713629,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 713629,
+        "creation_height": 713629,
+        "creation_timestamp": 1581309845,
+        "effective_amount": "2.01",
+        "expiration_height": 2816029,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "2.0",
+        "take_over_height": 713629,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "lisk-n-nodejs",
+      "normalized_name": "lisk-n-nodejs",
+      "nout": 0,
+      "permanent_url": "lbry://lisk-n-nodejs#07431c90757bd3d9cd8bf7e9b72ce0cc39b9558f",
+      "short_url": "lbry://lisk-n-nodejs#0",
+      "signing_channel": {
+        "address": "bGeo6X5LHUJXRZXYDsCHq9WmQNSGVY6HEo",
+        "amount": "0.01",
+        "canonical_url": "lbry://@mgtowlifestyle#2",
+        "claim_id": "2669b74ccda0fb62f67da9c450864dd3adfe6227",
+        "claim_op": "update",
+        "confirmations": 126993,
+        "has_signing_key": false,
+        "height": 590763,
+        "meta": {
+          "activation_height": 545779,
+          "claims_in_channel": 1263,
+          "creation_height": 545779,
+          "creation_timestamp": 1554380099,
+          "effective_amount": "0.01",
+          "expiration_height": 2648179,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 545779,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@mgtowlifestyle",
+        "normalized_name": "@mgtowlifestyle",
+        "nout": 0,
+        "permanent_url": "lbry://@mgtowlifestyle#2669b74ccda0fb62f67da9c450864dd3adfe6227",
+        "short_url": "lbry://@mgtowlifestyle#2",
+        "timestamp": 1561576245,
+        "txid": "7eb1a8f6d41050766aeeb34331a8468f9f15411f78efedf6120bbf80f380f70a",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCFXpBFzq5kSxkQ2kELV6Z0Q"
+          },
+          "description": "crypt currency and technology",
+          "locations": [
+            {
+              "country": "IN"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004125819919aef2b8a0ebd7ce4e21ae2c29c2e004b6e329b0d0c7f2d3c291348f3010553a1db6b81384cc1f609f202823e4fbe8c1931855ad6b85e57101fecb674",
+          "public_key_id": "bEjQtmzgWbw7z3VeFPVPWEEAMVonLfMACp",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCFXpBFzq5kSxkQ2kELV6Z0Q"
+          },
+          "title": "MGTOW Lifestyle"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1581309845,
+      "txid": "f1d62105dc22a9e8cf29c6f4a5843253c74dcee1cfac6088529e629cd665bdf3",
+      "type": "claim",
+      "value": {
+        "description": "Lisk release Nodejs sdk\n...\nhttps://www.youtube.com/watch?v=dzOdmxBs3io",
+        "languages": [
+          "hi"
+        ],
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1581308350",
+        "source": {
+          "hash": "d2923f3ada1d4ed72c8be9734072fd26eefc9ff9c65cb87a9f30a8bbc4ea7c4aa4220cef79e54ed9d9509b022dd4845f",
+          "media_type": "video/mp4",
+          "name": "lisk-n-nodejs.mp4",
+          "sd_hash": "2748ffe4b495b776fca8e73208970a7dd7b3fdab31fcba87b5192a2a1a7c7936cd24f0f3cf49c1dcc4b6d7a73deeda1e",
+          "size": "11185393"
+        },
+        "stream_type": "video",
+        "tags": [
+          "education"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/dzOdmxBs3io"
+        },
+        "title": "Lisk n Nodejs",
+        "video": {
+          "duration": 102,
+          "height": 720,
+          "width": 406
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bJLYUcvdhH7HagMgAWxHg8yTitMffgqZGN",
+      "amount": "0.01",
+      "canonical_url": "lbry://@mgtowlifestyle#2/javascript-nodejs-n-javascript#5",
+      "claim_id": "5a8bec0d0d6327568ee94014c74842bf3c17c7c1",
+      "claim_op": "update",
+      "confirmations": 126990,
+      "height": 590766,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 545786,
+        "creation_height": 545786,
+        "creation_timestamp": 1554381854,
+        "effective_amount": "22.01",
+        "expiration_height": 2648186,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "22.0",
+        "take_over_height": 545786,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "javascript-nodejs-n-javascript",
+      "normalized_name": "javascript-nodejs-n-javascript",
+      "nout": 0,
+      "permanent_url": "lbry://javascript-nodejs-n-javascript#5a8bec0d0d6327568ee94014c74842bf3c17c7c1",
+      "short_url": "lbry://javascript-nodejs-n-javascript#5",
+      "signing_channel": {
+        "address": "bGeo6X5LHUJXRZXYDsCHq9WmQNSGVY6HEo",
+        "amount": "0.01",
+        "canonical_url": "lbry://@mgtowlifestyle#2",
+        "claim_id": "2669b74ccda0fb62f67da9c450864dd3adfe6227",
+        "claim_op": "update",
+        "confirmations": 126993,
+        "has_signing_key": false,
+        "height": 590763,
+        "meta": {
+          "activation_height": 545779,
+          "claims_in_channel": 1263,
+          "creation_height": 545779,
+          "creation_timestamp": 1554380099,
+          "effective_amount": "0.01",
+          "expiration_height": 2648179,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 545779,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@mgtowlifestyle",
+        "normalized_name": "@mgtowlifestyle",
+        "nout": 0,
+        "permanent_url": "lbry://@mgtowlifestyle#2669b74ccda0fb62f67da9c450864dd3adfe6227",
+        "short_url": "lbry://@mgtowlifestyle#2",
+        "timestamp": 1561576245,
+        "txid": "7eb1a8f6d41050766aeeb34331a8468f9f15411f78efedf6120bbf80f380f70a",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCFXpBFzq5kSxkQ2kELV6Z0Q"
+          },
+          "description": "crypt currency and technology",
+          "locations": [
+            {
+              "country": "IN"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004125819919aef2b8a0ebd7ce4e21ae2c29c2e004b6e329b0d0c7f2d3c291348f3010553a1db6b81384cc1f609f202823e4fbe8c1931855ad6b85e57101fecb674",
+          "public_key_id": "bEjQtmzgWbw7z3VeFPVPWEEAMVonLfMACp",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCFXpBFzq5kSxkQ2kELV6Z0Q"
+          },
+          "title": "MGTOW Lifestyle"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1561576754,
+      "txid": "8fac719945233c2edbde603b4bc97ab71366b8efafd5d674ef822f386ef85772",
+      "type": "claim",
+      "value": {
+        "description": "How to learn Nodejs fast\n...\nhttps://www.youtube.com/watch?v=5FaK207hQ7U",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1534861477",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "35c454cf834feec7245fea47f1d1b5c8e07c79bffc0719881f1a5756797eba221e5ed6cf3f80b0afebdc498772e04f25",
+          "size": "38631190"
+        },
+        "stream_type": "video",
+        "tags": [
+          "comedy"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/5FaK207hQ7U"
+        },
+        "title": "JavaScript Nodejs n JavaScript frameworks",
+        "video": {
+          "duration": 901,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+      "amount": "0.005",
+      "canonical_url": "lbry://@smallacademy#7/execute-mysql-query-using-nodejs-nodejs#8",
+      "claim_id": "8f93fd40bb6f0513bae3dd864632297dc2fa7d78",
+      "claim_op": "update",
+      "confirmations": 16531,
+      "height": 701225,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 701204,
+        "creation_height": 701204,
+        "creation_timestamp": 1579318894,
+        "effective_amount": "3.005",
+        "expiration_height": 2803604,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "3.0",
+        "take_over_height": 701204,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "execute-mysql-query-using-nodejs-nodejs",
+      "normalized_name": "execute-mysql-query-using-nodejs-nodejs",
+      "nout": 0,
+      "permanent_url": "lbry://execute-mysql-query-using-nodejs-nodejs#8f93fd40bb6f0513bae3dd864632297dc2fa7d78",
+      "short_url": "lbry://execute-mysql-query-using-nodejs-nodejs#8",
+      "signing_channel": {
+        "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+        "amount": "0.005",
+        "canonical_url": "lbry://@smallacademy#7",
+        "claim_id": "73457c7f7df871f2dccb23f63f1da97203612590",
+        "claim_op": "update",
+        "confirmations": 16531,
+        "has_signing_key": false,
+        "height": 701225,
+        "meta": {
+          "activation_height": 701200,
+          "claims_in_channel": 135,
+          "creation_height": 701200,
+          "creation_timestamp": 1579318226,
+          "effective_amount": "0.005",
+          "expiration_height": 2803600,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 701200,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@smallacademy",
+        "normalized_name": "@smallacademy",
+        "nout": 0,
+        "permanent_url": "lbry://@smallacademy#73457c7f7df871f2dccb23f63f1da97203612590",
+        "short_url": "lbry://@smallacademy#7",
+        "timestamp": 1579321221,
+        "txid": "f0473361b63c8c9c6edaf25360bd4c11ad8a0963fd64ab8f318ec4ae2813da31",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "description": "Small Academy is Channel for programmers. Here we upload Programming Videos Tutorials on HTML / CSS / PYTHON / NODEJS / PHOTOSHOP and Many More.\nAfter All We are  Small Academy with Bigger Dreams and Determinations.",
+          "locations": [
+            {
+              "country": "NP"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000422b9a6cc93d2f6af10a984103119e1a3d63ec199a62c3358116f0cc2a1bf4b366b0d7175a2d5d8495ab9eb49009d4c40aa83f611180f197fb6efe2a08a9d1ba6",
+          "public_key_id": "baVuUkFLgejeGtNsb7naXJRmq6ko3CvnAY",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "title": "Small Academy"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1579321221,
+      "txid": "1ce80c9e3fb55c068421a8ebd4fb0a9b746af20f2feed6ecee7c78360c4d3a6a",
+      "type": "claim",
+      "value": {
+        "description": "Learn How to insert data in mysql database using nodejs , also learn How to Create database, database table using nodejs, \n\nHow to Connect MySQL to NODEJS : https://www.youtube.com/watch?v=730-Zgc3DvM\n\nCreate Your First Node APP : https://www.youtube.com/watch?v=YI91qNDeaDk\n\n-~-~~-~~~-~~-~-\nPlease watch: \"Render SCSS to CSS Nodejs | SCSS Tutorials For Front-End Web Development \" \nhttps://www.youtube.com/watch?v=ItCGgKg2pUY\n-~-~~-~~~-~~-~-\n...\nhttps://www.youtube.com/watch?v=JCfxcGDkU7g",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1548841863",
+        "source": {
+          "hash": "1e91adf6b7665f1a012848176989c4dbfb9f486fd62c69b6ad72111dee7cc56019d5c65044f08e420e081651d95de3c0",
+          "media_type": "video/mp4",
+          "name": "execute-mysql-query-using.mp4",
+          "sd_hash": "16c670db99ef145f9256468f23e4e2468f1647a4f8d462b975bd5b5e251269a24fe0ae66f729e2659cbec6e0dc87be77",
+          "size": "15101166"
+        },
+        "stream_type": "video",
+        "tags": [
+          "create nodejs app",
+          "execute mysql nodejs",
+          "install nodejs",
+          "mysql and pug with express and nodejs",
+          "mysqlnodejs",
+          "node js express",
+          "node js tutorial",
+          "node js with pug and express and mysql",
+          "node with express and mysql tutorials",
+          "nodejs and mysql tutorials",
+          "nodejs mysql query",
+          "nodejs tutorials",
+          "nodejs tutorials windows",
+          "pug with nodejs tutorial",
+          "setup nodejs",
+          "sql query with nodejs",
+          "howto & style"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/JCfxcGDkU7g"
+        },
+        "title": "Execute MySQL Query Using NodeJS | NodeJS With MySQL Tutorial",
+        "video": {
+          "duration": 521,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bRgZm5DdqoRiEH6JsYVnJSWkoynzvTkfH4",
+      "amount": "0.005",
+      "canonical_url": "lbry://@mlibre#e/how-to-install-nodejs-in-android-using#1",
+      "claim_id": "13179fd0eb4bcfb21dc9d53c34b30faf2284e516",
+      "claim_op": "update",
+      "confirmations": 67445,
+      "height": 650311,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 545215,
+        "creation_height": 545215,
+        "creation_timestamp": 1554291220,
+        "effective_amount": "4.005",
+        "expiration_height": 2647615,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "4.0",
+        "take_over_height": 545215,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "how-to-install-nodejs-in-android-using",
+      "normalized_name": "how-to-install-nodejs-in-android-using",
+      "nout": 0,
+      "permanent_url": "lbry://how-to-install-nodejs-in-android-using#13179fd0eb4bcfb21dc9d53c34b30faf2284e516",
+      "short_url": "lbry://how-to-install-nodejs-in-android-using#1",
+      "signing_channel": {
+        "address": "bRgZm5DdqoRiEH6JsYVnJSWkoynzvTkfH4",
+        "amount": "0.005",
+        "canonical_url": "lbry://@mlibre#e",
+        "claim_id": "e2b347558eec20aee84bf4657efa3832bb5a4ab9",
+        "claim_op": "update",
+        "confirmations": 57700,
+        "has_signing_key": false,
+        "height": 660056,
+        "meta": {
+          "activation_height": 545213,
+          "claims_in_channel": 163,
+          "creation_height": 545213,
+          "creation_timestamp": 1554290885,
+          "effective_amount": "1625.001585",
+          "expiration_height": 2647613,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "1624.996585",
+          "take_over_height": 545336,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@mlibre",
+        "normalized_name": "@mlibre",
+        "nout": 0,
+        "permanent_url": "lbry://@mlibre#e2b347558eec20aee84bf4657efa3832bb5a4ab9",
+        "short_url": "lbry://@mlibre#e",
+        "timestamp": 1572723559,
+        "txid": "9a99b4b8c3cfad5716c6746c7d5f1411cfaaf84599a7bab43b9774a9738ad52a",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCxA2_NVyYKqJzL0Mt6cUIzQ"
+          },
+          "description": "Linux Tutorials, Free & OpenSource.\nFor the better world.",
+          "email": "mlibrego@protonmail.com",
+          "locations": [
+            {
+              "country": "GE"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004d49a5f4d785db5d1511852e57173c902950ac5b008dfbdb80fae528da15be5284887c420932ac5c02e991ada20478bb034c8dcb0ef4630655df83f93a226e115",
+          "public_key_id": "bbAzkC3bmwWRh15fiCb2dRvgHztyz7Mn9F",
+          "tags": [
+            "gameplay",
+            "learning",
+            "linux",
+            "tip",
+            "how to",
+            "terminal",
+            "open source",
+            "science",
+            "online learning",
+            "learn",
+            "tutorial",
+            "crypto",
+            "cryptocurrency",
+            "education"
+          ],
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCxA2_NVyYKqJzL0Mt6cUIzQ"
+          },
+          "title": "m libre"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1571161503,
+      "txid": "a1f9214a47e8942e59d93a331154b009b1ea8b8fb5dbf7679f978555d58bc6bc",
+      "type": "claim",
+      "value": {
+        "description": "How to install Nodejs in android using Termux.\nCommands:\n# Install/Open Termux.\napt update\napt upgrade\napt install coreutils nano\napt install nodejs\nnode\nconsole.log(\"Hi Have Fun\")\n...\nhttps://www.youtube.com/watch?v=0i4ve79qPhw",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1550499200",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "62341bf2073a1ea6e00ae5d92db6dcd2e67640c43e2749446b7f1098e31cd2fb6dc7b6a5c3a51708f4228a2e84123ced",
+          "size": "6729735"
+        },
+        "stream_type": "video",
+        "tags": [
+          "andorid",
+          "nodejs",
+          "termux",
+          "education"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/0i4ve79qPhw"
+        },
+        "title": "How to install Nodejs in android using Termux",
+        "video": {
+          "duration": 115,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bMSyaAn1aXw66VK8iFru11XbYQCgpTChon",
+      "amount": "1.0",
+      "canonical_url": "lbry://nodejs#2",
+      "claim_id": "22699f3fa106c252e7e59c3b713b9434f88fd012",
+      "claim_op": "create",
+      "confirmations": 501447,
+      "height": 216309,
+      "meta": {
+        "activation_height": 216309,
+        "creation_height": 216309,
+        "creation_timestamp": 1501581357,
+        "effective_amount": "2.0",
+        "expiration_height": 2318709,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "1.0",
+        "take_over_height": 216309,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "nodejs",
+      "normalized_name": "nodejs",
+      "nout": 1,
+      "permanent_url": "lbry://nodejs#22699f3fa106c252e7e59c3b713b9434f88fd012",
+      "short_url": "lbry://nodejs#2",
+      "timestamp": 1501581357,
+      "txid": "62a98b01d5385ee082971f5e96e5c96b58b37b96d35d25310179b1a1133cdd49",
+      "type": "claim",
+      "value": {
+        "description": "A great free open source node.js ebook created by T.J.Holowaychuk that will help you to master node.js. This free node.js ebook is available in pdf format.",
+        "fee": {
+          "address": "bWgnM8yebdpADCPRMuFcMyExAwuEjKahcE",
+          "amount": "1",
+          "currency": "USD"
+        },
+        "languages": [
+          "en"
+        ],
+        "license": "Public Domain",
+        "source": {
+          "media_type": "application/pdf",
+          "sd_hash": "93d16904165552ae93d66ad55d6b4c772758bb67dca3213a23eaeff955ec6a2e6b0508f1c39c204527b00339820c0fca"
+        },
+        "stream_type": "document",
+        "thumbnail": {},
+        "title": "[E-book] Mastering NodeJS"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bRgZm5DdqoRiEH6JsYVnJSWkoynzvTkfH4",
+      "amount": "0.005",
+      "canonical_url": "lbry://@mlibre#e/install-nodejs-in-linux-ubuntu-mint#8",
+      "claim_id": "8afe8658932db8a54212c9110d3dcf213b3120ba",
+      "claim_op": "update",
+      "confirmations": 67445,
+      "height": 650311,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 545215,
+        "creation_height": 545215,
+        "creation_timestamp": 1554291220,
+        "effective_amount": "0.005",
+        "expiration_height": 2647615,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 545215,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "install-nodejs-in-linux-ubuntu-mint",
+      "normalized_name": "install-nodejs-in-linux-ubuntu-mint",
+      "nout": 0,
+      "permanent_url": "lbry://install-nodejs-in-linux-ubuntu-mint#8afe8658932db8a54212c9110d3dcf213b3120ba",
+      "short_url": "lbry://install-nodejs-in-linux-ubuntu-mint#8",
+      "signing_channel": {
+        "address": "bRgZm5DdqoRiEH6JsYVnJSWkoynzvTkfH4",
+        "amount": "0.005",
+        "canonical_url": "lbry://@mlibre#e",
+        "claim_id": "e2b347558eec20aee84bf4657efa3832bb5a4ab9",
+        "claim_op": "update",
+        "confirmations": 57700,
+        "has_signing_key": false,
+        "height": 660056,
+        "meta": {
+          "activation_height": 545213,
+          "claims_in_channel": 163,
+          "creation_height": 545213,
+          "creation_timestamp": 1554290885,
+          "effective_amount": "1625.001585",
+          "expiration_height": 2647613,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "1624.996585",
+          "take_over_height": 545336,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@mlibre",
+        "normalized_name": "@mlibre",
+        "nout": 0,
+        "permanent_url": "lbry://@mlibre#e2b347558eec20aee84bf4657efa3832bb5a4ab9",
+        "short_url": "lbry://@mlibre#e",
+        "timestamp": 1572723559,
+        "txid": "9a99b4b8c3cfad5716c6746c7d5f1411cfaaf84599a7bab43b9774a9738ad52a",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCxA2_NVyYKqJzL0Mt6cUIzQ"
+          },
+          "description": "Linux Tutorials, Free & OpenSource.\nFor the better world.",
+          "email": "mlibrego@protonmail.com",
+          "locations": [
+            {
+              "country": "GE"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004d49a5f4d785db5d1511852e57173c902950ac5b008dfbdb80fae528da15be5284887c420932ac5c02e991ada20478bb034c8dcb0ef4630655df83f93a226e115",
+          "public_key_id": "bbAzkC3bmwWRh15fiCb2dRvgHztyz7Mn9F",
+          "tags": [
+            "gameplay",
+            "learning",
+            "linux",
+            "tip",
+            "how to",
+            "terminal",
+            "open source",
+            "science",
+            "online learning",
+            "learn",
+            "tutorial",
+            "crypto",
+            "cryptocurrency",
+            "education"
+          ],
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCxA2_NVyYKqJzL0Mt6cUIzQ"
+          },
+          "title": "m libre"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1571161503,
+      "txid": "c94991db1fd5c89938d86cfbb80c931debe8b438e0822c80d8ac1985e0c4ee82",
+      "type": "claim",
+      "value": {
+        "description": "How to install Node.js in Linux Mint.\nCommands:\ncurl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -\nsudo apt-get install -y nodejs\n...\nhttps://www.youtube.com/watch?v=t2b7jVhGNmg",
+        "languages": [
+          "en-GB"
+        ],
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1546800811",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "591a31225f84466f65d60daafc48c62db194e486bc98294a0f4a899bb292ca617b43223fe15efa0165d5263786de1de6",
+          "size": "15678114"
+        },
+        "stream_type": "video",
+        "tags": [
+          "technology",
+          "installation",
+          "linux",
+          "mint",
+          "node",
+          "nodejs",
+          "education"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/t2b7jVhGNmg"
+        },
+        "title": "Install nodejs in Linux Ubuntu, Mint",
+        "video": {
+          "duration": 219,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bRgZm5DdqoRiEH6JsYVnJSWkoynzvTkfH4",
+      "amount": "0.005",
+      "canonical_url": "lbry://@mlibre#e/automatic-reload-nodejs-app-on-mempry#4",
+      "claim_id": "49e1553f44c3da9d1e3dc6823142314065ec7001",
+      "claim_op": "update",
+      "confirmations": 67445,
+      "height": 650311,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 551758,
+        "creation_height": 551758,
+        "creation_timestamp": 1555336926,
+        "effective_amount": "0.005",
+        "expiration_height": 2654158,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 551758,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "automatic-reload-nodejs-app-on-mempry",
+      "normalized_name": "automatic-reload-nodejs-app-on-mempry",
+      "nout": 0,
+      "permanent_url": "lbry://automatic-reload-nodejs-app-on-mempry#49e1553f44c3da9d1e3dc6823142314065ec7001",
+      "short_url": "lbry://automatic-reload-nodejs-app-on-mempry#4",
+      "signing_channel": {
+        "address": "bRgZm5DdqoRiEH6JsYVnJSWkoynzvTkfH4",
+        "amount": "0.005",
+        "canonical_url": "lbry://@mlibre#e",
+        "claim_id": "e2b347558eec20aee84bf4657efa3832bb5a4ab9",
+        "claim_op": "update",
+        "confirmations": 57700,
+        "has_signing_key": false,
+        "height": 660056,
+        "meta": {
+          "activation_height": 545213,
+          "claims_in_channel": 163,
+          "creation_height": 545213,
+          "creation_timestamp": 1554290885,
+          "effective_amount": "1625.001585",
+          "expiration_height": 2647613,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "1624.996585",
+          "take_over_height": 545336,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@mlibre",
+        "normalized_name": "@mlibre",
+        "nout": 0,
+        "permanent_url": "lbry://@mlibre#e2b347558eec20aee84bf4657efa3832bb5a4ab9",
+        "short_url": "lbry://@mlibre#e",
+        "timestamp": 1572723559,
+        "txid": "9a99b4b8c3cfad5716c6746c7d5f1411cfaaf84599a7bab43b9774a9738ad52a",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCxA2_NVyYKqJzL0Mt6cUIzQ"
+          },
+          "description": "Linux Tutorials, Free & OpenSource.\nFor the better world.",
+          "email": "mlibrego@protonmail.com",
+          "locations": [
+            {
+              "country": "GE"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004d49a5f4d785db5d1511852e57173c902950ac5b008dfbdb80fae528da15be5284887c420932ac5c02e991ada20478bb034c8dcb0ef4630655df83f93a226e115",
+          "public_key_id": "bbAzkC3bmwWRh15fiCb2dRvgHztyz7Mn9F",
+          "tags": [
+            "gameplay",
+            "learning",
+            "linux",
+            "tip",
+            "how to",
+            "terminal",
+            "open source",
+            "science",
+            "online learning",
+            "learn",
+            "tutorial",
+            "crypto",
+            "cryptocurrency",
+            "education"
+          ],
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCxA2_NVyYKqJzL0Mt6cUIzQ"
+          },
+          "title": "m libre"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1571161503,
+      "txid": "2909185a95e62281d2d0d775e1ba3412731045377722330b90d4087b1932ccda",
+      "type": "claim",
+      "value": {
+        "description": "Automatic Reload Nodejs app on memory leak or memory threshold.\nCommands:\npm2 start index.js --max-memory-restart 30M\n...\nhttps://www.youtube.com/watch?v=WPGU3NbvuO8",
+        "languages": [
+          "en-GB"
+        ],
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1555271197",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "f11f21857a4c95f2e3e602a1780893d10521683edee64710283d57b0183b444cb68d884a907d3c9778d7f2169b7fcc1a",
+          "size": "3161370"
+        },
+        "stream_type": "video",
+        "tags": [
+          "technology",
+          "30m",
+          "automatic",
+          "leak",
+          "linux",
+          "max",
+          "memory",
+          "nodejs",
+          "pm2",
+          "reload",
+          "restart",
+          "education"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/WPGU3NbvuO8"
+        },
+        "title": "Automatic Reload Nodejs app on mempry leak or memory threshold",
+        "video": {
+          "duration": 63,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+      "amount": "0.005",
+      "canonical_url": "lbry://@smallacademy#7/use-static-files-with-pug-in-nodejs#c",
+      "claim_id": "cbc77c470e094058cfe5f8f2511a0962b4a034ff",
+      "claim_op": "update",
+      "confirmations": 16531,
+      "height": 701225,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 701204,
+        "creation_height": 701204,
+        "creation_timestamp": 1579318894,
+        "effective_amount": "0.005",
+        "expiration_height": 2803604,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 701204,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "use-static-files-with-pug-in-nodejs",
+      "normalized_name": "use-static-files-with-pug-in-nodejs",
+      "nout": 0,
+      "permanent_url": "lbry://use-static-files-with-pug-in-nodejs#cbc77c470e094058cfe5f8f2511a0962b4a034ff",
+      "short_url": "lbry://use-static-files-with-pug-in-nodejs#c",
+      "signing_channel": {
+        "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+        "amount": "0.005",
+        "canonical_url": "lbry://@smallacademy#7",
+        "claim_id": "73457c7f7df871f2dccb23f63f1da97203612590",
+        "claim_op": "update",
+        "confirmations": 16531,
+        "has_signing_key": false,
+        "height": 701225,
+        "meta": {
+          "activation_height": 701200,
+          "claims_in_channel": 135,
+          "creation_height": 701200,
+          "creation_timestamp": 1579318226,
+          "effective_amount": "0.005",
+          "expiration_height": 2803600,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 701200,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@smallacademy",
+        "normalized_name": "@smallacademy",
+        "nout": 0,
+        "permanent_url": "lbry://@smallacademy#73457c7f7df871f2dccb23f63f1da97203612590",
+        "short_url": "lbry://@smallacademy#7",
+        "timestamp": 1579321221,
+        "txid": "f0473361b63c8c9c6edaf25360bd4c11ad8a0963fd64ab8f318ec4ae2813da31",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "description": "Small Academy is Channel for programmers. Here we upload Programming Videos Tutorials on HTML / CSS / PYTHON / NODEJS / PHOTOSHOP and Many More.\nAfter All We are  Small Academy with Bigger Dreams and Determinations.",
+          "locations": [
+            {
+              "country": "NP"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000422b9a6cc93d2f6af10a984103119e1a3d63ec199a62c3358116f0cc2a1bf4b366b0d7175a2d5d8495ab9eb49009d4c40aa83f611180f197fb6efe2a08a9d1ba6",
+          "public_key_id": "baVuUkFLgejeGtNsb7naXJRmq6ko3CvnAY",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "title": "Small Academy"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1579321221,
+      "txid": "8042d4aed081230d8c781604149445ee0caa50a45651f11561465c5529259b87",
+      "type": "claim",
+      "value": {
+        "description": "Learn How to use CSS and Javascript With PUG template engine and customize the web page for nodejs Application. \n\nCheck Out More Nodejs Tutorials With PUG Template Engine on our Complete Playlist below :\n\n-~-~~-~~~-~~-~-\nPlease watch: \"Render SCSS to CSS Nodejs | SCSS Tutorials For Front-End Web Development \" \nhttps://www.youtube.com/watch?v=ItCGgKg2pUY\n-~-~~-~~~-~~-~-\n...\nhttps://www.youtube.com/watch?v=ZhGHIn0Xfj8",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1549453494",
+        "source": {
+          "hash": "955600d33e251a285a2cd57c5d43496571ccd814e82d1512205108399dac2fb8ef6446ef587d6717ad92a575b40d5940",
+          "media_type": "video/mp4",
+          "name": "use-static-files-with-pug-in.mp4",
+          "sd_hash": "1eea8dc519e4671b765c70c3730c3c7361dec6dd02dc7655ded0a75f43d97d88ed31226c2314b1233fd328ead3b4709b",
+          "size": "9552948"
+        },
+        "stream_type": "video",
+        "tags": [
+          "nodejs",
+          "nodejs and pug",
+          "nodejs tutorials",
+          "pug and css",
+          "pug nodejs css",
+          "pug template",
+          "use css with pug",
+          "use javascript with pug",
+          "webdesign with pug",
+          "howto & style"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/ZhGHIn0Xfj8"
+        },
+        "title": "Use Static Files With PUG in Nodejs | Nodejs With Pug Tutorials",
+        "video": {
+          "duration": 402,
+          "height": 694,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHfrXyKnFhxcHCTq7nt6F2amYQRRPdpd7g",
+      "amount": "0.005",
+      "canonical_url": "lbry://@luigitecnologo#c/corso-javascript-cos-nodejs-jquery-2#f",
+      "claim_id": "f5bf61fe272fff6f79b4cb2d1097203cbf81833c",
+      "claim_op": "update",
+      "confirmations": 11845,
+      "height": 705911,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 689912,
+        "creation_height": 689912,
+        "creation_timestamp": 1577511142,
+        "effective_amount": "0.005",
+        "expiration_height": 2792312,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 689912,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "corso-javascript-cos-nodejs-jquery-2",
+      "normalized_name": "corso-javascript-cos-nodejs-jquery-2",
+      "nout": 0,
+      "permanent_url": "lbry://corso-javascript-cos-nodejs-jquery-2#f5bf61fe272fff6f79b4cb2d1097203cbf81833c",
+      "short_url": "lbry://corso-javascript-cos-nodejs-jquery-2#f",
+      "signing_channel": {
+        "address": "bHfrXyKnFhxcHCTq7nt6F2amYQRRPdpd7g",
+        "amount": "0.005",
+        "canonical_url": "lbry://@luigitecnologo#c",
+        "claim_id": "c1f9f56d67815f8eb8a9d717efc05744b65f2f45",
+        "claim_op": "update",
+        "confirmations": 11844,
+        "has_signing_key": false,
+        "height": 705912,
+        "meta": {
+          "activation_height": 689900,
+          "claims_in_channel": 541,
+          "creation_height": 689900,
+          "creation_timestamp": 1577509341,
+          "effective_amount": "184.000722",
+          "expiration_height": 2792300,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "183.995722",
+          "take_over_height": 689900,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@luigitecnologo",
+        "normalized_name": "@luigitecnologo",
+        "nout": 0,
+        "permanent_url": "lbry://@luigitecnologo#c1f9f56d67815f8eb8a9d717efc05744b65f2f45",
+        "short_url": "lbry://@luigitecnologo#c",
+        "timestamp": 1580071739,
+        "txid": "e866c0388e98dcdba421c2e0066746183cc3fbaa7617c13d51c6dbfe37874937",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UC1TuqB8VMiA5VXFw0-y7AsQ"
+          },
+          "description": "Parlo di tecnologie, criptovalute e tutto quello che mi pare :D",
+          "languages": [
+            "it"
+          ],
+          "locations": [
+            {
+              "country": "IT"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004a889d88ecc67c6dfecc9e6016269916299ba482ac3d7e5a5fb2725dacca90235da5e82f6788596815bcf7becd8ee3b41ab80db0607711280148b4fd12de33537",
+          "public_key_id": "bD4in2TYjpLZPUaPRb2DyDDpQy7xFjo83U",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UC1TuqB8VMiA5VXFw0-y7AsQ"
+          },
+          "title": "Luigi Tecnologo"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1580071603,
+      "txid": "07443579fed8c664beb6c143a0d1fa87bab27b1f42d87ca69bb5a1b4764c6660",
+      "type": "claim",
+      "value": {
+        "description": "https://corso-javascript.it\nVERSIONE con AUDIO aumentato\n...\nhttps://www.youtube.com/watch?v=FJ7HHE4GE2c",
+        "languages": [
+          "it"
+        ],
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1467297239",
+        "source": {
+          "hash": "22fc9d69676fe595321119e33cd03095221a4a88096536111c14b19afd78442a692499291c426423380b12345eb951a1",
+          "media_type": "video/mp4",
+          "name": "corso-javascript-cos-nodejs.mp4",
+          "sd_hash": "cae42a31ae0ef021ae43070c1b279ea5fa36dada5733327f70973284ba2186e0703498c2855547174a6bb36baeed1cff",
+          "size": "32332307"
+        },
+        "stream_type": "video",
+        "tags": [
+          "corso",
+          "es2015",
+          "javascript",
+          "jquery",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/FJ7HHE4GE2c"
+        },
+        "title": "Corso JavaScript - Cos'\u00e9 NodeJS, jQuery, JSON e come funziona una web app",
+        "video": {
+          "duration": 771,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHfrXyKnFhxcHCTq7nt6F2amYQRRPdpd7g",
+      "amount": "0.005",
+      "canonical_url": "lbry://@luigitecnologo#c/corso-javascript-cos-nodejs-jquery-json#2",
+      "claim_id": "26d8cd4f9ae6d06dd9ddd5879a04dccd11799fba",
+      "claim_op": "update",
+      "confirmations": 11846,
+      "height": 705910,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 689912,
+        "creation_height": 689912,
+        "creation_timestamp": 1577511142,
+        "effective_amount": "0.005",
+        "expiration_height": 2792312,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 689912,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "corso-javascript-cos-nodejs-jquery-json",
+      "normalized_name": "corso-javascript-cos-nodejs-jquery-json",
+      "nout": 0,
+      "permanent_url": "lbry://corso-javascript-cos-nodejs-jquery-json#26d8cd4f9ae6d06dd9ddd5879a04dccd11799fba",
+      "short_url": "lbry://corso-javascript-cos-nodejs-jquery-json#2",
+      "signing_channel": {
+        "address": "bHfrXyKnFhxcHCTq7nt6F2amYQRRPdpd7g",
+        "amount": "0.005",
+        "canonical_url": "lbry://@luigitecnologo#c",
+        "claim_id": "c1f9f56d67815f8eb8a9d717efc05744b65f2f45",
+        "claim_op": "update",
+        "confirmations": 11844,
+        "has_signing_key": false,
+        "height": 705912,
+        "meta": {
+          "activation_height": 689900,
+          "claims_in_channel": 541,
+          "creation_height": 689900,
+          "creation_timestamp": 1577509341,
+          "effective_amount": "184.000722",
+          "expiration_height": 2792300,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "183.995722",
+          "take_over_height": 689900,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@luigitecnologo",
+        "normalized_name": "@luigitecnologo",
+        "nout": 0,
+        "permanent_url": "lbry://@luigitecnologo#c1f9f56d67815f8eb8a9d717efc05744b65f2f45",
+        "short_url": "lbry://@luigitecnologo#c",
+        "timestamp": 1580071739,
+        "txid": "e866c0388e98dcdba421c2e0066746183cc3fbaa7617c13d51c6dbfe37874937",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UC1TuqB8VMiA5VXFw0-y7AsQ"
+          },
+          "description": "Parlo di tecnologie, criptovalute e tutto quello che mi pare :D",
+          "languages": [
+            "it"
+          ],
+          "locations": [
+            {
+              "country": "IT"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004a889d88ecc67c6dfecc9e6016269916299ba482ac3d7e5a5fb2725dacca90235da5e82f6788596815bcf7becd8ee3b41ab80db0607711280148b4fd12de33537",
+          "public_key_id": "bD4in2TYjpLZPUaPRb2DyDDpQy7xFjo83U",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UC1TuqB8VMiA5VXFw0-y7AsQ"
+          },
+          "title": "Luigi Tecnologo"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1580071496,
+      "txid": "5dced82f60082c6828c8b6edb11c5fed55f4351e9822ce520db1b18aaf1cbfb7",
+      "type": "claim",
+      "value": {
+        "description": "https://corso-javascript.it\nVERSIONE CON AUDIO AUMENTATO https://www.youtube.com/watch?v=FJ7HHE4GE2c\n...\nhttps://www.youtube.com/watch?v=wUSz6Zo-qHg",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1442828999",
+        "source": {
+          "hash": "795d6a3d09b79ca827dcc8686df2cbb42af7660815e7b35a7d87ad4cc19957157714998693cc17adb058d2aa2cb18599",
+          "media_type": "video/mp4",
+          "name": "corso-javascript-cos-nodejs.mp4",
+          "sd_hash": "a91800e8be4c3c32f86bc1e3919d8c910afff681956a8a04de22aee51e3c2aada5c29fa01b38c464f1394d58f57b3f65",
+          "size": "29731492"
+        },
+        "stream_type": "video",
+        "tags": [
+          "javascript",
+          "jquery",
+          "json",
+          "nodejs",
+          "web application",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/wUSz6Zo-qHg"
+        },
+        "title": "Corso JavaScript - Cos'\u00e9 NodeJS, jQuery, JSON e come funziona una web app [AUDIO BASSO]",
+        "video": {
+          "duration": 771,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+      "amount": "0.005",
+      "canonical_url": "lbry://@smallacademy#7/nodejs-and-mysql-with-pug-tutorial#1",
+      "claim_id": "12f3856982c13b353ed0372e3f66e330b7ffd77f",
+      "claim_op": "update",
+      "confirmations": 16531,
+      "height": 701225,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 701204,
+        "creation_height": 701204,
+        "creation_timestamp": 1579318894,
+        "effective_amount": "0.005",
+        "expiration_height": 2803604,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 701204,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "nodejs-and-mysql-with-pug-tutorial",
+      "normalized_name": "nodejs-and-mysql-with-pug-tutorial",
+      "nout": 0,
+      "permanent_url": "lbry://nodejs-and-mysql-with-pug-tutorial#12f3856982c13b353ed0372e3f66e330b7ffd77f",
+      "short_url": "lbry://nodejs-and-mysql-with-pug-tutorial#1",
+      "signing_channel": {
+        "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+        "amount": "0.005",
+        "canonical_url": "lbry://@smallacademy#7",
+        "claim_id": "73457c7f7df871f2dccb23f63f1da97203612590",
+        "claim_op": "update",
+        "confirmations": 16531,
+        "has_signing_key": false,
+        "height": 701225,
+        "meta": {
+          "activation_height": 701200,
+          "claims_in_channel": 135,
+          "creation_height": 701200,
+          "creation_timestamp": 1579318226,
+          "effective_amount": "0.005",
+          "expiration_height": 2803600,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 701200,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@smallacademy",
+        "normalized_name": "@smallacademy",
+        "nout": 0,
+        "permanent_url": "lbry://@smallacademy#73457c7f7df871f2dccb23f63f1da97203612590",
+        "short_url": "lbry://@smallacademy#7",
+        "timestamp": 1579321221,
+        "txid": "f0473361b63c8c9c6edaf25360bd4c11ad8a0963fd64ab8f318ec4ae2813da31",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "description": "Small Academy is Channel for programmers. Here we upload Programming Videos Tutorials on HTML / CSS / PYTHON / NODEJS / PHOTOSHOP and Many More.\nAfter All We are  Small Academy with Bigger Dreams and Determinations.",
+          "locations": [
+            {
+              "country": "NP"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000422b9a6cc93d2f6af10a984103119e1a3d63ec199a62c3358116f0cc2a1bf4b366b0d7175a2d5d8495ab9eb49009d4c40aa83f611180f197fb6efe2a08a9d1ba6",
+          "public_key_id": "baVuUkFLgejeGtNsb7naXJRmq6ko3CvnAY",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "title": "Small Academy"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1579321221,
+      "txid": "cd9b882793de90bcecb7e8c98881c97f00cb699b631fe072743c5befd50a5536",
+      "type": "claim",
+      "value": {
+        "description": "Welcome to Very first Video on \" Nodejs and MySQL Tutorials With Express \" , In this video We are going to download and install Nodejs and NPM for our project. \n\nThis is the very first video and i hope to make new video every day  until the Tutorial series is completed. I hope you guys will like this video and Don't forget to comment your thoughts on this tutorials series. \n\nDownload Nodejs From here: https://nodejs.org\n\n-~-~~-~~~-~~-~-\nPlease watch: \"Render SCSS to CSS Nodejs | SCSS Tutorials For Front-End Web Development \" \nhttps://www.youtube.com/watch?v=ItCGgKg2pUY\n-~-~~-~~~-~~-~-\n...\nhttps://www.youtube.com/watch?v=YI91qNDeaDk",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1540736423",
+        "source": {
+          "hash": "828ad3f6d95589ee2b564acd81886275a0dfd8897af0e2b17847b4a97d8803f62cf3f579cdf9c1ce8c4afe5f776fc356",
+          "media_type": "video/mp4",
+          "name": "nodejs-and-mysql-with-pug.mp4",
+          "sd_hash": "2fe4ca5f3def304dfeb704ffae287fe9fa5609ab8b54428e2abd170880712fa6f8439589193e35f2ec88a514e9c31095",
+          "size": "4399576"
+        },
+        "stream_type": "video",
+        "tags": [
+          "install nodejs",
+          "mysql and pug with express and nodejs",
+          "node js with pug and express and mysql",
+          "node with express and mysql tutorials",
+          "nodejs and mysql tutorials",
+          "nodejs tutorials",
+          "nodejs tutorials windows",
+          "pug with nodejs tutorial",
+          "setup nodejs",
+          "howto & style"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/YI91qNDeaDk"
+        },
+        "title": "Nodejs and MySQL With PUG Tutorial - Download and Setup Nodejs in Windows",
+        "video": {
+          "duration": 172,
+          "height": 480,
+          "width": 854
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+      "amount": "0.005",
+      "canonical_url": "lbry://@smallacademy#7/nodejs-and-mysql-with-pug-express#c",
+      "claim_id": "c2b92c43b246ed7dc4e8fb57b1a5c85249c94d39",
+      "claim_op": "update",
+      "confirmations": 16531,
+      "height": 701225,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 701204,
+        "creation_height": 701204,
+        "creation_timestamp": 1579318894,
+        "effective_amount": "0.005",
+        "expiration_height": 2803604,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 701204,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "nodejs-and-mysql-with-pug-express",
+      "normalized_name": "nodejs-and-mysql-with-pug-express",
+      "nout": 0,
+      "permanent_url": "lbry://nodejs-and-mysql-with-pug-express#c2b92c43b246ed7dc4e8fb57b1a5c85249c94d39",
+      "short_url": "lbry://nodejs-and-mysql-with-pug-express#c",
+      "signing_channel": {
+        "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+        "amount": "0.005",
+        "canonical_url": "lbry://@smallacademy#7",
+        "claim_id": "73457c7f7df871f2dccb23f63f1da97203612590",
+        "claim_op": "update",
+        "confirmations": 16531,
+        "has_signing_key": false,
+        "height": 701225,
+        "meta": {
+          "activation_height": 701200,
+          "claims_in_channel": 135,
+          "creation_height": 701200,
+          "creation_timestamp": 1579318226,
+          "effective_amount": "0.005",
+          "expiration_height": 2803600,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 701200,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@smallacademy",
+        "normalized_name": "@smallacademy",
+        "nout": 0,
+        "permanent_url": "lbry://@smallacademy#73457c7f7df871f2dccb23f63f1da97203612590",
+        "short_url": "lbry://@smallacademy#7",
+        "timestamp": 1579321221,
+        "txid": "f0473361b63c8c9c6edaf25360bd4c11ad8a0963fd64ab8f318ec4ae2813da31",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "description": "Small Academy is Channel for programmers. Here we upload Programming Videos Tutorials on HTML / CSS / PYTHON / NODEJS / PHOTOSHOP and Many More.\nAfter All We are  Small Academy with Bigger Dreams and Determinations.",
+          "locations": [
+            {
+              "country": "NP"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000422b9a6cc93d2f6af10a984103119e1a3d63ec199a62c3358116f0cc2a1bf4b366b0d7175a2d5d8495ab9eb49009d4c40aa83f611180f197fb6efe2a08a9d1ba6",
+          "public_key_id": "baVuUkFLgejeGtNsb7naXJRmq6ko3CvnAY",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "title": "Small Academy"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1579321221,
+      "txid": "52e3bce16088f7e2997259bd00d312e64b14298294928e4e50a5612b516f8cd6",
+      "type": "claim",
+      "value": {
+        "description": "Hey Guys Welcome to Second Video Of this Nodejs + MYSQL + PUG + Express tutorials series. \n\nIn this part of the video i am going to setup MySQL server for our nodejs application that we are going to develop through out this series. \n\nDownload Xampp from : https://www.apachefriends.org/download.html\n\n-~-~~-~~~-~~-~-\nPlease watch: \"Render SCSS to CSS Nodejs | SCSS Tutorials For Front-End Web Development \" \nhttps://www.youtube.com/watch?v=ItCGgKg2pUY\n-~-~~-~~~-~~-~-\n...\nhttps://www.youtube.com/watch?v=MpR-6pFDSEQ",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1540736929",
+        "source": {
+          "hash": "dd9d1d2e896eaf53460b52ab02d792473ca44b6980ea912acdd7806a9f39521a351aa82c56ffaba6a1027082decd31d8",
+          "media_type": "video/mp4",
+          "name": "nodejs-and-mysql-with-pug.mp4",
+          "sd_hash": "a57256dc5429db27f2628c606ee65696a22b12fdfa05f7863635d09536c5e1856fb2d1ad63ed3fcd2392994268184de6",
+          "size": "21851347"
+        },
+        "stream_type": "video",
+        "tags": [
+          "install nodejs",
+          "mysql and pug with express and nodejs",
+          "node js with pug and express and mysql",
+          "node with express and mysql tutorials",
+          "nodejs and mysql tutorials",
+          "nodejs tutorials",
+          "nodejs tutorials windows",
+          "pug with nodejs tutorial",
+          "setup nodejs",
+          "howto & style"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/MpR-6pFDSEQ"
+        },
+        "title": "Nodejs and MySQL With PUG  & Express Tutorial - Setup MySQL Server",
+        "video": {
+          "duration": 302,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+      "amount": "0.005",
+      "canonical_url": "lbry://@smallacademy#7/nodejs-with-mysql-and-express-tutorials#6",
+      "claim_id": "6d38ac162a8e8f45217651721844c835f79d3b54",
+      "claim_op": "update",
+      "confirmations": 16531,
+      "height": 701225,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 701204,
+        "creation_height": 701204,
+        "creation_timestamp": 1579318894,
+        "effective_amount": "0.005",
+        "expiration_height": 2803604,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 701204,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "nodejs-with-mysql-and-express-tutorials",
+      "normalized_name": "nodejs-with-mysql-and-express-tutorials",
+      "nout": 0,
+      "permanent_url": "lbry://nodejs-with-mysql-and-express-tutorials#6d38ac162a8e8f45217651721844c835f79d3b54",
+      "short_url": "lbry://nodejs-with-mysql-and-express-tutorials#6",
+      "signing_channel": {
+        "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+        "amount": "0.005",
+        "canonical_url": "lbry://@smallacademy#7",
+        "claim_id": "73457c7f7df871f2dccb23f63f1da97203612590",
+        "claim_op": "update",
+        "confirmations": 16531,
+        "has_signing_key": false,
+        "height": 701225,
+        "meta": {
+          "activation_height": 701200,
+          "claims_in_channel": 135,
+          "creation_height": 701200,
+          "creation_timestamp": 1579318226,
+          "effective_amount": "0.005",
+          "expiration_height": 2803600,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 701200,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@smallacademy",
+        "normalized_name": "@smallacademy",
+        "nout": 0,
+        "permanent_url": "lbry://@smallacademy#73457c7f7df871f2dccb23f63f1da97203612590",
+        "short_url": "lbry://@smallacademy#7",
+        "timestamp": 1579321221,
+        "txid": "f0473361b63c8c9c6edaf25360bd4c11ad8a0963fd64ab8f318ec4ae2813da31",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "description": "Small Academy is Channel for programmers. Here we upload Programming Videos Tutorials on HTML / CSS / PYTHON / NODEJS / PHOTOSHOP and Many More.\nAfter All We are  Small Academy with Bigger Dreams and Determinations.",
+          "locations": [
+            {
+              "country": "NP"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000422b9a6cc93d2f6af10a984103119e1a3d63ec199a62c3358116f0cc2a1bf4b366b0d7175a2d5d8495ab9eb49009d4c40aa83f611180f197fb6efe2a08a9d1ba6",
+          "public_key_id": "baVuUkFLgejeGtNsb7naXJRmq6ko3CvnAY",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "title": "Small Academy"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1579321221,
+      "txid": "f18d7e1c2c699bec5606837a3461798b659d46b97b5766d03a4589e03ef23fba",
+      "type": "claim",
+      "value": {
+        "description": "Part - 3 Of Nodejs With MySQL and Express Tutorials series. \nIn this part of the video we are going to \n1. Setup Node Project in System\n2. Install Node Packages using npm\n3.  Creating our first Hello world app \n\nAnd also we are going to create simple node server and run this app in our local system.\n\n-~-~~-~~~-~~-~-\nPlease watch: \"Render SCSS to CSS Nodejs | SCSS Tutorials For Front-End Web Development \" \nhttps://www.youtube.com/watch?v=ItCGgKg2pUY\n-~-~~-~~~-~~-~-\n...\nhttps://www.youtube.com/watch?v=WBXgGZQOBlE",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1540865130",
+        "source": {
+          "hash": "5d15bf2deb883676f4bc3bbf3a8219566ade12955cf22759837ef3ea455111de1e77238e5e4c83fc603cabcaf09a43a9",
+          "media_type": "video/mp4",
+          "name": "nodejs-with-mysql-and-express.mp4",
+          "sd_hash": "3eb72273a856abc5549b6ecec6b4b9f5884707f8f51d9dc9579db39e3323b22541a2d66cf7d3928c67f9c20bf1cacb3e",
+          "size": "29668904"
+        },
+        "stream_type": "video",
+        "tags": [
+          "create nodejs app",
+          "install nodejs",
+          "mysql and pug with express and nodejs",
+          "node js express",
+          "node js tutorial",
+          "node js with pug and express and mysql",
+          "node with express and mysql tutorials",
+          "nodejs and mysql tutorials",
+          "nodejs tutorials",
+          "nodejs tutorials windows",
+          "pug with nodejs tutorial",
+          "setup nodejs",
+          "howto & style"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/WBXgGZQOBlE"
+        },
+        "title": "Nodejs With MySQL and Express Tutorials  |  Creating First Node App",
+        "video": {
+          "duration": 703,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHfrXyKnFhxcHCTq7nt6F2amYQRRPdpd7g",
+      "amount": "0.005",
+      "canonical_url": "lbry://@luigitecnologo#c/quale-framework-javascript-nodejs-nel#1",
+      "claim_id": "14f9572f1e1fc251f98a8c5cbe09d51edc91a5af",
+      "claim_op": "update",
+      "confirmations": 11846,
+      "height": 705910,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 689917,
+        "creation_height": 689917,
+        "creation_timestamp": 1577512229,
+        "effective_amount": "0.005",
+        "expiration_height": 2792317,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 689917,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "quale-framework-javascript-nodejs-nel",
+      "normalized_name": "quale-framework-javascript-nodejs-nel",
+      "nout": 0,
+      "permanent_url": "lbry://quale-framework-javascript-nodejs-nel#14f9572f1e1fc251f98a8c5cbe09d51edc91a5af",
+      "short_url": "lbry://quale-framework-javascript-nodejs-nel#1",
+      "signing_channel": {
+        "address": "bHfrXyKnFhxcHCTq7nt6F2amYQRRPdpd7g",
+        "amount": "0.005",
+        "canonical_url": "lbry://@luigitecnologo#c",
+        "claim_id": "c1f9f56d67815f8eb8a9d717efc05744b65f2f45",
+        "claim_op": "update",
+        "confirmations": 11844,
+        "has_signing_key": false,
+        "height": 705912,
+        "meta": {
+          "activation_height": 689900,
+          "claims_in_channel": 541,
+          "creation_height": 689900,
+          "creation_timestamp": 1577509341,
+          "effective_amount": "184.000722",
+          "expiration_height": 2792300,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "183.995722",
+          "take_over_height": 689900,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@luigitecnologo",
+        "normalized_name": "@luigitecnologo",
+        "nout": 0,
+        "permanent_url": "lbry://@luigitecnologo#c1f9f56d67815f8eb8a9d717efc05744b65f2f45",
+        "short_url": "lbry://@luigitecnologo#c",
+        "timestamp": 1580071739,
+        "txid": "e866c0388e98dcdba421c2e0066746183cc3fbaa7617c13d51c6dbfe37874937",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UC1TuqB8VMiA5VXFw0-y7AsQ"
+          },
+          "description": "Parlo di tecnologie, criptovalute e tutto quello che mi pare :D",
+          "languages": [
+            "it"
+          ],
+          "locations": [
+            {
+              "country": "IT"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004a889d88ecc67c6dfecc9e6016269916299ba482ac3d7e5a5fb2725dacca90235da5e82f6788596815bcf7becd8ee3b41ab80db0607711280148b4fd12de33537",
+          "public_key_id": "bD4in2TYjpLZPUaPRb2DyDDpQy7xFjo83U",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UC1TuqB8VMiA5VXFw0-y7AsQ"
+          },
+          "title": "Luigi Tecnologo"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1580071496,
+      "txid": "f7e17028e4ae8b4b2aefc2079594e044a76e5978182b6237b30a9ca89002b1bb",
+      "type": "claim",
+      "value": {
+        "description": "I framework JavaScript sono tantissimi, Ruby ha Ruby on Rails, PHP ha Laravel e NodeJS? Ma soprattutto, che cosa fanno?\n\n- meteor https://www.meteor.com/\n- apollo http://www.apollodata.com/\n- next https://zeit.co/blog/next\n- express http://expressjs.com\n- hapi https://hapijs.com\n- total https://www.totaljs.com/\n- adonis https://adonisjs.com\n- nodal http://www.nodaljs.com/\n...\nhttps://www.youtube.com/watch?v=oTt-dDi4D44",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1487705402",
+        "source": {
+          "hash": "c2904d399a6f7a68e7f506f52dc1cdf7738fe3e80cee21d5cec6e093acea618824df43940d2d9e6c9ae4e26125e19775",
+          "media_type": "video/mp4",
+          "name": "quale-framework-javascript.mp4",
+          "sd_hash": "542c3460caae9371a19a2f90d03085a7c198c5d29650ee5a67f369911abf6438c04a09055acfa558fad5c7ef5286cf5f",
+          "size": "81166507"
+        },
+        "stream_type": "video",
+        "tags": [
+          "apollojs",
+          "expressjs",
+          "graphql",
+          "hapijs",
+          "italiano",
+          "javascript",
+          "meteorjs",
+          "nodejs",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/oTt-dDi4D44"
+        },
+        "title": "Quale framework JavaScript / NodeJS nel 2017 ?",
+        "video": {
+          "duration": 951,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bFzC7bETAExps6kH8z6BDQ34gMXAhrPY9o",
+      "amount": "0.01",
+      "canonical_url": "lbry://@techmespot#c/how-to-install-nodejs-and-npm-on-windows#c",
+      "claim_id": "c22611ca7d0c7562629dfc39884e9fa8e4d50fa6",
+      "claim_op": "create",
+      "confirmations": 94225,
+      "height": 623531,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 623531,
+        "creation_height": 623531,
+        "creation_timestamp": 1566871183,
+        "effective_amount": "0.01",
+        "expiration_height": 2725931,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 623531,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "how-to-install-nodejs-and-npm-on-windows",
+      "normalized_name": "how-to-install-nodejs-and-npm-on-windows",
+      "nout": 0,
+      "permanent_url": "lbry://how-to-install-nodejs-and-npm-on-windows#c22611ca7d0c7562629dfc39884e9fa8e4d50fa6",
+      "short_url": "lbry://how-to-install-nodejs-and-npm-on-windows#c",
+      "signing_channel": {
+        "address": "bNuGVuRsdiKetG17D5mDEkwPz3J65RBQeM",
+        "amount": "0.01",
+        "canonical_url": "lbry://@techmespot#c",
+        "claim_id": "c8c860a6e2d5532e633df190241da56ff7fe8b72",
+        "claim_op": "update",
+        "confirmations": 127803,
+        "has_signing_key": false,
+        "height": 589953,
+        "meta": {
+          "activation_height": 428150,
+          "claims_in_channel": 960,
+          "creation_height": 428150,
+          "creation_timestamp": 1535590934,
+          "effective_amount": "0.01",
+          "expiration_height": 2530550,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 428150,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@techmespot",
+        "normalized_name": "@techmespot",
+        "nout": 0,
+        "permanent_url": "lbry://@techmespot#c8c860a6e2d5532e633df190241da56ff7fe8b72",
+        "short_url": "lbry://@techmespot#c",
+        "timestamp": 1561448348,
+        "txid": "c5418d74df3c1fbac878538649c5e2467d8c5c58e7e07a1ebdf0dda8642c500d",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCESrIawvJuaIyRqHUFlt3kg"
+          },
+          "description": "TechMeSpot is a place where you can find Technology related tutorials . Tech Tips on Browsers like Chrome,Firefox,Microsoft's Edge ,Wordpress,Windows 10,windows 7,Various Plugins,Android TIps,Google Play Store .Please like and Subscribe to our Channel for future updates",
+          "locations": [
+            {
+              "country": "IN"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004eba2f4136205ef809e4e4db8f0fc125330f2530717437a1ccc5a7d7cc2acda198f99256e8844b3f168315831532b1e0e8720d11643c75b3b335ffd15f848317a",
+          "public_key_id": "bTorbKSXDEsp8VXdWemMUWBHJB4BhZTUNu",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCESrIawvJuaIyRqHUFlt3kg"
+          },
+          "title": "TechMeSpot"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1566871183,
+      "txid": "2489f2b40c1dee0dc746e4866273bd2d64e4e9f67c11a8ae6232f54ccfb8db88",
+      "type": "claim",
+      "value": {
+        "description": "How to Install NodeJS and NPM on Windows 10? \n\nWebsite of nodejs\n\nhttps://nodejs.org\n\nFollow the video tutorial, if you have any questions, let me know in the comment section.\n\n\nThanks for watching, please like and subscribe \n\n==============================================\n\nYouTube Subscribe: https://goo.gl/4lCCN8\nPatreon: https://www.patreon.com/TechMeSpot\nFacebook: https://www.facebook.com/techmespot\nTwitter: https://twitter.com/techmespot\nWebsite: http://techmespot.com\n\n#howto #InstallNodeJs #Windows10\n...\nhttps://www.youtube.com/watch?v=X-FPCwZFU_8",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1566759167",
+        "source": {
+          "hash": "472defb11e66b6548899ebf5a75f834b775f33ffe7687eef7efef0706b987abaeaeca891425be66c6ce6f4996907470b",
+          "media_type": "video/mp4",
+          "name": "how-to-install-nodejs-and-npm.mp4",
+          "sd_hash": "77e7dda10ae2848865fa40fa757342d49a11474a1e6216b152d0ccecc613a7b60872f3a8de2b9040fa7e1bb9fbced17d",
+          "size": "13959279"
+        },
+        "stream_type": "video",
+        "tags": [
+          "learning",
+          "how to",
+          "install nodejs and npm on windows 10",
+          "techmespot",
+          "windows 10 tips",
+          "howto & style"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/X-FPCwZFU_8"
+        },
+        "title": "How to Install NodeJS and NPM on Windows 10?",
+        "video": {
+          "duration": 350,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+      "amount": "0.005",
+      "canonical_url": "lbry://@smallacademy#7/connect-nodejs-app-to-mysql-server#b",
+      "claim_id": "b4f21e73174eab70dcea6f464fe2a6d38ac60703",
+      "claim_op": "update",
+      "confirmations": 16531,
+      "height": 701225,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 701204,
+        "creation_height": 701204,
+        "creation_timestamp": 1579318894,
+        "effective_amount": "0.005",
+        "expiration_height": 2803604,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 701204,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "connect-nodejs-app-to-mysql-server",
+      "normalized_name": "connect-nodejs-app-to-mysql-server",
+      "nout": 0,
+      "permanent_url": "lbry://connect-nodejs-app-to-mysql-server#b4f21e73174eab70dcea6f464fe2a6d38ac60703",
+      "short_url": "lbry://connect-nodejs-app-to-mysql-server#b",
+      "signing_channel": {
+        "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+        "amount": "0.005",
+        "canonical_url": "lbry://@smallacademy#7",
+        "claim_id": "73457c7f7df871f2dccb23f63f1da97203612590",
+        "claim_op": "update",
+        "confirmations": 16531,
+        "has_signing_key": false,
+        "height": 701225,
+        "meta": {
+          "activation_height": 701200,
+          "claims_in_channel": 135,
+          "creation_height": 701200,
+          "creation_timestamp": 1579318226,
+          "effective_amount": "0.005",
+          "expiration_height": 2803600,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 701200,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@smallacademy",
+        "normalized_name": "@smallacademy",
+        "nout": 0,
+        "permanent_url": "lbry://@smallacademy#73457c7f7df871f2dccb23f63f1da97203612590",
+        "short_url": "lbry://@smallacademy#7",
+        "timestamp": 1579321221,
+        "txid": "f0473361b63c8c9c6edaf25360bd4c11ad8a0963fd64ab8f318ec4ae2813da31",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "description": "Small Academy is Channel for programmers. Here we upload Programming Videos Tutorials on HTML / CSS / PYTHON / NODEJS / PHOTOSHOP and Many More.\nAfter All We are  Small Academy with Bigger Dreams and Determinations.",
+          "locations": [
+            {
+              "country": "NP"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000422b9a6cc93d2f6af10a984103119e1a3d63ec199a62c3358116f0cc2a1bf4b366b0d7175a2d5d8495ab9eb49009d4c40aa83f611180f197fb6efe2a08a9d1ba6",
+          "public_key_id": "baVuUkFLgejeGtNsb7naXJRmq6ko3CvnAY",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "title": "Small Academy"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1579321221,
+      "txid": "304cb019d3cd8007cd3f920591f5d8f234e6d54a7c42e2cdb19459c52bd88d2b",
+      "type": "claim",
+      "value": {
+        "description": "This is part - 4 of the Nodejs with Express and MySQL series , in this video i talked about , how to create a MySQL connection and How a database as well as table can be created using MySQL query using node app.\n\nSource Code: https://steemit.com/nodejs/@bikashny/how-to-connect-mysql-to-nodejs-app\n\nThree Mysql methods i talked about in this video is \n\n1. createConnection()\n2. connect() \n3. query()\n\n1. CreateConnection() - Method stores the database information and these information is passed through when connect() method is called in the program. \n\n2. connect() - method actually initialize and establish our database connection.\n\n3. query() - method is used to send the query commands to the database server and retrieve the results of the query.\n\n-~-~~-~~~-~~-~-\nPlease watch: \"Render SCSS to CSS Nodejs | SCSS Tutorials For Front-End Web Development \" \nhttps://www.youtube.com/watch?v=ItCGgKg2pUY\n-~-~~-~~~-~~-~-\n...\nhttps://www.youtube.com/watch?v=730-Zgc3DvM",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1541041869",
+        "source": {
+          "hash": "277c0614ff9cfddecb29c7b10b2d395a5d55c9c20eadc73252c18da8c22f8fec856735e4ac872b0674e4c7701fde67ef",
+          "media_type": "video/mp4",
+          "name": "connect-nodejs-app-to-mysql.mp4",
+          "sd_hash": "c9c67fa9b2d8c616147c1702d12adcb337bb5b4726713cb4e07df17de4315cb2caf142adc3c58fe2dbba4cf93675b5c9",
+          "size": "19954434"
+        },
+        "stream_type": "video",
+        "tags": [
+          "create nodejs app",
+          "install nodejs",
+          "mysql and pug with express and nodejs",
+          "node js express",
+          "node js tutorial",
+          "node js with pug and express and mysql",
+          "node with express and mysql tutorials",
+          "nodejs and mysql tutorials",
+          "nodejs tutorials",
+          "nodejs tutorials windows",
+          "pug with nodejs tutorial",
+          "setup nodejs",
+          "howto & style"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/730-Zgc3DvM"
+        },
+        "title": "Connect Nodejs App to MySQL Server | Nodejs With MySQL And Express Tutorials",
+        "video": {
+          "duration": 774,
+          "height": 480,
+          "width": 854
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+      "amount": "0.005",
+      "canonical_url": "lbry://@smallacademy#7/install-and-render-html-using-pug-nodejs#4",
+      "claim_id": "4e30d95cef2044dcb0b49e99155221911273a115",
+      "claim_op": "update",
+      "confirmations": 16531,
+      "height": 701225,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 701204,
+        "creation_height": 701204,
+        "creation_timestamp": 1579318894,
+        "effective_amount": "0.005",
+        "expiration_height": 2803604,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 701204,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "install-and-render-html-using-pug-nodejs",
+      "normalized_name": "install-and-render-html-using-pug-nodejs",
+      "nout": 0,
+      "permanent_url": "lbry://install-and-render-html-using-pug-nodejs#4e30d95cef2044dcb0b49e99155221911273a115",
+      "short_url": "lbry://install-and-render-html-using-pug-nodejs#4",
+      "signing_channel": {
+        "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+        "amount": "0.005",
+        "canonical_url": "lbry://@smallacademy#7",
+        "claim_id": "73457c7f7df871f2dccb23f63f1da97203612590",
+        "claim_op": "update",
+        "confirmations": 16531,
+        "has_signing_key": false,
+        "height": 701225,
+        "meta": {
+          "activation_height": 701200,
+          "claims_in_channel": 135,
+          "creation_height": 701200,
+          "creation_timestamp": 1579318226,
+          "effective_amount": "0.005",
+          "expiration_height": 2803600,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 701200,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@smallacademy",
+        "normalized_name": "@smallacademy",
+        "nout": 0,
+        "permanent_url": "lbry://@smallacademy#73457c7f7df871f2dccb23f63f1da97203612590",
+        "short_url": "lbry://@smallacademy#7",
+        "timestamp": 1579321221,
+        "txid": "f0473361b63c8c9c6edaf25360bd4c11ad8a0963fd64ab8f318ec4ae2813da31",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "description": "Small Academy is Channel for programmers. Here we upload Programming Videos Tutorials on HTML / CSS / PYTHON / NODEJS / PHOTOSHOP and Many More.\nAfter All We are  Small Academy with Bigger Dreams and Determinations.",
+          "locations": [
+            {
+              "country": "NP"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000422b9a6cc93d2f6af10a984103119e1a3d63ec199a62c3358116f0cc2a1bf4b366b0d7175a2d5d8495ab9eb49009d4c40aa83f611180f197fb6efe2a08a9d1ba6",
+          "public_key_id": "baVuUkFLgejeGtNsb7naXJRmq6ko3CvnAY",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "title": "Small Academy"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1579321221,
+      "txid": "eef90832522d20cc4681510a6063c3e06e7b9c5d613fc87bffdaca873f52f426",
+      "type": "claim",
+      "value": {
+        "description": "PUG is used as View Engine for NodeJs Application. In this Video We are going to learn how to install and render html using pug in Nodejs. \n\nYou can install pug using : npm install pug and we also need path : npm install path\n\nIn Next Video We are going to learn how to design login and Register from using PUG. \n\nPlease Subscribe\n\n-~-~~-~~~-~~-~-\nPlease watch: \"Render SCSS to CSS Nodejs | SCSS Tutorials For Front-End Web Development \" \nhttps://www.youtube.com/watch?v=ItCGgKg2pUY\n-~-~~-~~~-~~-~-\n...\nhttps://www.youtube.com/watch?v=rta16zXPHfA",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1549336107",
+        "source": {
+          "hash": "2376563fb2ab9a95e821b2bd53e2d8b97225029cc2ecb2864cd9336cd4ed4f762a31c66fbd99590842f55aac8dbc103d",
+          "media_type": "video/mp4",
+          "name": "install-and-render-html-using.mp4",
+          "sd_hash": "1e5e5a30f7be7cbe0b590caa1f03d89ebae81ce52051e1036e0162bd22c4aba9f6f83978cdb6045a88ab7eb7767cf560",
+          "size": "19096025"
+        },
+        "stream_type": "video",
+        "tags": [
+          "install pug",
+          "install pug on",
+          "learn pug",
+          "learn pug template",
+          "node mysql pug",
+          "node pug tutorials",
+          "node tutorial",
+          "node with pug",
+          "nodejs pug tutorials",
+          "nodejs tutorial with pug",
+          "pu and mysql",
+          "pug template engine",
+          "pug tutorial for beginners",
+          "pug with nodejs",
+          "render html using pug",
+          "setup pug nodejs",
+          "howto & style"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/rta16zXPHfA"
+        },
+        "title": "Install and Render HTML Using PUG  | NodeJS With MYSQL Tutorials",
+        "video": {
+          "duration": 767,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bDPZAQPJ67LS8qfm1P2MYMwWahm9rH5ABR",
+      "amount": "0.01",
+      "canonical_url": "lbry://@front-end-testing#d/ad-hoc-unit-testing-in-nodejs#f",
+      "claim_id": "faeef815ff94e4f618362de666dfb65ceb69deb0",
+      "claim_op": "create",
+      "confirmations": 34348,
+      "height": 683408,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 683408,
+        "creation_height": 683408,
+        "creation_timestamp": 1576470457,
+        "effective_amount": "0.01",
+        "expiration_height": 2785808,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 683408,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "ad-hoc-unit-testing-in-nodejs",
+      "normalized_name": "ad-hoc-unit-testing-in-nodejs",
+      "nout": 0,
+      "permanent_url": "lbry://ad-hoc-unit-testing-in-nodejs#faeef815ff94e4f618362de666dfb65ceb69deb0",
+      "short_url": "lbry://ad-hoc-unit-testing-in-nodejs#f",
+      "signing_channel": {
+        "address": "bQMi2tBsdVZbhsCC1S1EqSag72iPM1j83s",
+        "amount": "0.01",
+        "canonical_url": "lbry://@front-end-testing#d",
+        "claim_id": "dbeee974e03524b1c5e8dfe9a19ad04ac94433e4",
+        "claim_op": "create",
+        "confirmations": 34417,
+        "has_signing_key": false,
+        "height": 683339,
+        "meta": {
+          "activation_height": 683339,
+          "claims_in_channel": 121,
+          "creation_height": 683339,
+          "creation_timestamp": 1576458815,
+          "effective_amount": "0.01",
+          "expiration_height": 2785739,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 683339,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@front-end-testing",
+        "normalized_name": "@front-end-testing",
+        "nout": 0,
+        "permanent_url": "lbry://@front-end-testing#dbeee974e03524b1c5e8dfe9a19ad04ac94433e4",
+        "short_url": "lbry://@front-end-testing#d",
+        "timestamp": 1576458815,
+        "txid": "b7c44762bae4fab178cbfa3d8e9130ede5ae508d25e03a98aa6c31d70ed035c2",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCdsG6Ebb5UBHOhltsofrsjg"
+          },
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000465da7164c70e453a4b4e3998aa50af186f67e67e63d335e493be4b42331bcb33ade13c76827001502db21285a2ca35247ed4953404f227acfab1675188c2aaf7",
+          "public_key_id": "bVeaDPaAnagr1EKZgYSWCM5kKrVDnZMeW5",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCdsG6Ebb5UBHOhltsofrsjg"
+          },
+          "title": "Front-end Testing with Kevin"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1576470457,
+      "txid": "d6a0b9b428714271c52ef20cd4f5c88134074983a5342b0af7f2e1038c8788a8",
+      "type": "claim",
+      "value": {
+        "description": "Ever wanted to know how unit test frameworks work? Let's look at the inner workings of a test runner by writing our own simple one to help test a single bit of functionality.\n\n---\nLinks\n\nRelated Blog Post:\nhttps://blog.kevinlamping.com/ad-hoc-unit-testing-in-nodejs/\n\nChester Code:\nhttps://github.com/klamping/chester-desktop\n\nNodeJS Assert Module:\nhttps://nodejs.org/api/assert.html\n\nNodeJS Process Exit Codes\nhttps://nodejs.org/api/process.html#process_process_exit_code\n\nHow to change node.js's console font color?\nhttps://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color\n\nSupport the channel by checking out my full course on functional test automation using WebdriverIO:\nhttps://learn.webdriver.io\n...\nhttps://www.youtube.com/watch?v=442gztJZi2w",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1529707612",
+        "source": {
+          "hash": "ccf09735fda5f678e9474e7eb4d9b5f51257580e96c582f0d4057464bb7c8ff0988b2461dc4a8bbfef1adc4c412f38b7",
+          "media_type": "video/mp4",
+          "name": "ad-hoc-unit-testing-in-nodejs.mp4",
+          "sd_hash": "26fcbe2a4a0c76e27078fc14a0a85e3b088484cc220be3b6e46cfcc68d59bbd83952b3b8ffbd235a73ba4b743b53bb4a",
+          "size": "60437321"
+        },
+        "stream_type": "video",
+        "tags": [
+          "assert",
+          "assertions",
+          "automation",
+          "electron",
+          "nodejs",
+          "testing",
+          "unit testing",
+          "vue",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/442gztJZi2w"
+        },
+        "title": "Ad hoc unit testing in NodeJS",
+        "video": {
+          "duration": 1309,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+      "amount": "0.005",
+      "canonical_url": "lbry://@smallacademy#7/create-local-node-package-using-module#6",
+      "claim_id": "65bbe6a69f156a90f5db221746dd39d454092c20",
+      "claim_op": "update",
+      "confirmations": 16531,
+      "height": 701225,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 701204,
+        "creation_height": 701204,
+        "creation_timestamp": 1579318894,
+        "effective_amount": "0.005",
+        "expiration_height": 2803604,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 701204,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "create-local-node-package-using-module",
+      "normalized_name": "create-local-node-package-using-module",
+      "nout": 0,
+      "permanent_url": "lbry://create-local-node-package-using-module#65bbe6a69f156a90f5db221746dd39d454092c20",
+      "short_url": "lbry://create-local-node-package-using-module#6",
+      "signing_channel": {
+        "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+        "amount": "0.005",
+        "canonical_url": "lbry://@smallacademy#7",
+        "claim_id": "73457c7f7df871f2dccb23f63f1da97203612590",
+        "claim_op": "update",
+        "confirmations": 16531,
+        "has_signing_key": false,
+        "height": 701225,
+        "meta": {
+          "activation_height": 701200,
+          "claims_in_channel": 135,
+          "creation_height": 701200,
+          "creation_timestamp": 1579318226,
+          "effective_amount": "0.005",
+          "expiration_height": 2803600,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 701200,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@smallacademy",
+        "normalized_name": "@smallacademy",
+        "nout": 0,
+        "permanent_url": "lbry://@smallacademy#73457c7f7df871f2dccb23f63f1da97203612590",
+        "short_url": "lbry://@smallacademy#7",
+        "timestamp": 1579321221,
+        "txid": "f0473361b63c8c9c6edaf25360bd4c11ad8a0963fd64ab8f318ec4ae2813da31",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "description": "Small Academy is Channel for programmers. Here we upload Programming Videos Tutorials on HTML / CSS / PYTHON / NODEJS / PHOTOSHOP and Many More.\nAfter All We are  Small Academy with Bigger Dreams and Determinations.",
+          "locations": [
+            {
+              "country": "NP"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000422b9a6cc93d2f6af10a984103119e1a3d63ec199a62c3358116f0cc2a1bf4b366b0d7175a2d5d8495ab9eb49009d4c40aa83f611180f197fb6efe2a08a9d1ba6",
+          "public_key_id": "baVuUkFLgejeGtNsb7naXJRmq6ko3CvnAY",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "title": "Small Academy"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1579321221,
+      "txid": "dbf055ec16e7b06e0df7c2bdeb8c07730c9c874b8a3a490e326d254601eba747",
+      "type": "claim",
+      "value": {
+        "description": "This is Part - 5 Of the Nodejs With MySQl Tutorial. In This video I Talked About Module.Exports in Nodejs & Nodejs package can be created and import in nodejs program. \n\nI also talked about how a global variable in nodejs can be converted into Global variable to use in node app. \n\nThanks Guys for watching ...\n\n-~-~~-~~~-~~-~-\nPlease watch: \"Render SCSS to CSS Nodejs | SCSS Tutorials For Front-End Web Development \" \nhttps://www.youtube.com/watch?v=ItCGgKg2pUY\n-~-~~-~~~-~~-~-\n...\nhttps://www.youtube.com/watch?v=_tUR5ifsiRg",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1541125068",
+        "source": {
+          "hash": "42c79d41288d0ce62f4b5c902fbe2be4f443c472995b48ffbfe1d1ea99d9f03e0c6311d6166de1f4f12655ed2090130b",
+          "media_type": "video/mp4",
+          "name": "create-local-node-package.mp4",
+          "sd_hash": "b6e753711cf2cfd8f36e6bcfbc9e0473a99e80143f43929d3106a626ebe20bb5a455259f50779a1bf5e4a172ae69dc7e",
+          "size": "9860044"
+        },
+        "stream_type": "video",
+        "tags": [
+          "create nodejs app",
+          "easy programming",
+          "install nodejs",
+          "mysql and pug with express and nodejs",
+          "node js express",
+          "node js tutorial",
+          "node js with pug and express and mysql",
+          "node with express and mysql tutorials",
+          "nodejs and mysql tutorials",
+          "nodejs tutorials",
+          "nodejs tutorials windows",
+          "pug with nodejs tutorial",
+          "setup nodejs",
+          "tutorial for beginners",
+          "howto & style"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/_tUR5ifsiRg"
+        },
+        "title": "Create Local Node Package Using Module.Exports | Nodejs With MySQL  and Express Tutorial",
+        "video": {
+          "duration": 385,
+          "height": 480,
+          "width": 854
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+      "amount": "0.005",
+      "canonical_url": "lbry://@smallacademy#7/render-scss-to-css-nodejs-scss-tutorials#f",
+      "claim_id": "ff330ce393c0dc646884349c41f27f2ea4735885",
+      "claim_op": "update",
+      "confirmations": 16531,
+      "height": 701225,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 701204,
+        "creation_height": 701204,
+        "creation_timestamp": 1579318894,
+        "effective_amount": "0.005",
+        "expiration_height": 2803604,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 701204,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "render-scss-to-css-nodejs-scss-tutorials",
+      "normalized_name": "render-scss-to-css-nodejs-scss-tutorials",
+      "nout": 0,
+      "permanent_url": "lbry://render-scss-to-css-nodejs-scss-tutorials#ff330ce393c0dc646884349c41f27f2ea4735885",
+      "short_url": "lbry://render-scss-to-css-nodejs-scss-tutorials#f",
+      "signing_channel": {
+        "address": "bHChvZjyeFGJDVZpJMiLUxXdsappjdUmca",
+        "amount": "0.005",
+        "canonical_url": "lbry://@smallacademy#7",
+        "claim_id": "73457c7f7df871f2dccb23f63f1da97203612590",
+        "claim_op": "update",
+        "confirmations": 16531,
+        "has_signing_key": false,
+        "height": 701225,
+        "meta": {
+          "activation_height": 701200,
+          "claims_in_channel": 135,
+          "creation_height": 701200,
+          "creation_timestamp": 1579318226,
+          "effective_amount": "0.005",
+          "expiration_height": 2803600,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 701200,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@smallacademy",
+        "normalized_name": "@smallacademy",
+        "nout": 0,
+        "permanent_url": "lbry://@smallacademy#73457c7f7df871f2dccb23f63f1da97203612590",
+        "short_url": "lbry://@smallacademy#7",
+        "timestamp": 1579321221,
+        "txid": "f0473361b63c8c9c6edaf25360bd4c11ad8a0963fd64ab8f318ec4ae2813da31",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "description": "Small Academy is Channel for programmers. Here we upload Programming Videos Tutorials on HTML / CSS / PYTHON / NODEJS / PHOTOSHOP and Many More.\nAfter All We are  Small Academy with Bigger Dreams and Determinations.",
+          "locations": [
+            {
+              "country": "NP"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000422b9a6cc93d2f6af10a984103119e1a3d63ec199a62c3358116f0cc2a1bf4b366b0d7175a2d5d8495ab9eb49009d4c40aa83f611180f197fb6efe2a08a9d1ba6",
+          "public_key_id": "baVuUkFLgejeGtNsb7naXJRmq6ko3CvnAY",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCR1t5eSmLxLUdBnK2XwZOuw"
+          },
+          "title": "Small Academy"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1579321221,
+      "txid": "f2966c4430db9e57bc1a568092ba379c69894822848e44fafe71f20719eebafe",
+      "type": "claim",
+      "value": {
+        "description": "How to Render SCSS to CSS Using Node SASS package in Nodejs. \n\nIn this Video we are going to setup scss development environment for Front-end web development. \n\nInstall node-sass package: npm install node-sass -g \n\nFront-end web development with Nodejs and SCSS.\n...\nhttps://www.youtube.com/watch?v=ItCGgKg2pUY",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1549541220",
+        "source": {
+          "hash": "92f32011e902389b85ecab1aa51093061f4972b7aa9d8fae497013bf51a37727ce0ebf77d8f3a4a71c9ec77670392d9f",
+          "media_type": "video/mp4",
+          "name": "render-scss-to-css-nodejs-scss.mp4",
+          "sd_hash": "9058b290de4056ec82df15f44d85f3daa62e4d7bd72f89a6dd6c211b7be0a0b7fda1d92ffaa636d2c6f6bc214436b80e",
+          "size": "14569415"
+        },
+        "stream_type": "video",
+        "tags": [
+          "coding tutorials",
+          "sass tutorial",
+          "sass tutorial 2018 bangla",
+          "sass tutorial bangla",
+          "sass tutorial for beginners in bangla",
+          "sass tutorial in hindi",
+          "sass tutorials for beginners",
+          "scss node js",
+          "scss to css convert",
+          "scss to css visual studio code",
+          "scss tutorial",
+          "scss tutorial 2018",
+          "scss tutorial bangla",
+          "scss tutorial for beginners",
+          "scss tutorial hindi",
+          "scss tutorial tamil",
+          "scss tutorials",
+          "web design tutorial",
+          "web development",
+          "howto & style"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/ItCGgKg2pUY"
+        },
+        "title": "Render SCSS to CSS Nodejs | SCSS Tutorials For Front-End Web Development",
+        "video": {
+          "duration": 505,
+          "height": 694,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    }
+  ],
+  "page": 1,
+  "page_size": 20,
+  "total_items": 278,
+  "total_pages": 14
+}

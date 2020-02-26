@@ -1,0 +1,2299 @@
+{
+  "blocked": {
+    "channels": [],
+    "total": 0
+  },
+  "items": [
+    {
+      "address": "bDPZAQPJ67LS8qfm1P2MYMwWahm9rH5ABR",
+      "amount": "0.01",
+      "canonical_url": "lbry://@front-end-testing#d/test-driven-learning-javascript#b",
+      "claim_id": "baf7dd35bdd42ff0fecb0231f38daab07a069222",
+      "claim_op": "create",
+      "confirmations": 34490,
+      "height": 683357,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 683357,
+        "creation_height": 683357,
+        "creation_timestamp": 1576462283,
+        "effective_amount": "0.01",
+        "expiration_height": 2785757,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 683357,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "test-driven-learning-javascript",
+      "normalized_name": "test-driven-learning-javascript",
+      "nout": 0,
+      "permanent_url": "lbry://test-driven-learning-javascript#baf7dd35bdd42ff0fecb0231f38daab07a069222",
+      "short_url": "lbry://test-driven-learning-javascript#b",
+      "signing_channel": {
+        "address": "bQMi2tBsdVZbhsCC1S1EqSag72iPM1j83s",
+        "amount": "0.01",
+        "canonical_url": "lbry://@front-end-testing#d",
+        "claim_id": "dbeee974e03524b1c5e8dfe9a19ad04ac94433e4",
+        "claim_op": "create",
+        "confirmations": 34508,
+        "has_signing_key": false,
+        "height": 683339,
+        "meta": {
+          "activation_height": 683339,
+          "claims_in_channel": 121,
+          "creation_height": 683339,
+          "creation_timestamp": 1576458815,
+          "effective_amount": "0.01",
+          "expiration_height": 2785739,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 683339,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@front-end-testing",
+        "normalized_name": "@front-end-testing",
+        "nout": 0,
+        "permanent_url": "lbry://@front-end-testing#dbeee974e03524b1c5e8dfe9a19ad04ac94433e4",
+        "short_url": "lbry://@front-end-testing#d",
+        "timestamp": 1576458815,
+        "txid": "b7c44762bae4fab178cbfa3d8e9130ede5ae508d25e03a98aa6c31d70ed035c2",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCdsG6Ebb5UBHOhltsofrsjg"
+          },
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000465da7164c70e453a4b4e3998aa50af186f67e67e63d335e493be4b42331bcb33ade13c76827001502db21285a2ca35247ed4953404f227acfab1675188c2aaf7",
+          "public_key_id": "bVeaDPaAnagr1EKZgYSWCM5kKrVDnZMeW5",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCdsG6Ebb5UBHOhltsofrsjg"
+          },
+          "title": "Front-end Testing with Kevin"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1576462283,
+      "txid": "25fbee13ad8e10024cd8b1669ed7d223e19e7f868d7c6bbfe639b7dfa44f0ccb",
+      "type": "claim",
+      "value": {
+        "description": "Two GitHub Repos, JS Koans (https://github.com/liammclennan/JavaScript-Koans) and JS Assessment (https://github.com/rmurphey/js-assessment) can be used to learn and test your JavaScript skills. In this screencast, I walk through both codebases and show how to get them working in Cloud9 IDE (http://c9.io). I also run through a couple of tests to see them in action.\n...\nhttps://www.youtube.com/watch?v=HZ1kHF4koSw",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1365398557",
+        "source": {
+          "hash": "352a9fefb3ad4125cab2e8db060f19693edab24dc71944835e1d6e932877ad59eb8cffd84ed4c1752fbca4fc165d5b8a",
+          "media_type": "video/mp4",
+          "name": "test-driven-learning.mp4",
+          "sd_hash": "01061ddc91dc4edbd9d4e2d9b14d11a4c1ea6115e4e1b42139cf725dbf4fdbac9f7101e93f0cc1caf76cbcb596b5b342",
+          "size": "190354297"
+        },
+        "stream_type": "video",
+        "tags": [
+          "javascript",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/HZ1kHF4koSw"
+        },
+        "title": "Test Driven Learning - JavaScript",
+        "video": {
+          "duration": 824,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bGNCkPfUqbftvbZP35ZKJL5DedKTUs6y7i",
+      "amount": "0.01",
+      "canonical_url": "lbry://@howCode#5/hc-ivVbculFNoA#f",
+      "claim_id": "f2bcb33c16d665bb333973193c795d4c336370b3",
+      "claim_op": "create",
+      "confirmations": 524374,
+      "height": 193473,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 193473,
+        "creation_height": 193473,
+        "creation_timestamp": 1497846280,
+        "effective_amount": "0.01",
+        "expiration_height": 2295873,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 193473,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "hc-ivVbculFNoA",
+      "normalized_name": "hc-ivvbculfnoa",
+      "nout": 0,
+      "permanent_url": "lbry://hc-ivVbculFNoA#f2bcb33c16d665bb333973193c795d4c336370b3",
+      "short_url": "lbry://hc-ivVbculFNoA#f",
+      "signing_channel": {
+        "address": "bNCK8eSFggvnoVZbsgM45NdsrDotx3AKQU",
+        "amount": "0.01",
+        "canonical_url": "lbry://@howCode#5",
+        "claim_id": "548d775295b3cfe75f11cdf7b4586b0be065b16b",
+        "claim_op": "create",
+        "confirmations": 524477,
+        "has_signing_key": false,
+        "height": 193370,
+        "meta": {
+          "activation_height": 193370,
+          "claims_in_channel": 278,
+          "creation_height": 193370,
+          "creation_timestamp": 1497830441,
+          "effective_amount": "0.01",
+          "expiration_height": 2295770,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 193370,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@howCode",
+        "normalized_name": "@howcode",
+        "nout": 0,
+        "permanent_url": "lbry://@howCode#548d775295b3cfe75f11cdf7b4586b0be065b16b",
+        "short_url": "lbry://@howCode#5",
+        "timestamp": 1497830441,
+        "txid": "97f46fd3f6143b885b9406bfeb7203d837eceac772463503e9c54e7072e5c7f8",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004dc12d6283954ccaf0f07d35a9a38f3e6128eb08da63a561aa319f9a0ae08a60fead8543c3e4ce71f43f303d70fa6d60e434b4a03c076a0105bbce4edf3e9200c",
+          "public_key_id": "bWoZnt6BH8VRmFqYdwkWyP17wrF1Szgdy1"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1497846280,
+      "txid": "39384fd26a9ac4364fa57ff06e4a5f981664796c74c7e6fd663227da236183bb",
+      "type": "claim",
+      "value": {
+        "author": "howCode",
+        "description": "In this episode you'll be learning about how to use a Do / While loop in Javascript.\n\nDon't forget to subscribe for more.",
+        "languages": [
+          "en"
+        ],
+        "license": "Copyrighted (Contact Author)",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "de637e42e2a52e38681d3bf528c31a0201983e6b5aba0f31544593994b5b36d4a40c022c648496d3b9bd416dd0da3628"
+        },
+        "stream_type": "video",
+        "thumbnail": {
+          "url": "http://berk.ninja/thumbnails/ivVbculFNoA"
+        },
+        "title": "Learn Javascript - Do/While Loop"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bGNCkPfUqbftvbZP35ZKJL5DedKTUs6y7i",
+      "amount": "0.01",
+      "canonical_url": "lbry://@howCode#5/hc-NOKQM9KCcy8#b",
+      "claim_id": "bd3c20bd469ed14e7e000b8f19d0d5bde3406670",
+      "claim_op": "create",
+      "confirmations": 524391,
+      "height": 193456,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 193456,
+        "creation_height": 193456,
+        "creation_timestamp": 1497843769,
+        "effective_amount": "0.01",
+        "expiration_height": 2295856,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 193456,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "hc-NOKQM9KCcy8",
+      "normalized_name": "hc-nokqm9kccy8",
+      "nout": 0,
+      "permanent_url": "lbry://hc-NOKQM9KCcy8#bd3c20bd469ed14e7e000b8f19d0d5bde3406670",
+      "short_url": "lbry://hc-NOKQM9KCcy8#b",
+      "signing_channel": {
+        "address": "bNCK8eSFggvnoVZbsgM45NdsrDotx3AKQU",
+        "amount": "0.01",
+        "canonical_url": "lbry://@howCode#5",
+        "claim_id": "548d775295b3cfe75f11cdf7b4586b0be065b16b",
+        "claim_op": "create",
+        "confirmations": 524477,
+        "has_signing_key": false,
+        "height": 193370,
+        "meta": {
+          "activation_height": 193370,
+          "claims_in_channel": 278,
+          "creation_height": 193370,
+          "creation_timestamp": 1497830441,
+          "effective_amount": "0.01",
+          "expiration_height": 2295770,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 193370,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@howCode",
+        "normalized_name": "@howcode",
+        "nout": 0,
+        "permanent_url": "lbry://@howCode#548d775295b3cfe75f11cdf7b4586b0be065b16b",
+        "short_url": "lbry://@howCode#5",
+        "timestamp": 1497830441,
+        "txid": "97f46fd3f6143b885b9406bfeb7203d837eceac772463503e9c54e7072e5c7f8",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004dc12d6283954ccaf0f07d35a9a38f3e6128eb08da63a561aa319f9a0ae08a60fead8543c3e4ce71f43f303d70fa6d60e434b4a03c076a0105bbce4edf3e9200c",
+          "public_key_id": "bWoZnt6BH8VRmFqYdwkWyP17wrF1Szgdy1"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1497843769,
+      "txid": "7d014544d20f5756088d8efbf0756c5a013650edd85a78f71337b13614c669ff",
+      "type": "claim",
+      "value": {
+        "author": "howCode",
+        "description": "In this episode you'll be learning the very basics of Javascript, what it can do and more!\n\nDon't forget to subscribe for more.",
+        "languages": [
+          "en"
+        ],
+        "license": "Copyrighted (Contact Author)",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "c9f2a0b93820b6ddd538a911e727a3acf07997a329d5683b3ee5d0608a71e2ff4403a0353a1ef639d6722d3c94c26adc"
+        },
+        "stream_type": "video",
+        "thumbnail": {
+          "url": "http://berk.ninja/thumbnails/NOKQM9KCcy8"
+        },
+        "title": "Learn Javascript - Getting Started with Javascript"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bGNCkPfUqbftvbZP35ZKJL5DedKTUs6y7i",
+      "amount": "0.01",
+      "canonical_url": "lbry://@howCode#5/hc--1vO-jt1peA#e",
+      "claim_id": "e30804076a87badbef7584e962349d009b6a2917",
+      "claim_op": "create",
+      "confirmations": 524385,
+      "height": 193462,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 193462,
+        "creation_height": 193462,
+        "creation_timestamp": 1497845368,
+        "effective_amount": "0.01",
+        "expiration_height": 2295862,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 193462,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "hc--1vO-jt1peA",
+      "normalized_name": "hc--1vo-jt1pea",
+      "nout": 0,
+      "permanent_url": "lbry://hc--1vO-jt1peA#e30804076a87badbef7584e962349d009b6a2917",
+      "short_url": "lbry://hc--1vO-jt1peA#e",
+      "signing_channel": {
+        "address": "bNCK8eSFggvnoVZbsgM45NdsrDotx3AKQU",
+        "amount": "0.01",
+        "canonical_url": "lbry://@howCode#5",
+        "claim_id": "548d775295b3cfe75f11cdf7b4586b0be065b16b",
+        "claim_op": "create",
+        "confirmations": 524477,
+        "has_signing_key": false,
+        "height": 193370,
+        "meta": {
+          "activation_height": 193370,
+          "claims_in_channel": 278,
+          "creation_height": 193370,
+          "creation_timestamp": 1497830441,
+          "effective_amount": "0.01",
+          "expiration_height": 2295770,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 193370,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@howCode",
+        "normalized_name": "@howcode",
+        "nout": 0,
+        "permanent_url": "lbry://@howCode#548d775295b3cfe75f11cdf7b4586b0be065b16b",
+        "short_url": "lbry://@howCode#5",
+        "timestamp": 1497830441,
+        "txid": "97f46fd3f6143b885b9406bfeb7203d837eceac772463503e9c54e7072e5c7f8",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004dc12d6283954ccaf0f07d35a9a38f3e6128eb08da63a561aa319f9a0ae08a60fead8543c3e4ce71f43f303d70fa6d60e434b4a03c076a0105bbce4edf3e9200c",
+          "public_key_id": "bWoZnt6BH8VRmFqYdwkWyP17wrF1Szgdy1"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1497845368,
+      "txid": "129ac0cce3126200c6a9ad9699a38dcebdd39576ec051a5ddcdd8c7aac4d4d00",
+      "type": "claim",
+      "value": {
+        "author": "howCode",
+        "description": "In this episode you'll be learning about how you can use events in javascript to execute code and make your website more interactive.\n\nDon't forget to subscribe for more.",
+        "languages": [
+          "en"
+        ],
+        "license": "Copyrighted (Contact Author)",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "5a43f6bfa17db9507d5cd3569202163bab6e369f2783bb53c3146979ac0f5f7e27f0d546c82d53c2d4fbd6c3674f1170"
+        },
+        "stream_type": "video",
+        "thumbnail": {
+          "url": "http://berk.ninja/thumbnails/_1vO_jt1peA"
+        },
+        "title": "Learn Javascript - Events"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bGNCkPfUqbftvbZP35ZKJL5DedKTUs6y7i",
+      "amount": "0.01",
+      "canonical_url": "lbry://@howCode#5/hc-rYZlprrB4mw#a",
+      "claim_id": "a4a4e4f9d9ca181db840f53540811e3093387e8b",
+      "claim_op": "create",
+      "confirmations": 524301,
+      "height": 193546,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 193546,
+        "creation_height": 193546,
+        "creation_timestamp": 1497858614,
+        "effective_amount": "0.01",
+        "expiration_height": 2295946,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 193546,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "hc-rYZlprrB4mw",
+      "normalized_name": "hc-ryzlprrb4mw",
+      "nout": 0,
+      "permanent_url": "lbry://hc-rYZlprrB4mw#a4a4e4f9d9ca181db840f53540811e3093387e8b",
+      "short_url": "lbry://hc-rYZlprrB4mw#a",
+      "signing_channel": {
+        "address": "bNCK8eSFggvnoVZbsgM45NdsrDotx3AKQU",
+        "amount": "0.01",
+        "canonical_url": "lbry://@howCode#5",
+        "claim_id": "548d775295b3cfe75f11cdf7b4586b0be065b16b",
+        "claim_op": "create",
+        "confirmations": 524477,
+        "has_signing_key": false,
+        "height": 193370,
+        "meta": {
+          "activation_height": 193370,
+          "claims_in_channel": 278,
+          "creation_height": 193370,
+          "creation_timestamp": 1497830441,
+          "effective_amount": "0.01",
+          "expiration_height": 2295770,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 193370,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@howCode",
+        "normalized_name": "@howcode",
+        "nout": 0,
+        "permanent_url": "lbry://@howCode#548d775295b3cfe75f11cdf7b4586b0be065b16b",
+        "short_url": "lbry://@howCode#5",
+        "timestamp": 1497830441,
+        "txid": "97f46fd3f6143b885b9406bfeb7203d837eceac772463503e9c54e7072e5c7f8",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004dc12d6283954ccaf0f07d35a9a38f3e6128eb08da63a561aa319f9a0ae08a60fead8543c3e4ce71f43f303d70fa6d60e434b4a03c076a0105bbce4edf3e9200c",
+          "public_key_id": "bWoZnt6BH8VRmFqYdwkWyP17wrF1Szgdy1"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1497858614,
+      "txid": "f54cbfbc3d57eda046505486a5f52eba0ce1a35e5f55c95c9b67b6be2231a63d",
+      "type": "claim",
+      "value": {
+        "author": "howCode",
+        "description": "In this episode you'll be learning about how arrays work in Javascript, the things you can do with them and why you should use them.\n\nDon't forget to subscribe for more.",
+        "languages": [
+          "en"
+        ],
+        "license": "Copyrighted (Contact Author)",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "5b975e5377a5dbad223b7a862ad575b6f3916364fb5675e8d89a34b613c4dddaa7aed855666f7fc142abfb56676d0e05"
+        },
+        "stream_type": "video",
+        "thumbnail": {
+          "url": "http://berk.ninja/thumbnails/rYZlprrB4mw"
+        },
+        "title": "Learn Javascript - Arrays"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bXPxdKbPckdfnSRdkEmBge82XwYvxWvtGC",
+      "amount": "0.01",
+      "canonical_url": "lbry://@SimpleProgrammer#5/sp-ss10re-tjwo#c",
+      "claim_id": "c04a37c373f56bf01ce27869c41addaa248b0ffc",
+      "claim_op": "create",
+      "confirmations": 516399,
+      "height": 201448,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 201448,
+        "creation_height": 201448,
+        "creation_timestamp": 1499150585,
+        "effective_amount": "0.01",
+        "expiration_height": 2303848,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 201448,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "sp-ss10re-tjwo",
+      "normalized_name": "sp-ss10re-tjwo",
+      "nout": 0,
+      "permanent_url": "lbry://sp-ss10re-tjwo#c04a37c373f56bf01ce27869c41addaa248b0ffc",
+      "short_url": "lbry://sp-ss10re-tjwo#c",
+      "signing_channel": {
+        "address": "bMq3HSTyxGGQZA4WcagdwfQ9Q6bv8JtCu5",
+        "amount": "0.01",
+        "canonical_url": "lbry://@SimpleProgrammer#5",
+        "claim_id": "5398cff749ced5cfdea824dfbff0387ded22261b",
+        "claim_op": "create",
+        "confirmations": 520587,
+        "has_signing_key": false,
+        "height": 197260,
+        "meta": {
+          "activation_height": 197260,
+          "claims_in_channel": 1349,
+          "creation_height": 197260,
+          "creation_timestamp": 1498464721,
+          "effective_amount": "0.01",
+          "expiration_height": 2299660,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 197260,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@SimpleProgrammer",
+        "normalized_name": "@simpleprogrammer",
+        "nout": 0,
+        "permanent_url": "lbry://@SimpleProgrammer#5398cff749ced5cfdea824dfbff0387ded22261b",
+        "short_url": "lbry://@SimpleProgrammer#5",
+        "timestamp": 1498464721,
+        "txid": "f644ff3f5429c226da4e9ba57d33a5a6361fdd3c9e4276985a133c42c5febb5a",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004cf28b70c49ed80524db67e27e08821cd253f93a4146a7a54123fb52fdced4f25d576f2c73b1515a06ae3093a132a91eda13cb830b0d6d9d67f25dafdc400b2e7",
+          "public_key_id": "bLPRvdZjwXVMQpDqgvK3GgsdfZB9a6XpkM"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1499150585,
+      "txid": "7685f17a485478822a9648b1fec7d61275e6d68391071cba8a81b0ddeccbd150",
+      "type": "claim",
+      "value": {
+        "author": "Simple Programmer",
+        "description": "FREE COURSE - 5 Learning Mistakes Software Developers Make https://simpleprogrammer.com/learn-faster\nSUBSCRIBE TO THIS CHANNEL: vid.io/xokz\n\nHow It Feels To Learn JavaScript In 2016: https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.bnuot8sug\nShould A Developer Learn Mature Or Brand New Technologies?: https://www.youtube.com/watch?v=dFgGbbugLBU&index=76&list=PLjwWT1Xy3c4U4xrSdGiN9fh04NjHoNwTq\n\nHow It Feels To Learn JavaScript In 2016?\n\nSo, recently I've stumbled accross this article called \"How It Feels To Learn JavaScript In 2016?\" at HackerNoon and I decided to make a video about it.\n\nSo, basically this article discussess how it feels to learn JavaScript in 2016. This guy wanted to learn JavaScript and suddenly he discovered HOW COMPLEX web development is right now and how many things you'll need to learn in order to become a programming language expert.\n\nNot only that, the complexity is rising more and more each day and things are really flying off the rails.\n\nIn this video I will discuss a little bit more about how does it feel to become a web developer right now and why this article was one of the best I've read in a long time.\n\nIf you have a question, email me at john@simpleprogrammer.com\n\nIf you liked this video, share, like and, of course, subscribe!\n\nSubscribe To My YouTube Channel: http://bit.ly/1zPTNLT\n\nVisit Simple Programmer Website: http://simpleprogrammer.com/\n\nConnect with me on social media:\nFacebook: https://www.facebook.com/SimpleProgrammer\nTwitter: https://twitter.com/jsonmez\n\nOther Links:\nSign up for the Simple Programmer Newsletter: http://simpleprogrammer.com/email\nSimple Programmer blog: http://simpleprogrammer.com/blog\nLearn how to learn anything quickly: http://10stepstolearn.com\nBoost your career now: http://devcareerboost.com",
+        "languages": [
+          "en"
+        ],
+        "license": "Copyrighted (Contact Author)",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "22b3eab34f60e09d8b8ac3f80903c8fa73d78580b649d06bb839b3c5d658177084232f2de9938369dea8de401c04c4a6"
+        },
+        "stream_type": "video",
+        "thumbnail": {
+          "url": "http://berk.ninja/thumbnails/ss10re-tjwo"
+        },
+        "title": "How It Feels To Learn JavaScript In 2016"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bMPYFGRtqQfaYcHprLkXEZ1CqeXBCkcgwu",
+      "amount": "0.01",
+      "canonical_url": "lbry://@EssentialTutorials#9/review-and-demonstration-socket-io#a",
+      "claim_id": "af244fa49a0643dacbc702a304665ca4381905ec",
+      "claim_op": "create",
+      "confirmations": 126029,
+      "height": 591818,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 591818,
+        "creation_height": 591818,
+        "creation_timestamp": 1561748273,
+        "effective_amount": "0.01",
+        "expiration_height": 2694218,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 591818,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "review-and-demonstration-socket-io",
+      "normalized_name": "review-and-demonstration-socket-io",
+      "nout": 0,
+      "permanent_url": "lbry://review-and-demonstration-socket-io#af244fa49a0643dacbc702a304665ca4381905ec",
+      "short_url": "lbry://review-and-demonstration-socket-io#a",
+      "signing_channel": {
+        "address": "bYcCsxCNGmhMoxyqXHXdquyT2BD7bCzhGa",
+        "amount": "0.01",
+        "canonical_url": "lbry://@EssentialTutorials#9",
+        "claim_id": "9b8f85b010823f2798d57e421dadcdd951f82f09",
+        "claim_op": "create",
+        "confirmations": 126031,
+        "has_signing_key": false,
+        "height": 591816,
+        "meta": {
+          "activation_height": 591816,
+          "claims_in_channel": 9,
+          "creation_height": 591816,
+          "creation_timestamp": 1561748201,
+          "effective_amount": "0.01",
+          "expiration_height": 2694216,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 591816,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@EssentialTutorials",
+        "normalized_name": "@essentialtutorials",
+        "nout": 0,
+        "permanent_url": "lbry://@EssentialTutorials#9b8f85b010823f2798d57e421dadcdd951f82f09",
+        "short_url": "lbry://@EssentialTutorials#9",
+        "timestamp": 1561748201,
+        "txid": "f5e95f7ac9737ac22cb994290946f8def18741c17077df246b726522063c6e27",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCoZPFSGcKeEcyHuJGlgBI2w"
+          },
+          "description": "This channel is dedicated to providing you with proper tutorials on game making, graphic design, and programming processes. If you're not interested in making games or programming, I also post creative content as well.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a034200043d0b3f1231f6ce57de0f1a5f23db4dbff150a342f3e824410c27aa47bba7e9fa8b4c71353254df8872ff0ae2caeefafccd523a32aa74e27a22b89e536ce7a2ed",
+          "public_key_id": "bTfA9c7E9Pmkr6bwWPqgoz6FDLakBGNouN",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCoZPFSGcKeEcyHuJGlgBI2w"
+          },
+          "title": "Essential Tutorials"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1561748273,
+      "txid": "d97ea2ee64d6fc4ae2aea75c159da7df0755b03903137f9f7963bfacb6aca8d3",
+      "type": "claim",
+      "value": {
+        "description": "Briefly reviewing how it works, and then demonstrating it working.\n...\nhttps://www.youtube.com/watch?v=AdRamRV0JjA",
+        "languages": [
+          "en"
+        ],
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1558641730",
+        "source": {
+          "hash": "59b15927361b94d8d511b5523679c1c6f05effb596f58aacdf337ff20c5ea774f8cbc8a6ff5eed0e772379ed11008102",
+          "media_type": "video/mp4",
+          "name": "review-and-demonstration.mp4",
+          "sd_hash": "890b3fdf0f6e9fcaa2e688748b119aeca81d045026763951b35d6aaee030d90927314cfc82406a9a77d436f97d75bb53",
+          "size": "9417615"
+        },
+        "stream_type": "video",
+        "tags": [
+          "gaming",
+          "technology",
+          "39dll",
+          "39dll wrapper",
+          "39ster",
+          "code",
+          "game maker",
+          "gamemaker",
+          "gamemaker games",
+          "gml",
+          "javascript",
+          "javascript in game development",
+          "javascript wrapper",
+          "learn javascript",
+          "multiplayer",
+          "networking",
+          "node",
+          "node js",
+          "nodejs",
+          "programming",
+          "programming in javascript",
+          "socket",
+          "sockets",
+          "websockets",
+          "wrapper",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/AdRamRV0JjA"
+        },
+        "title": "Review And Demonstration - Socket.io - Antiumadam",
+        "video": {
+          "duration": 118,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHDfMMjTzPym1ARRaq6ZS4kxr5QqkwZ74j",
+      "amount": "0.005",
+      "canonical_url": "lbry://@taimoorahmad#e/do-you-need-to-know-javascript-to-learn#d",
+      "claim_id": "d2a94e6e9cba1d5350553c2f91ddc3acd61b7057",
+      "claim_op": "update",
+      "confirmations": 27015,
+      "height": 690832,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 687037,
+        "creation_height": 687037,
+        "creation_timestamp": 1577051002,
+        "effective_amount": "0.005",
+        "expiration_height": 2789437,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 687037,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "do-you-need-to-know-javascript-to-learn",
+      "normalized_name": "do-you-need-to-know-javascript-to-learn",
+      "nout": 0,
+      "permanent_url": "lbry://do-you-need-to-know-javascript-to-learn#d2a94e6e9cba1d5350553c2f91ddc3acd61b7057",
+      "short_url": "lbry://do-you-need-to-know-javascript-to-learn#d",
+      "signing_channel": {
+        "address": "bHDfMMjTzPym1ARRaq6ZS4kxr5QqkwZ74j",
+        "amount": "0.005",
+        "canonical_url": "lbry://@taimoorahmad#e",
+        "claim_id": "eb14d5246d14f81728cbb62dbfb4d0df9cf7d590",
+        "claim_op": "update",
+        "confirmations": 28219,
+        "has_signing_key": false,
+        "height": 689628,
+        "meta": {
+          "activation_height": 687011,
+          "claims_in_channel": 104,
+          "creation_height": 686983,
+          "creation_timestamp": 1577041956,
+          "effective_amount": "481.000673",
+          "expiration_height": 2789383,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "480.995673",
+          "take_over_height": 689630,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@taimoorahmad",
+        "normalized_name": "@taimoorahmad",
+        "nout": 0,
+        "permanent_url": "lbry://@taimoorahmad#eb14d5246d14f81728cbb62dbfb4d0df9cf7d590",
+        "short_url": "lbry://@taimoorahmad#e",
+        "timestamp": 1577465936,
+        "txid": "8feb21abd77eedc457723d9a4a5cd5dbe031201f5216273c85b802a0187be751",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UC9_2rdTefiAnSpOz9NMe9QA"
+          },
+          "description": "Subscribe if you're into the following content or a mix of them all!\n- Programming videos\n- Motivational content\n- Productivity content\n- Stoicism\n\nConnect with me on Discord, Twitter, GitHub, Indie Hackers and more!\nP.S. Don't use my PayPal link, as I am now boycotting Paypal.",
+          "locations": [
+            {
+              "country": "CA"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004eeee4be131136c3eaa9f0f382948674fcbb05314944525e943cb391c5e8e7c8ee4d264431dfea736ee5ac1a0b73be25d173a6506efc5af5a435944c7ea707396",
+          "public_key_id": "bQtW54KazTD3T3te12VQmveAr2dVfT3Luf",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UC9_2rdTefiAnSpOz9NMe9QA"
+          },
+          "title": "Taimoor Ahmad"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1577658260,
+      "txid": "f08d11d2c827e0491a84a5e3f9660e6d6dfe62a984af01abf77177dac2f70013",
+      "type": "claim",
+      "value": {
+        "description": "Do you need to learn Javascript before learning React? In my opinion you don't need to know Javascript before learning React. In this video I go over why I think that and I talk about how I learned React without knowing Javascript. \n\nThe course I mention in the video is \"CS50 EDX React Native\". The first 2 or 3 videos are pure Javascript ES6. Thanks for watching, remember to subscribe! I'll have a vid coming out about my first impressions about the Scrimba.com React Bootcamp soon!\n\n// Get connected with me & Hit that sub btn!\nDISCORD - https://discordapp.com/invite/Q4aJJ5f \nTWITTER - https://twitter.com/TaimoorBeLike\nGITHUB - https://github.com/taimoorgit\nMY GEAR - https://kit.com/TaimoorFlex\nPAYPAL - https://paypal.me/taimoorapps\n\n// More valuable content!\nLearn Javascript in 24 mins - https://youtu.be/7K9618ReWPs\nA tour of CodeSandbox.io - https://youtu.be/JKP50Nu31N8\nMake your first React web app - https://youtu.be/pPsIKy10hcY\nMake your first React mobile app - https://youtu.be/bPTaMjDBdqs\nGet motivated to code! - https://youtu.be/GCynFN2ImPQ\nOne great Stoic principle - https://youtu.be/CspgdfDBymU\nMy Room Setup (as of 2019) - https://youtu.be/hPb3VSiJJkg\n\n// My Programming Setup! (Amazon links)\nMain Computer - ThinkPad X390 16GB RAM i7\nCrucial 1TB M.2 SSD - http://geni.us/stQDXv\nTrackball Mouse - http://geni.us/0Bzy\nBose Wireless Headphones - http://geni.us/b8NlaBV\nHyperX Keyboard (Red switches) - http://geni.us/vBMHH \nSoftware stack: VSCode, IntelliJ IDEA, Android Studio, NodeJS, Windows 10 Pro + WSL\n\n// My Recording Setup! (Amazon links)\nDJI Osmo Pocket Camera - http://geni.us/BBvoc \nPGYTECH Protector for Osmo - http://geni.us/UAdmMs\nPolar Pro Tripod Mount - http://geni.us/pUuBjBi \nUlanzi OP-1 Tripod Mount - http://geni.us/zm27O\nAmazon Basics Tripod - http://geni.us/TyTw0 \nMOUNTDOG Softbox lights - http://geni.us/rayG\nSony Voice Recorder - http://geni.us/wlTW \nPowerDeWise Microphone - http://geni.us/dr5w \nSoftware stack: OBS, Premiere Pro CC, Photoshop CC, After Effects CC once in a while.\n\n// Book Recommendations! (Amazon links)\nHead First Java (best book to learn Java and OOP) - http://geni.us/xT3C8gv\nEffective Java (best book on OO design patterns) - http://geni.us/GYCxB34\nThe Lean Startup (learn about Agile and more) - http://geni.us/cWIQ4B\nAtomic Habits (productivity) - http://geni.us/GFlXv\n10% Happier (mindfulness) - http://geni.us/CV2H\nUnscripted (entrepreneurship) - http://geni.us/vtjsNcC\n\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nFeel Good by MusicbyAden https://soundcloud.com/musicbyaden\nCreative Commons \u2014 Attribution-ShareAlike 3.0 Unported \u2014 CC BY-SA 3.0\nFree Download / Stream: https://bit.ly/_feel-good\nMusic promoted by Audio Library https://youtu.be/bvgIqqRStcQ\n\u2013\u2013\u2013\u2013\u2013\ufffd\n...\nhttps://www.youtube.com/watch?v=EhgaWAFAAYs",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1574094046",
+        "source": {
+          "hash": "7ffe3638ff4a0033f1ef2d16f8cf66399a99f49b456041e020fe2179dc4184a8c26e7ff26753d41e02472a373d8abcc2",
+          "media_type": "video/mp4",
+          "name": "do-you-need-to-know-javascript.mp4",
+          "sd_hash": "411d4e24ffc97190f4075c28d736c003d9ab58c4f3d727919ce1256d9df3cf6734fc5f630fd5df04b3a1140aef886c73",
+          "size": "92996180"
+        },
+        "stream_type": "video",
+        "tags": [
+          "pop culture",
+          "best way to learn front end",
+          "best way to learn javascript",
+          "best way to learn react",
+          "front end dev",
+          "front end dev roadmap",
+          "javascript 101",
+          "javascript for beginners",
+          "javascript tutorial",
+          "js",
+          "jsx",
+          "learn javascript",
+          "learn react",
+          "learning react for beginners",
+          "learning webdev",
+          "react",
+          "react 101",
+          "react for beginners",
+          "react js",
+          "react js getting started",
+          "react js tutorial",
+          "react tutorial",
+          "scrimba react",
+          "scrimba react course",
+          "taimoor ahmad",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/EhgaWAFAAYs"
+        },
+        "title": "Do you NEED to know Javascript to learn React? (No!)",
+        "video": {
+          "duration": 320,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bCnqJuPBgYfYQafxj8Xgr6ToKc1WAg7jN9",
+      "amount": "0.005",
+      "canonical_url": "lbry://@SimonSayzTech#f/10-tips-for-clean-code#7",
+      "claim_id": "78790a309e570d73e4ff0d8d9e2836d5cc4484c9",
+      "claim_op": "update",
+      "confirmations": 70964,
+      "height": 646883,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 592593,
+        "creation_height": 592593,
+        "creation_timestamp": 1561878748,
+        "effective_amount": "0.005",
+        "expiration_height": 2694993,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 592593,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "10-tips-for-clean-code",
+      "normalized_name": "10-tips-for-clean-code",
+      "nout": 0,
+      "permanent_url": "lbry://10-tips-for-clean-code#78790a309e570d73e4ff0d8d9e2836d5cc4484c9",
+      "short_url": "lbry://10-tips-for-clean-code#7",
+      "signing_channel": {
+        "address": "bCnqJuPBgYfYQafxj8Xgr6ToKc1WAg7jN9",
+        "amount": "0.005",
+        "canonical_url": "lbry://@SimonSayzTech#f",
+        "claim_id": "f3790767bff046adb9786165f2cdbc1ab43e2873",
+        "claim_op": "update",
+        "confirmations": 70963,
+        "has_signing_key": false,
+        "height": 646884,
+        "meta": {
+          "activation_height": 592591,
+          "claims_in_channel": 59,
+          "creation_height": 592591,
+          "creation_timestamp": 1561878108,
+          "effective_amount": "455.002475",
+          "expiration_height": 2694991,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "454.997475",
+          "take_over_height": 592591,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@SimonSayzTech",
+        "normalized_name": "@simonsayztech",
+        "nout": 0,
+        "permanent_url": "lbry://@SimonSayzTech#f3790767bff046adb9786165f2cdbc1ab43e2873",
+        "short_url": "lbry://@SimonSayzTech#f",
+        "timestamp": 1570610276,
+        "txid": "b4419b68a93c2161bb292e88428b7e88525b7e8f43cb5f5262589ff70eb62d6d",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCRnvRKdqj_QGKZBL0iEALHg"
+          },
+          "description": "Thanks for visiting Simon Sayz, \nWe curate all the content we are interested in and hope you're interested in it too. \nIf you are , please subscribe and engage in the channel.\n\nJoin our facebook Page - https://bit.ly/2NigGRK\n\nJoin me on STEEMIT - https://steemit.com/@simonsayz\n\n#simonsayz",
+          "locations": [
+            {
+              "country": "AU"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004c199e3dd1eb62c4af0c2d952300077aa23a4fd1dbeda94b40f8ddb7bba460e7cc41c441ca1106c6097c866f238f2e6704a71df60c67f19546775f1d48a07ccee",
+          "public_key_id": "bGGM4ZG6R5CUPyLM8PVshpZb7oNoBAvdUa",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCRnvRKdqj_QGKZBL0iEALHg"
+          },
+          "title": "Simon Sayz"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1570610132,
+      "txid": "7eba985eb5f5f0e2f2de1d244516c847b5e8bd6e3365ed16e9c3a1f8d0eb6873",
+      "type": "claim",
+      "value": {
+        "description": "What is the clean code? In this talk the speaker will provide some answers to this question, and introduce you to 10 good habits that will help keep your code clean.\n\n10 Tips For Clean Code\n\nEVENT: Wordcamp US, 2016\n\nSPEAKER: Michael Toppa\n\nCREDITS: This is a repost of the original video published on WordPress YouTube channel (https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg), which was uploaded with the Creative Commons Attribution license (reuse allowed). \n\n...\nhttps://www.youtube.com/watch?v=Fcu2UrBBtj0",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1550472999",
+        "source": {
+          "hash": "de252b30b35a155b39201c5d8f233ec298749df3b7546edb37cae0941d717ee8e506471cb3988461dd7117e68386f0d8",
+          "media_type": "video/mp4",
+          "name": "10-tips-for-clean-code.mp4",
+          "sd_hash": "135fceb9d69dd349d291e026787110e846d511b90a52ad56c3e6b94c8dcb3a42d3333a293aee0b4583fd8e837601136d",
+          "size": "71665843"
+        },
+        "stream_type": "video",
+        "tags": [
+          "technology",
+          "10 tips for clean code",
+          "clean code",
+          "code review",
+          "coding",
+          "coding tech",
+          "javascript",
+          "learn javascript",
+          "php",
+          "programming",
+          "software development",
+          "wordpress",
+          "education"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/Fcu2UrBBtj0"
+        },
+        "title": "10 Tips For Clean Code",
+        "video": {
+          "duration": 680,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bJ4YAm4TbQnQUFoBE9QJx4SxUu75oKRAQb",
+      "amount": "0.01",
+      "canonical_url": "lbry://@justirma#e/steps-to-stay-positive-while-learning#e",
+      "claim_id": "ea52cfe657b8e91d077be0cb066761cdab2d4d35",
+      "claim_op": "create",
+      "confirmations": 120729,
+      "height": 597118,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 597118,
+        "creation_height": 597118,
+        "creation_timestamp": 1562623330,
+        "effective_amount": "0.01",
+        "expiration_height": 2699518,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 597118,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "steps-to-stay-positive-while-learning",
+      "normalized_name": "steps-to-stay-positive-while-learning",
+      "nout": 0,
+      "permanent_url": "lbry://steps-to-stay-positive-while-learning#ea52cfe657b8e91d077be0cb066761cdab2d4d35",
+      "short_url": "lbry://steps-to-stay-positive-while-learning#e",
+      "signing_channel": {
+        "address": "bEL9XbS3JNRkHwScKhk6Yf4munMQbZq3p3",
+        "amount": "0.01",
+        "canonical_url": "lbry://@justirma#e",
+        "claim_id": "e0bc999b7aba32ee52df11ebc8447ef22976a887",
+        "claim_op": "create",
+        "confirmations": 120731,
+        "has_signing_key": false,
+        "height": 597116,
+        "meta": {
+          "activation_height": 597116,
+          "claims_in_channel": 36,
+          "creation_height": 597116,
+          "creation_timestamp": 1562623232,
+          "effective_amount": "0.01",
+          "expiration_height": 2699516,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 597116,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@justirma",
+        "normalized_name": "@justirma",
+        "nout": 0,
+        "permanent_url": "lbry://@justirma#e0bc999b7aba32ee52df11ebc8447ef22976a887",
+        "short_url": "lbry://@justirma#e",
+        "timestamp": 1562623232,
+        "txid": "25da0ae365363f34c576662005cf289330132ae4d885ab38fab0583ea4116f28",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCh1t4RdWMZ2mfYTWfpFaZNg"
+          },
+          "description": "Irma here! \n\nI\u2019m a content creator based out of Indiana. My days are spent creating, working as a Product Manager, blogging and podcasting. You can expect to find videos with content that will help you improve your lifestyle as a remote worker, tips on managing remote teams and videos on tech and being a woman in tech. \n\nMy content will be based on remote work, women in tech, and digital minimalism. Subscribe to stay tuned. \n\n#remotework #workfromhome #remote #tech #career #productmanagement #nocode #growth2019 #digitalminimalism2019",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a034200042c42d3e026c2f77656f193ca2b67e50585572aaea7aba72c9e8a1908326bfce01657503a796fdaad1533193b1dfa94c6a82337a7306b210e736be4fcb944395e",
+          "public_key_id": "bE56C31ngJM9HHuNSxG3GHRYtWep9C4iUU",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCh1t4RdWMZ2mfYTWfpFaZNg"
+          },
+          "title": "JustIrma - Women in Tech & Remote Work"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1562623330,
+      "txid": "882261c92f856fde9c62bafe4ae4edea977fb480c763d45e61577966f3d7fe3c",
+      "type": "claim",
+      "value": {
+        "description": "Let's talk about how to stay positive while you're learning how to code. It can be stressful and tough but there are communities, strategies and tips you can use today to keep positive and motivated. \n\nCommunities mentioned:\n1. https://productivityintech.com/blog\n2. https://dev.to/\n3. https://www.codenewbie.org/\n4. https://shenomads.com/\n5. https://www.reddit.com/r/learnprogramming/\n6. https://www.reddit.com/r/learnjavascript/\n\n...\nhttps://www.youtube.com/watch?v=WxhmJnbifFM",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1516321220",
+        "source": {
+          "hash": "8a6a5f3013a235a42ae36b5959c7cceb40c6349c83d5512ea123b0f1f1718bf7295b30f6280cacd11ee6d9b1763a12cd",
+          "media_type": "video/mp4",
+          "name": "steps-to-stay-positive-while.mp4",
+          "sd_hash": "030906776f42aa47b92a045e9b8dd4a181882d47bf94585bb606f55bfa2d6606d7510c38e5c958b938413627342b1d1e",
+          "size": "85084880"
+        },
+        "stream_type": "video",
+        "tags": [
+          "beginner",
+          "codenewbie",
+          "coding",
+          "dev community",
+          "how to code",
+          "how to stay motivated",
+          "html learning",
+          "javascript",
+          "pomodoro",
+          "productivity in tech",
+          "reddit",
+          "shenomads",
+          "slack",
+          "education"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/WxhmJnbifFM"
+        },
+        "title": "Steps to stay positive while learning programming",
+        "video": {
+          "duration": 418,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bM4CNgPG2SwTHoeB1BXZMp2HcXN7Dju13L",
+      "amount": "0.01",
+      "canonical_url": "lbry://@ambercodes#c/home-directory-a-day-in-the-life-vlog-1#9",
+      "claim_id": "99cbd524bac87dbe59659e7bc66418181a34c7a8",
+      "claim_op": "create",
+      "confirmations": 81913,
+      "height": 635934,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 635934,
+        "creation_height": 635934,
+        "creation_timestamp": 1568856899,
+        "effective_amount": "0.01",
+        "expiration_height": 2738334,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 635934,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "home-directory-a-day-in-the-life-vlog-1",
+      "normalized_name": "home-directory-a-day-in-the-life-vlog-1",
+      "nout": 0,
+      "permanent_url": "lbry://home-directory-a-day-in-the-life-vlog-1#99cbd524bac87dbe59659e7bc66418181a34c7a8",
+      "short_url": "lbry://home-directory-a-day-in-the-life-vlog-1#9",
+      "signing_channel": {
+        "address": "bbP5692bbGqhUZitPLAojJQT7EBqk2FdwP",
+        "amount": "0.01",
+        "canonical_url": "lbry://@ambercodes#c",
+        "claim_id": "c998d9b363269cde64cf80895f7d972b5c8bc3ad",
+        "claim_op": "create",
+        "confirmations": 125460,
+        "has_signing_key": false,
+        "height": 592387,
+        "meta": {
+          "activation_height": 592387,
+          "claims_in_channel": 16,
+          "creation_height": 592387,
+          "creation_timestamp": 1561845048,
+          "effective_amount": "0.01",
+          "expiration_height": 2694787,
+          "is_controlling": false,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 0,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@ambercodes",
+        "normalized_name": "@ambercodes",
+        "nout": 0,
+        "permanent_url": "lbry://@ambercodes#c998d9b363269cde64cf80895f7d972b5c8bc3ad",
+        "short_url": "lbry://@ambercodes#c",
+        "timestamp": 1561845048,
+        "txid": "879b379094bb19f63fcab5004b47ae286227d946800a8a5b299d12d135d8e642",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UC85SX0qas-JZiS2M6_aml5g"
+          },
+          "description": "Follow me as I Live the Never Ending Learning Journey in the Life as a Non-Traditional Female Software Engineer,  Share my Love of Cooking, DIY's, Self Improvement, Love of All things Tech, and so much more. I upload every Sunday. \n\nMy Socials:\nTWITTER:@ambercodes0101\nINSTAGRAM:@amberdecoded\nGMAIL: amberdecoded@gmail.com",
+          "languages": [
+            "en"
+          ],
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004f9d271c58d697db5de2af745359a32a98e681d60947bedb2607254c24ac0aba974672e5a4b640f3f7509c4b8345e77849319b4419cdf71957ec470bda6dad998",
+          "public_key_id": "bPnbYQvYJP4Vhb22Ebys3AVyQ1yjovJ1gR",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UC85SX0qas-JZiS2M6_aml5g"
+          },
+          "title": "Amber Codes"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1568856899,
+      "txid": "88afadb19ca47fcaae4f68ffd9b93bbfa91105d0d6a18b5ddb0650787f317e4a",
+      "type": "claim",
+      "value": {
+        "description": "Thank you for watching. Stay and subscribe! I upload every Sunday. XOXOXO\n\nFollow me on other socials: \nTwitter:@ambercodes0101\nInstagram:@amberdecoded\nGmail: amberdecoded@gmail.com\n\nBILL PAYING DISCLOSURE:\n\n[Full Disclosure: As an Affiliate, I receive a commission if you purchase through the many links on this page, at no cost to you, and it helps support my channel]\nAffiliate links:\n\nClasses:\nFree Code Camp - Learn JavaScript Free: https://www.freecodecamp.org/\n\nWant to learn about Stellar Cryptocurrency: \nhttps://coinbase.com/earn/xlm/invite/t7sfwb0d\n...\nhttps://www.youtube.com/watch?v=B8gJFQGsvPQ",
+        "languages": [
+          "en"
+        ],
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1568770333",
+        "source": {
+          "hash": "b68058a25aa40ff5296bd3527d7aae25f0c62c0639e936b576cfae1b0706454cd8f3b609ad2846f26a3104d32675d22f",
+          "media_type": "video/mp4",
+          "name": "home-directory-a-day-in-the.mp4",
+          "sd_hash": "421a694958d62559fbcb6c6b3446774c3574883749c94fcbc390182f211f9b333e21b9d797fd749f0c4d52ae0818a135",
+          "size": "126143773"
+        },
+        "stream_type": "video",
+        "tags": [
+          "day inlife",
+          "devlifemomlife",
+          "femaledevelopersjourney",
+          "femaleprogrammersjourney",
+          "girlswhocode",
+          "momprogrammers",
+          "momswhocode",
+          "software engineer day in life",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/B8gJFQGsvPQ"
+        },
+        "title": "Home Directory - A Day in The Life {Vlog 1}",
+        "video": {
+          "duration": 764,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bCnqJuPBgYfYQafxj8Xgr6ToKc1WAg7jN9",
+      "amount": "0.005",
+      "canonical_url": "lbry://@SimonSayzTech#f/the-worst-javascript-flaws-hackers-love#a",
+      "claim_id": "a4f568771cc3768a8546b2b8f8b2b8498a68c1a8",
+      "claim_op": "update",
+      "confirmations": 70964,
+      "height": 646883,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 592593,
+        "creation_height": 592593,
+        "creation_timestamp": 1561878748,
+        "effective_amount": "9.005",
+        "expiration_height": 2694993,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "9.0",
+        "take_over_height": 592593,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "the-worst-javascript-flaws-hackers-love",
+      "normalized_name": "the-worst-javascript-flaws-hackers-love",
+      "nout": 0,
+      "permanent_url": "lbry://the-worst-javascript-flaws-hackers-love#a4f568771cc3768a8546b2b8f8b2b8498a68c1a8",
+      "short_url": "lbry://the-worst-javascript-flaws-hackers-love#a",
+      "signing_channel": {
+        "address": "bCnqJuPBgYfYQafxj8Xgr6ToKc1WAg7jN9",
+        "amount": "0.005",
+        "canonical_url": "lbry://@SimonSayzTech#f",
+        "claim_id": "f3790767bff046adb9786165f2cdbc1ab43e2873",
+        "claim_op": "update",
+        "confirmations": 70963,
+        "has_signing_key": false,
+        "height": 646884,
+        "meta": {
+          "activation_height": 592591,
+          "claims_in_channel": 59,
+          "creation_height": 592591,
+          "creation_timestamp": 1561878108,
+          "effective_amount": "455.002475",
+          "expiration_height": 2694991,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "454.997475",
+          "take_over_height": 592591,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@SimonSayzTech",
+        "normalized_name": "@simonsayztech",
+        "nout": 0,
+        "permanent_url": "lbry://@SimonSayzTech#f3790767bff046adb9786165f2cdbc1ab43e2873",
+        "short_url": "lbry://@SimonSayzTech#f",
+        "timestamp": 1570610276,
+        "txid": "b4419b68a93c2161bb292e88428b7e88525b7e8f43cb5f5262589ff70eb62d6d",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCRnvRKdqj_QGKZBL0iEALHg"
+          },
+          "description": "Thanks for visiting Simon Sayz, \nWe curate all the content we are interested in and hope you're interested in it too. \nIf you are , please subscribe and engage in the channel.\n\nJoin our facebook Page - https://bit.ly/2NigGRK\n\nJoin me on STEEMIT - https://steemit.com/@simonsayz\n\n#simonsayz",
+          "locations": [
+            {
+              "country": "AU"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004c199e3dd1eb62c4af0c2d952300077aa23a4fd1dbeda94b40f8ddb7bba460e7cc41c441ca1106c6097c866f238f2e6704a71df60c67f19546775f1d48a07ccee",
+          "public_key_id": "bGGM4ZG6R5CUPyLM8PVshpZb7oNoBAvdUa",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCRnvRKdqj_QGKZBL0iEALHg"
+          },
+          "title": "Simon Sayz"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1570610132,
+      "txid": "c20eae8b8b7003506d13d1e1ca82b7e514bd57a03908bc51e85d862dc3e62a68",
+      "type": "claim",
+      "value": {
+        "description": "In this Video you can view some of the very things that make JavaScript awesome can also make it exposed. This talk will go through some sample security flaws unique to JavaScript\u2019s async nature and surrounding ecosystem. We\u2019ll show live exploits to understand the issues and their impact, explain why they happen and \u2013 most importantly \u2013 how to avoid or fix them.\n\nThe worst Javascript Flaws Hackers love to abuse\n\nEVENT: JS Congress, 2016\n\nSPEAKER: Guy Podjarny\n\nPERMISSIONS: The original video was published on JS Congress YouTube channel with the Creative Commons Attribution license (reuse allowed).\n\n...\nhttps://www.youtube.com/watch?v=ooXEvq7iDUE",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1550394003",
+        "source": {
+          "hash": "95b0381b312283abc828f9b4a6d47dc8c45630ac105c36ce430e11e6352693eab163943fe68380df53c917fba1365b81",
+          "media_type": "video/mp4",
+          "name": "the-worst-javascript-flaws.mp4",
+          "sd_hash": "50853df96aa091d5e92781de73c39018119965caff45bafc7759daf7f8b3a546ccec64751645edf46d0d7e817707c127",
+          "size": "136343322"
+        },
+        "stream_type": "video",
+        "tags": [
+          "cross site scripting",
+          "ddos",
+          "ddos attack",
+          "hacker",
+          "hackers",
+          "hacking javascript",
+          "javascript",
+          "javascript vulnerabilities",
+          "javascripts flaws",
+          "js",
+          "learn javascript",
+          "learn js",
+          "script",
+          "security",
+          "simon sayz",
+          "simonsayz",
+          "the worst javascript flaws hackers love to abuse",
+          "web development",
+          "web security",
+          "wordpress",
+          "xss attack",
+          "education"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/ooXEvq7iDUE"
+        },
+        "title": "The Worst JavaScript Flaws Hackers Love To Abuse",
+        "video": {
+          "duration": 1414,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bQS8vev7ddmf4csjQUcbUmftfFuU3AN5m2",
+      "amount": "0.005",
+      "canonical_url": "lbry://@BrodieRobertson#5/why-typescript-is-just-plain-better-than#a",
+      "claim_id": "a08660b0550976f260e6865c292f375f52d8f8f0",
+      "claim_op": "update",
+      "confirmations": 51197,
+      "height": 666650,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 666627,
+        "creation_height": 666627,
+        "creation_timestamp": 1573784030,
+        "effective_amount": "3.005",
+        "expiration_height": 2769027,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "3.0",
+        "take_over_height": 666627,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "why-typescript-is-just-plain-better-than",
+      "normalized_name": "why-typescript-is-just-plain-better-than",
+      "nout": 0,
+      "permanent_url": "lbry://why-typescript-is-just-plain-better-than#a08660b0550976f260e6865c292f375f52d8f8f0",
+      "short_url": "lbry://why-typescript-is-just-plain-better-than#a",
+      "signing_channel": {
+        "address": "bQS8vev7ddmf4csjQUcbUmftfFuU3AN5m2",
+        "amount": "0.005",
+        "canonical_url": "lbry://@BrodieRobertson#5",
+        "claim_id": "56e86eb938c0b93beccde0fbaaead65755139a10",
+        "claim_op": "update",
+        "confirmations": 20392,
+        "has_signing_key": false,
+        "height": 697455,
+        "meta": {
+          "activation_height": 666613,
+          "claims_in_channel": 213,
+          "creation_height": 666613,
+          "creation_timestamp": 1573781532,
+          "effective_amount": "851.004893",
+          "expiration_height": 2769013,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "850.999893",
+          "take_over_height": 666613,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": -1324.2545166015625
+        },
+        "name": "@BrodieRobertson",
+        "normalized_name": "@brodierobertson",
+        "nout": 0,
+        "permanent_url": "lbry://@BrodieRobertson#56e86eb938c0b93beccde0fbaaead65755139a10",
+        "short_url": "lbry://@BrodieRobertson#5",
+        "timestamp": 1578721889,
+        "txid": "e79db5d08bdd72c3dd0cf353d29ea24aa77fa1e16c56b8394017f6b3d2dca511",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://spee.ch/0/d75a27f5-5d9f-4a98-93c3-3e270e53ed1a.png"
+          },
+          "description": "Getting the most of my computer with Arch Linux\nIf you want to contact me: follow and DM on Twitter\nAll of my scripts and configs are available on my GitHub",
+          "locations": [
+            {
+              "country": "AU"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004030ca55be9e409c877ddbaea9983fad3453ceff7abea89bde9d2071ebbbd41fc747aef82baf23ed3075ddf53fd8597a977ea144bc1422f1412b3c2f94ba7e2d2",
+          "public_key_id": "bWp3FdoUNJYAHncx9MdDxZGMMX7ALXZ2Vm",
+          "tags": [
+            "arch linux",
+            "linux",
+            "tech",
+            "technology",
+            "education"
+          ],
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCld68syR8Wi-GY_n4CaoJGA"
+          },
+          "title": "Brodie Robertson | Linux Tips & Tricks"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1573788042,
+      "txid": "9377551d7a206e200c80519564af6f0d79c7275863a5626e76843458a2aa6902",
+      "type": "claim",
+      "value": {
+        "description": "When you first start doing frontend web development most people will start with JavaScript but in 2019 that's not the option that's is available. Whilst learning JavaScript is still incredibly important another option is TypeScript which is basically just the modern EcmaScript standard plus types and there's plenty of benefit that comes from working with a strongly typed language. If you're interested in some of the videos then be sure to watch the video.\n\n\ud83d\udc96 Subscribe and ding the bell for more videos! \n\ud83d\udc4d Leave a like if you got something out of this video!\n\u270d Comment some video feedback or what you want to see next time!\n\nTypeScript Playground:\nhttps://www.typescriptlang.org/play/\n\n\ud83d\udda5\ufe0f GitHub:\nhttps://github.com/BrodieRobertson\n\n\ud83d\udc26 Twitter:\nhttps://twitter.com/BrodieOnYoutube\n\n\ud83c\udf10 Mastodon:\nhttps://mastodon.social/@BrodieOnYoutube\n\n\ud83c\udfb5 Opening music\nMusic from https://filmmusic.io\n\"Rocket\" by Kevin MacLeod (https://incompetech.com)\nLicense: CC BY (http://creativecommons.org/licenses/by/4.0/)\n\n\ud83c\udfb5 Ending music\nMusic from https://filmmusic.io\n\"Basic Implosion\" by Kevin MacLeod (https://incompetech.com)\nLicense: CC BY (http://creativecommons.org/licenses/by/4.0/)\n...\nhttps://www.youtube.com/watch?v=ULl3TaTIvEU",
+        "languages": [
+          "en"
+        ],
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1571864406",
+        "source": {
+          "hash": "f2e223529c57eac619185355fc72de03d680451b6375a24e419f8caa12bb5d3bb00f87627d9ee22db30f7b215ebe7660",
+          "media_type": "video/mp4",
+          "name": "why-typescript-is-just-plain.mp4",
+          "sd_hash": "7ee8f73ab0d3fba7ffa6b5c4901a1cf3c863fccbce0a2cf0575ccefd2b1ef1b4743f917bfa1cab997d88aef487c335ed",
+          "size": "164450706"
+        },
+        "stream_type": "video",
+        "tags": [
+          "technology",
+          "brodie robertson",
+          "coding",
+          "javascript 2019",
+          "javascript is bad",
+          "javascript is the best language",
+          "javascript vs typescript",
+          "javascript vs typescript 2019",
+          "javscript",
+          "programming",
+          "typescript",
+          "typescript 2019",
+          "typescript is bad",
+          "typescript is the best language",
+          "typescript vs javascript",
+          "typescript vs javascript 2019",
+          "web development",
+          "web development 2019",
+          "what is javascript",
+          "what is typescript",
+          "why javascript is better than typescript",
+          "why typescript is better than javascript",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/ULl3TaTIvEU"
+        },
+        "title": "Why TypeScript Is Just Plain Better Than JavaScript (2019)",
+        "video": {
+          "duration": 569,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bXPxdKbPckdfnSRdkEmBge82XwYvxWvtGC",
+      "amount": "0.01",
+      "canonical_url": "lbry://@SimpleProgrammer#5/sp-nsZCzw8srJ4#4",
+      "claim_id": "44b1190da764ed877be315e3519ca93571af0814",
+      "claim_op": "create",
+      "confirmations": 516384,
+      "height": 201463,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 201463,
+        "creation_height": 201463,
+        "creation_timestamp": 1499152827,
+        "effective_amount": "0.01",
+        "expiration_height": 2303863,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 201463,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "sp-nsZCzw8srJ4",
+      "normalized_name": "sp-nszczw8srj4",
+      "nout": 0,
+      "permanent_url": "lbry://sp-nsZCzw8srJ4#44b1190da764ed877be315e3519ca93571af0814",
+      "short_url": "lbry://sp-nsZCzw8srJ4#4",
+      "signing_channel": {
+        "address": "bMq3HSTyxGGQZA4WcagdwfQ9Q6bv8JtCu5",
+        "amount": "0.01",
+        "canonical_url": "lbry://@SimpleProgrammer#5",
+        "claim_id": "5398cff749ced5cfdea824dfbff0387ded22261b",
+        "claim_op": "create",
+        "confirmations": 520587,
+        "has_signing_key": false,
+        "height": 197260,
+        "meta": {
+          "activation_height": 197260,
+          "claims_in_channel": 1349,
+          "creation_height": 197260,
+          "creation_timestamp": 1498464721,
+          "effective_amount": "0.01",
+          "expiration_height": 2299660,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 197260,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@SimpleProgrammer",
+        "normalized_name": "@simpleprogrammer",
+        "nout": 0,
+        "permanent_url": "lbry://@SimpleProgrammer#5398cff749ced5cfdea824dfbff0387ded22261b",
+        "short_url": "lbry://@SimpleProgrammer#5",
+        "timestamp": 1498464721,
+        "txid": "f644ff3f5429c226da4e9ba57d33a5a6361fdd3c9e4276985a133c42c5febb5a",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004cf28b70c49ed80524db67e27e08821cd253f93a4146a7a54123fb52fdced4f25d576f2c73b1515a06ae3093a132a91eda13cb830b0d6d9d67f25dafdc400b2e7",
+          "public_key_id": "bLPRvdZjwXVMQpDqgvK3GgsdfZB9a6XpkM"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1499152827,
+      "txid": "a0de175dfa4b1f6b27bca4b67e840787b0128d9645bf67551cce751c6806335b",
+      "type": "claim",
+      "value": {
+        "author": "Simple Programmer",
+        "description": "FREE COURSE - 5 Learning Mistakes Software Developers Make https://simpleprogrammer.com/learn-faster\nSUBSCRIBE TO THIS CHANNEL: vid.io/xokz\nDEVMOUNTAIN - SIMPLE PROGRAMMER SPONSOR: https://simpleprogrammer.com/devmountain\n\nHow It Feels To Learn JavaScript In 2016: https://www.youtube.com/watch?v=ss10re-tjwo\nThe Complete Software Developer's Career Guide: https://simpleprogrammer.com/career-guide-yt\nThe Way Of The Superior Man: https://simpleprogrammer.com/thewayofthesuperiormanbook\n\nProgramming Gets Harder & Harder... And We Should Accept It\n\nWe all know that things get harder and hard over the years, right? If you step back in time 50 years you'll see how things were much simpler in a lot of different areas of knowledge...\n\nWith programming, it is no different. Over the years, things have evolved and changed so much that a programmer now has to know much more that the same programmer needed to know back then.\n\nSo... How do you deal with that? Is there a way to deal with this or should we just accept it?\n\nIf you have a question, email me at john@simpleprogrammer.com\n\nIf you liked this video, share, like and, of course, subscribe!\n\nSubscribe To My YouTube Channel: http://bit.ly/1zPTNLT\n\nVisit Simple Programmer Website: http://simpleprogrammer.com/\n\nConnect with me on social media:\nFacebook: https://www.facebook.com/SimpleProgrammer\nTwitter: https://twitter.com/jsonmez\n\nOther Links:\nSign up for the Simple Programmer Newsletter: http://simpleprogrammer.com/email\nSimple Programmer blog: http://simpleprogrammer.com/blog\nLearn how to learn anything quickly: http://10stepstolearn.com\nBoost your career now: http://devcareerboost.com",
+        "languages": [
+          "en"
+        ],
+        "license": "Copyrighted (Contact Author)",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "815243b10adaae71f9abb18038c74f2a16e2174985712eb1e0d8967868b1270d870e7530250c36b6fb3d721c652b52bb"
+        },
+        "stream_type": "video",
+        "thumbnail": {
+          "url": "http://berk.ninja/thumbnails/nsZCzw8srJ4"
+        },
+        "title": "Programming Gets Harder & Harder... And We Should Accept It"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHDfMMjTzPym1ARRaq6ZS4kxr5QqkwZ74j",
+      "amount": "0.005",
+      "canonical_url": "lbry://@taimoorahmad#e/javascript-tutorial-sorting-examples-and#4",
+      "claim_id": "4cba872c2a688632a31dcf791f11642316132c32",
+      "claim_op": "update",
+      "confirmations": 27015,
+      "height": 690832,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 687036,
+        "creation_height": 687036,
+        "creation_timestamp": 1577050791,
+        "effective_amount": "45.005",
+        "expiration_height": 2789436,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "45.0",
+        "take_over_height": 687036,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "javascript-tutorial-sorting-examples-and",
+      "normalized_name": "javascript-tutorial-sorting-examples-and",
+      "nout": 0,
+      "permanent_url": "lbry://javascript-tutorial-sorting-examples-and#4cba872c2a688632a31dcf791f11642316132c32",
+      "short_url": "lbry://javascript-tutorial-sorting-examples-and#4",
+      "signing_channel": {
+        "address": "bHDfMMjTzPym1ARRaq6ZS4kxr5QqkwZ74j",
+        "amount": "0.005",
+        "canonical_url": "lbry://@taimoorahmad#e",
+        "claim_id": "eb14d5246d14f81728cbb62dbfb4d0df9cf7d590",
+        "claim_op": "update",
+        "confirmations": 28219,
+        "has_signing_key": false,
+        "height": 689628,
+        "meta": {
+          "activation_height": 687011,
+          "claims_in_channel": 104,
+          "creation_height": 686983,
+          "creation_timestamp": 1577041956,
+          "effective_amount": "481.000673",
+          "expiration_height": 2789383,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "480.995673",
+          "take_over_height": 689630,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@taimoorahmad",
+        "normalized_name": "@taimoorahmad",
+        "nout": 0,
+        "permanent_url": "lbry://@taimoorahmad#eb14d5246d14f81728cbb62dbfb4d0df9cf7d590",
+        "short_url": "lbry://@taimoorahmad#e",
+        "timestamp": 1577465936,
+        "txid": "8feb21abd77eedc457723d9a4a5cd5dbe031201f5216273c85b802a0187be751",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UC9_2rdTefiAnSpOz9NMe9QA"
+          },
+          "description": "Subscribe if you're into the following content or a mix of them all!\n- Programming videos\n- Motivational content\n- Productivity content\n- Stoicism\n\nConnect with me on Discord, Twitter, GitHub, Indie Hackers and more!\nP.S. Don't use my PayPal link, as I am now boycotting Paypal.",
+          "locations": [
+            {
+              "country": "CA"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004eeee4be131136c3eaa9f0f382948674fcbb05314944525e943cb391c5e8e7c8ee4d264431dfea736ee5ac1a0b73be25d173a6506efc5af5a435944c7ea707396",
+          "public_key_id": "bQtW54KazTD3T3te12VQmveAr2dVfT3Luf",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UC9_2rdTefiAnSpOz9NMe9QA"
+          },
+          "title": "Taimoor Ahmad"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1577658260,
+      "txid": "271f0cede5f9b9fa423da006cf0c428f6ec06ef8ebb2cfd7055d482a851eac46",
+      "type": "claim",
+      "value": {
+        "description": "Javascript sorting is really easy! Learning Javascript sorting can be done in 5 or so minutes. Here's an example of sorting integers in javascript, sorting strings in javascript, sorting numbers in javascript and sorting arrays in javascript in general. I also go over an example of sorting objects in javascript by sorting objects using a certain key or value.\n\nThanks for clicking on this Javascript video, I plan to make more Javascript tutorials and Javascript/React/React Native content so be sure to subscribe and hit like. Here's a link to the source code for this javascript tutorial: https://gist.github.com/taimoorgit/a4254c564e7a44b274189ae793034303\n\nGet NodeJS: https://nodejs.org/ Get VSCode: https://code.visualstudio.com/\n0:30 sorting an array of strings 1:13 sorting numbers 3:12 sorting objects by attribute\nJavascript in 24 mins: https://youtu.be/7K9618ReWPs\nWhat is NodeJS? https://youtu.be/lKNxpqf0kVA\n\n\ud83e\udde0 https://taimoorapps.com\nDISCORD - https://discordapp.com/invite/Q4aJJ5f \nTWITTER - https://twitter.com/TaimoorBeLike\nGITHUB - https://github.com/taimoorgit\nMY GEAR - https://kit.com/TaimoorFlex\nPAYPAL - https://paypal.me/taimoorapps\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nFeel Good by MusicbyAden https://soundcloud.com/musicbyaden\nCreative Commons \u2014 Attribution-ShareAlike 3.0 Unported \u2014 CC BY-SA 3.0\nFree Download / Stream: https://bit.ly/_feel-good\nMusic promoted by Audio Library https://youtu.be/bvgIqqRStcQ\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\nI am an Amazon Associate and earn commissions via affiliate links (at no extra cost to you).\n...\nhttps://www.youtube.com/watch?v=pMyg5PbDedo",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1573932961",
+        "source": {
+          "hash": "b1debd46929289b4ce3a1c44694e7286dedef00418b0b1c780f026d256c96c8c59a2f4f6d6e2d87254c78aec0d9d7f21",
+          "media_type": "video/mp4",
+          "name": "javascript-tutorial-sorting.mp4",
+          "sd_hash": "2fd61aec93efc15d1615e053b81aa560397ca0c42f2e4a2d94766e3151fbd2684ff162b604e42668b57122176ac3b992",
+          "size": "16019186"
+        },
+        "stream_type": "video",
+        "tags": [
+          "es6",
+          "javascript",
+          "javascript objects",
+          "javascript objects sort",
+          "javascript sort",
+          "javascript sort by object key",
+          "javascript sort object by key",
+          "javascript sort object by value",
+          "javascript sorting",
+          "javascript sorting 101",
+          "javascript sorting array of numbers",
+          "javascript sorting array of strings",
+          "javascript sorting example",
+          "javascript sorting objects",
+          "javascript sorting objects example",
+          "javascript sorting tutorial",
+          "javascript tutorial",
+          "js",
+          "sort array of objects javascript",
+          "taimoor ahmad",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/pMyg5PbDedo"
+        },
+        "title": "Javascript Tutorial: Sorting examples (And sorting objects!)",
+        "video": {
+          "duration": 417,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bXPxdKbPckdfnSRdkEmBge82XwYvxWvtGC",
+      "amount": "0.01",
+      "canonical_url": "lbry://@SimpleProgrammer#5/sp-a-3CHpifMQo#1",
+      "claim_id": "10fcdbe6a18b472aa95d3278f3fb19a6296a933c",
+      "claim_op": "create",
+      "confirmations": 516267,
+      "height": 201580,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 201580,
+        "creation_height": 201580,
+        "creation_timestamp": 1499171017,
+        "effective_amount": "0.01",
+        "expiration_height": 2303980,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 201580,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "sp-a-3CHpifMQo",
+      "normalized_name": "sp-a-3chpifmqo",
+      "nout": 0,
+      "permanent_url": "lbry://sp-a-3CHpifMQo#10fcdbe6a18b472aa95d3278f3fb19a6296a933c",
+      "short_url": "lbry://sp-a-3CHpifMQo#1",
+      "signing_channel": {
+        "address": "bMq3HSTyxGGQZA4WcagdwfQ9Q6bv8JtCu5",
+        "amount": "0.01",
+        "canonical_url": "lbry://@SimpleProgrammer#5",
+        "claim_id": "5398cff749ced5cfdea824dfbff0387ded22261b",
+        "claim_op": "create",
+        "confirmations": 520587,
+        "has_signing_key": false,
+        "height": 197260,
+        "meta": {
+          "activation_height": 197260,
+          "claims_in_channel": 1349,
+          "creation_height": 197260,
+          "creation_timestamp": 1498464721,
+          "effective_amount": "0.01",
+          "expiration_height": 2299660,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 197260,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@SimpleProgrammer",
+        "normalized_name": "@simpleprogrammer",
+        "nout": 0,
+        "permanent_url": "lbry://@SimpleProgrammer#5398cff749ced5cfdea824dfbff0387ded22261b",
+        "short_url": "lbry://@SimpleProgrammer#5",
+        "timestamp": 1498464721,
+        "txid": "f644ff3f5429c226da4e9ba57d33a5a6361fdd3c9e4276985a133c42c5febb5a",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004cf28b70c49ed80524db67e27e08821cd253f93a4146a7a54123fb52fdced4f25d576f2c73b1515a06ae3093a132a91eda13cb830b0d6d9d67f25dafdc400b2e7",
+          "public_key_id": "bLPRvdZjwXVMQpDqgvK3GgsdfZB9a6XpkM"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1499171017,
+      "txid": "68bf7a10ad1b4690f425102f31b03fd58fc10ec76eeee3d710ccbd7fe73e873e",
+      "type": "claim",
+      "value": {
+        "author": "Simple Programmer",
+        "description": "FREE COURSE - 5 Learning Mistakes Software Developers Make https://simpleprogrammer.com/learn-faster\nSUBSCRIBE TO THIS CHANNEL: vid.io/xokz\nCHECK OUT HIRED.COM: http://simpleprogrammer.com/hiredsp\n\n5 Learning Mistakes Developers Make: http://simpleprogrammer.com/lp/5-learning-mistakes-1/\nJohn Sonmez Pluralsight Courses: https://simpleprogrammer.com/pluralsight\nHow It Feels To Learn JavaScript In 2016: https://www.youtube.com/watch?v=ss10re-tjwo&index=4&list=PLjwWT1Xy3c4WTWAS94RWgVlQuR8pFgDFu\nAntifragile Book: https://simpleprogrammer.com/antifragile\n\nProgramming Frameworks: Which Ones To Learn?\n\nIf you're a software developer I doubt you'll ever be able to learn everything that software developer has to offer. Every day new programming languages come out, technology changes and the process is updated.\n\nAll this amount of information makes it impossible for developers to actually learn everything they want. That's why they have to choose, and filtering information nowadays is gold.\n\n\"In computer programming, a software framework is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. A software framework is a universal, reusable software environment that provides particular functionality as part of a larger software platform to facilitate development of software applications, products and solutions. Software frameworks may include support programs, compilers, code libraries, tool sets, and application programming interfaces (APIs) that bring together all the different components to enable development of a project or system.\"\n(Source: https://en.wikipedia.org/wiki/Software_framework)\n\nWhile there are A LOT of frameworks nowadays, how do you know which ones to choose?\n\nWatch this video and find out!\n\nIf you have a question, email me at john@simpleprogrammer.com\n\nIf you liked this video, share, like and, of course, subscribe!\n\nSubscribe To My YouTube Channel: http://bit.ly/1zPTNLT\n\nVisit Simple Programmer Website: http://simpleprogrammer.com/\n\nConnect with me on social media:\nFacebook: https://www.facebook.com/SimpleProgrammer\nTwitter: https://twitter.com/jsonmez\n\nOther Links:\nSign up for the Simple Programmer Newsletter: http://simpleprogrammer.com/email\nSimple Programmer blog: http://simpleprogrammer.com/blog\nLearn how to learn anything quickly: http://10stepstolearn.com\nBoost your career now: http://devcareerboost.com\n\n#programmingframework #softwareframework #frameworks",
+        "languages": [
+          "en"
+        ],
+        "license": "Copyrighted (Contact Author)",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "53076c3db6f8bd4b9f8f2a33d14894101efbfcbeb9c1f99ec96c682d761e8791f75a2e44db79fddcc31767a190dccf51"
+        },
+        "stream_type": "video",
+        "thumbnail": {
+          "url": "http://berk.ninja/thumbnails/a_3CHpifMQo"
+        },
+        "title": "Programming Frameworks: Which Ones To Learn?"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bXPxdKbPckdfnSRdkEmBge82XwYvxWvtGC",
+      "amount": "0.01",
+      "canonical_url": "lbry://@SimpleProgrammer#5/sp-bfVcp4mdKTU#4",
+      "claim_id": "41ac319251f3da135367dfd0796a777c1ec39933",
+      "claim_op": "create",
+      "confirmations": 516557,
+      "height": 201290,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 201290,
+        "creation_height": 201290,
+        "creation_timestamp": 1499124528,
+        "effective_amount": "0.01",
+        "expiration_height": 2303690,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 201290,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "sp-bfVcp4mdKTU",
+      "normalized_name": "sp-bfvcp4mdktu",
+      "nout": 0,
+      "permanent_url": "lbry://sp-bfVcp4mdKTU#41ac319251f3da135367dfd0796a777c1ec39933",
+      "short_url": "lbry://sp-bfVcp4mdKTU#4",
+      "signing_channel": {
+        "address": "bMq3HSTyxGGQZA4WcagdwfQ9Q6bv8JtCu5",
+        "amount": "0.01",
+        "canonical_url": "lbry://@SimpleProgrammer#5",
+        "claim_id": "5398cff749ced5cfdea824dfbff0387ded22261b",
+        "claim_op": "create",
+        "confirmations": 520587,
+        "has_signing_key": false,
+        "height": 197260,
+        "meta": {
+          "activation_height": 197260,
+          "claims_in_channel": 1349,
+          "creation_height": 197260,
+          "creation_timestamp": 1498464721,
+          "effective_amount": "0.01",
+          "expiration_height": 2299660,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 197260,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@SimpleProgrammer",
+        "normalized_name": "@simpleprogrammer",
+        "nout": 0,
+        "permanent_url": "lbry://@SimpleProgrammer#5398cff749ced5cfdea824dfbff0387ded22261b",
+        "short_url": "lbry://@SimpleProgrammer#5",
+        "timestamp": 1498464721,
+        "txid": "f644ff3f5429c226da4e9ba57d33a5a6361fdd3c9e4276985a133c42c5febb5a",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004cf28b70c49ed80524db67e27e08821cd253f93a4146a7a54123fb52fdced4f25d576f2c73b1515a06ae3093a132a91eda13cb830b0d6d9d67f25dafdc400b2e7",
+          "public_key_id": "bLPRvdZjwXVMQpDqgvK3GgsdfZB9a6XpkM"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1499124528,
+      "txid": "87187413c1a0c8efd6be00b2d0bea500e1675c751dd0fed1fc7894be3f128aa6",
+      "type": "claim",
+      "value": {
+        "author": "Simple Programmer",
+        "description": "BUY THE COMPLETE SOFTWARE DEVELOPER'S CAREER GUIDE: https://simpleprogrammer.com/products/careerguide\n\nThe Complete Software Developer's Career Guide\n\nWhat You Will Learn in This Book\n\nHow to systematically find and fill the gaps in your technical knowledge so you can face any new challenge with confidence\n\nShould you take contract work\u2014or hold out for a salaried position? Which will earn you more, what the tradeoffs are, and how your personality should sway your choice\n\nShould you learn JavaScript, C#, Python, C++? How to decide which programming language you should master first\n\nEver notice how every job ever posted requires \"3-5 years of experience,\" which you don't have? Simple solution for this frustrating chicken-and-egg problem that allows you to build legitimate job experience while you learn to code\n\nIs earning a computer science degree a necessity\u2014or a total waste of time? How to get a college degree that accelerates your career without burying you under a mountain of debt\n\nInterviewer tells you, \"Dress code is casual around here\u2014the whole development team wears flipflops.\" What should you wear?\n\nCoding bootcamps\u2014some are great, others are complete scams. How to tell the difference so you don't find yourself cheated out of $10,000\n\nAn inside look at the recruiting industry. What that \"friendly\" recruiter really wants from you, how they get paid, and how to avoid getting pigeonholed into a job you'll hate\n\nHow do you deal with a boss who's a micromanager. Plus how helping your manager with his goals can make you the MVP of your team\n\nThe must-know technical skills that every professional developer should have\u2014but no one teaches you.\n\nIf you have a question, email me at john@simpleprogrammer.com\n\nIf you liked this video, share, like and, of course, subscribe!\n\nSubscribe To My YouTube Channel: http://bit.ly/1zPTNLT\n\nVisit Simple Programmer Website: http://simpleprogrammer.com/\n\nConnect with me on social media:\nFacebook: https://www.facebook.com/SimpleProgrammer\nTwitter: https://twitter.com/jsonmez\n\nOther Links:\nSign up for the Simple Programmer Newsletter: http://simpleprogrammer.com/email\nSimple Programmer blog: http://simpleprogrammer.com/blog\nLearn how to learn anything quickly: http://10stepstolearn.com\nBoost your career now: http://devcareerboost.com",
+        "languages": [
+          "en"
+        ],
+        "license": "Copyrighted (Contact Author)",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "31bac45542e291babad78c454f0d0566de248e335b20b65b1adf9ae1ef356b43700778b9ec5214d3e13e23e1abb355f5"
+        },
+        "stream_type": "video",
+        "thumbnail": {
+          "url": "http://berk.ninja/thumbnails/bfVcp4mdKTU"
+        },
+        "title": "The Complete Software Developer's Career Guide (BOOK TRAILER)"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHDfMMjTzPym1ARRaq6ZS4kxr5QqkwZ74j",
+      "amount": "0.005",
+      "canonical_url": "lbry://@taimoorahmad#e/javascript-language-tutorial-in-24#1",
+      "claim_id": "1b0d7865c7e5d0e2956532d58c9fdcc7c06bbe77",
+      "claim_op": "update",
+      "confirmations": 14816,
+      "height": 703031,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 687030,
+        "creation_height": 687030,
+        "creation_timestamp": 1577050053,
+        "effective_amount": "0.005",
+        "expiration_height": 2789430,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 687030,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "javascript-language-tutorial-in-24",
+      "normalized_name": "javascript-language-tutorial-in-24",
+      "nout": 0,
+      "permanent_url": "lbry://javascript-language-tutorial-in-24#1b0d7865c7e5d0e2956532d58c9fdcc7c06bbe77",
+      "short_url": "lbry://javascript-language-tutorial-in-24#1",
+      "signing_channel": {
+        "address": "bHDfMMjTzPym1ARRaq6ZS4kxr5QqkwZ74j",
+        "amount": "0.005",
+        "canonical_url": "lbry://@taimoorahmad#e",
+        "claim_id": "eb14d5246d14f81728cbb62dbfb4d0df9cf7d590",
+        "claim_op": "update",
+        "confirmations": 28219,
+        "has_signing_key": false,
+        "height": 689628,
+        "meta": {
+          "activation_height": 687011,
+          "claims_in_channel": 104,
+          "creation_height": 686983,
+          "creation_timestamp": 1577041956,
+          "effective_amount": "481.000673",
+          "expiration_height": 2789383,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "480.995673",
+          "take_over_height": 689630,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@taimoorahmad",
+        "normalized_name": "@taimoorahmad",
+        "nout": 0,
+        "permanent_url": "lbry://@taimoorahmad#eb14d5246d14f81728cbb62dbfb4d0df9cf7d590",
+        "short_url": "lbry://@taimoorahmad#e",
+        "timestamp": 1577465936,
+        "txid": "8feb21abd77eedc457723d9a4a5cd5dbe031201f5216273c85b802a0187be751",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UC9_2rdTefiAnSpOz9NMe9QA"
+          },
+          "description": "Subscribe if you're into the following content or a mix of them all!\n- Programming videos\n- Motivational content\n- Productivity content\n- Stoicism\n\nConnect with me on Discord, Twitter, GitHub, Indie Hackers and more!\nP.S. Don't use my PayPal link, as I am now boycotting Paypal.",
+          "locations": [
+            {
+              "country": "CA"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004eeee4be131136c3eaa9f0f382948674fcbb05314944525e943cb391c5e8e7c8ee4d264431dfea736ee5ac1a0b73be25d173a6506efc5af5a435944c7ea707396",
+          "public_key_id": "bQtW54KazTD3T3te12VQmveAr2dVfT3Luf",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UC9_2rdTefiAnSpOz9NMe9QA"
+          },
+          "title": "Taimoor Ahmad"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1579613773,
+      "txid": "e0b8dcb28f8e304983d84f5a2d7204718d1880ca278d6edb33a7978413af4805",
+      "type": "claim",
+      "value": {
+        "description": "Javascript is a great language to learn if you want to build web apps with React, Angular, JQuery or similar. If you know Javascript, you can even make apps with the React Native javascript framework. In this video, I use Node JS and Visual Studio code to write Javascript code. https://nodejs.org/en/  https://code.visualstudio.com/\n\nThis tutorial teaches the Javascript language using Node JS. I used Node JS for this tutorial to show you the language features of Javascript in a short amount of time. This Javascript tutorial goes over simple examples of Javascript in less than half an hour.\n\nIf you want to see the next vids in your journey of learning Javascript, check out my playlists on React, React Native and more! Join the discord below if you'd like to chat and leave a comment if you have questions.\n\nMotivation for coding: https://youtu.be/GCynFN2ImPQ\nReact 101 tutorial: https://youtu.be/pPsIKy10hcY\nMake a mobile app with React: https://youtu.be/bPTaMjDBdqs\nWhat is Node JS?: https://youtu.be/lKNxpqf0kVA\n\nTIMESTAMPS:\n0:49 Run Javascript with Node JS\n1:05 Hello world in Javascript\n1:29 Arithmetic in Javascript\n1:47 Typeof in Javascript\n2:40 How to define a variable in Javascript\n4:08 If statements in Javascript\n6:10 for and while loops in Javascript\n8:18 Arrays and iterators in Javascript using forEach and anonymous functions in Javascript\n12:49 Defining functions in Javascript\n15:50 Define objects in Javascript\n18:03 Classes and inheritance in Javascript\n\n\ud83e\udde0 https://taimoorapps.com\nDISCORD - https://discordapp.com/invite/Q4aJJ5f \nTWITTER - https://twitter.com/TaimoorBeLike\nGITHUB - https://github.com/taimoorgit\nMY GEAR - https://kit.com/TaimoorFlex\nPAYPAL - https://paypal.me/taimoorapps\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nFeel Good by MusicbyAden https://soundcloud.com/musicbyaden\nCreative Commons \u2014 Attribution-ShareAlike 3.0 Unported \u2014 CC BY-SA 3.0\nFree Download / Stream: https://bit.ly/_feel-good\nMusic promoted by Audio Library https://youtu.be/bvgIqqRStcQ\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\nI am an Amazon Associate and earn commissions via affiliate links (at no extra cost to you).\n...\nhttps://www.youtube.com/watch?v=7K9618ReWPs",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1573840509",
+        "source": {
+          "hash": "fd2f59773d9651b60ed88d6d6f742a95e36e344032917a594f8c10fbe178c3702097323300d43921b7c7c17cfb98900b",
+          "media_type": "video/mp4",
+          "name": "javascript-language-tutorial.mp4",
+          "sd_hash": "0a34636baf8ec89f4fbab67fafb6116229a55238c73fe1b1da3788509e7cf64954ad1e17ec093d11972a46902cfbab32",
+          "size": "50697900"
+        },
+        "stream_type": "video",
+        "tags": [
+          "javascript",
+          "javascript 101",
+          "javascript 2019",
+          "javascript basics",
+          "javascript by example",
+          "javascript examples",
+          "javascript for beginners",
+          "javascript for noobs",
+          "javascript full tutorial",
+          "javascript in one hour",
+          "javascript in one video",
+          "javascript language tour",
+          "javascript objects and classes",
+          "javascript oop",
+          "javascript tutorial",
+          "javascript tutorial 2019",
+          "javascript tutorial for beginners 2019",
+          "javascript tutorial nodejs",
+          "js",
+          "nodejs",
+          "nodejs tutorial",
+          "taimoor ahmad",
+          "vscode javascript",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/7K9618ReWPs"
+        },
+        "title": "Javascript Language Tutorial in 24 Minutes (Basics to OOP)",
+        "video": {
+          "duration": 1470,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHDfMMjTzPym1ARRaq6ZS4kxr5QqkwZ74j",
+      "amount": "0.005",
+      "canonical_url": "lbry://@taimoorahmad#e/the-best-terminal-for-windows-fluent#1",
+      "claim_id": "16ff668c95a7258d4a5c1718e169f0b6fe1c3f53",
+      "claim_op": "update",
+      "confirmations": 27014,
+      "height": 690833,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 687043,
+        "creation_height": 687043,
+        "creation_timestamp": 1577052077,
+        "effective_amount": "10.005",
+        "expiration_height": 2789443,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "10.0",
+        "take_over_height": 687043,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "the-best-terminal-for-windows-fluent",
+      "normalized_name": "the-best-terminal-for-windows-fluent",
+      "nout": 0,
+      "permanent_url": "lbry://the-best-terminal-for-windows-fluent#16ff668c95a7258d4a5c1718e169f0b6fe1c3f53",
+      "short_url": "lbry://the-best-terminal-for-windows-fluent#1",
+      "signing_channel": {
+        "address": "bHDfMMjTzPym1ARRaq6ZS4kxr5QqkwZ74j",
+        "amount": "0.005",
+        "canonical_url": "lbry://@taimoorahmad#e",
+        "claim_id": "eb14d5246d14f81728cbb62dbfb4d0df9cf7d590",
+        "claim_op": "update",
+        "confirmations": 28219,
+        "has_signing_key": false,
+        "height": 689628,
+        "meta": {
+          "activation_height": 687011,
+          "claims_in_channel": 104,
+          "creation_height": 686983,
+          "creation_timestamp": 1577041956,
+          "effective_amount": "481.000673",
+          "expiration_height": 2789383,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "480.995673",
+          "take_over_height": 689630,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@taimoorahmad",
+        "normalized_name": "@taimoorahmad",
+        "nout": 0,
+        "permanent_url": "lbry://@taimoorahmad#eb14d5246d14f81728cbb62dbfb4d0df9cf7d590",
+        "short_url": "lbry://@taimoorahmad#e",
+        "timestamp": 1577465936,
+        "txid": "8feb21abd77eedc457723d9a4a5cd5dbe031201f5216273c85b802a0187be751",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UC9_2rdTefiAnSpOz9NMe9QA"
+          },
+          "description": "Subscribe if you're into the following content or a mix of them all!\n- Programming videos\n- Motivational content\n- Productivity content\n- Stoicism\n\nConnect with me on Discord, Twitter, GitHub, Indie Hackers and more!\nP.S. Don't use my PayPal link, as I am now boycotting Paypal.",
+          "locations": [
+            {
+              "country": "CA"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004eeee4be131136c3eaa9f0f382948674fcbb05314944525e943cb391c5e8e7c8ee4d264431dfea736ee5ac1a0b73be25d173a6506efc5af5a435944c7ea707396",
+          "public_key_id": "bQtW54KazTD3T3te12VQmveAr2dVfT3Luf",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UC9_2rdTefiAnSpOz9NMe9QA"
+          },
+          "title": "Taimoor Ahmad"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1577658313,
+      "txid": "7507192a0069854c8d80c3b7e35b27ad2ca50055ba8b5b43a6c987b4a73e617b",
+      "type": "claim",
+      "value": {
+        "description": "Fluent Terminal is an amazing terminal for Windows. As someone who switched to Windows 10 from KDE Linux I really miss having a good graphical terminal like Konsole and the Fluent Terminal fills that gap perfectly! In this video I talk about how to use Fluent Terminal and how I go over the features of Fluent Terminal.\n\nCheck it out here: https://github.com/felixse/FluentTerminal\n\n// Get connected with me (Remember to sub!)\nTWITTER - https://twitter.com/TaimoorBeLike\nDISCORD - https://discordapp.com/invite/Q4aJJ5f \nGITHUB - https://github.com/taimoorgit\nPAYPAL - https://paypal.me/taimoorapps\n\n// Programming Content\nGet MOTIVATED to code - https://youtu.be/GCynFN2ImPQ\nLearn Javascript in 24 mins - https://youtu.be/7K9618ReWPs\nLearn Vim in 12 mins - https://youtu.be/aZ41grUQTK8\nCodeSandbox.io Tutorial - https://youtu.be/JKP50Nu31N8\nBuild your first React web app - https://youtu.be/pPsIKy10hcY\nBuild your first React Native app - https://youtu.be/bPTaMjDBdqs\n\n// Productivity Content\nOne STOIC principle you need to know - https://youtu.be/CspgdfDBymU\nHow to make productivity a habit - https://youtu.be/Nwnux6W7ybU\n2 lesson from Atomic Habits - https://youtu.be/sg1Af5R5HM8\nApps I use for productivity - https://youtu.be/PDj6MD1ZChY\nBe productive on the go - https://youtu.be/xvFGlcCzfc0\nOvercoming \"Cringe\" - https://youtu.be/U_zmbfzeWlw\n\n// My Programming Setup\nMy Computer - ThinkPad X390 16GB RAM i7\nMy SSD - http://geni.us/stQDXv\nTrackball - http://geni.us/0Bzy\nWireless Headphones - http://geni.us/b8NlaBV\nMechanical Keyboard - http://geni.us/vBMHH \nSoftware: VSCode, Jetbrains, Windows 10 Pro, WSL\n\n// My Recording Setup\nDSLR Camera - http://geni.us/WAuMB\nSD Card - http://geni.us/gBKYJ\nTripod - http://geni.us/TyTw0 \nSoftbox - http://geni.us/rayG\nVoice Recorder - http://geni.us/wlTW \nMicrophone - http://geni.us/dr5w \nSoftware: OBS, Premiere Pro, Photoshop\n\n// Book Recommendations\nAtomic Habits (productivity) - http://geni.us/GFlXv\n10% Happier (mindfulness) - http://geni.us/CV2H\nUnscripted (entrepreneurship) - http://geni.us/vtjsNcC\nHead First Java (best book to learn Java and OOP) - http://geni.us/xT3C8gv\nEffective Java (best book on OO design patterns) - http://geni.us/GYCxB34\nThe Lean Startup (learn about Agile and more) - http://geni.us/cWIQ4B\n\nI am an Amazon Associate and earn commissions from affiliate links (at no extra cost to you)\n...\nhttps://www.youtube.com/watch?v=K701Myz57oU",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1574863207",
+        "source": {
+          "hash": "70bbcac8a8ab70e2ad50e3477da31434bac956ef3a157079c9b77b7a9dc11f2bdd62831c8e139e782ce6dd82acd7bff7",
+          "media_type": "video/mp4",
+          "name": "the-best-terminal-for-windows.mp4",
+          "sd_hash": "d6800c354837dfe6ad1e6d53c3da808b08c46a412be614542d448e1331ad3e1462040d6f4a7806df58b76b2a3dd4a5b0",
+          "size": "37301868"
+        },
+        "stream_type": "video",
+        "tags": [
+          "best terminal for windows",
+          "best windows terminal",
+          "cmd",
+          "cmd alternative",
+          "cmder",
+          "cmder alternative",
+          "conemu",
+          "conemu alternative",
+          "conemu review",
+          "fluent terminal",
+          "fluent terminal features",
+          "fluent terminal github",
+          "fluent terminal review",
+          "fluent terminal tutorial",
+          "fluent terminal vs windows terminal",
+          "powershell",
+          "powershell alternative",
+          "taimoor ahmad",
+          "terminal for windows",
+          "windows 10 terminal",
+          "windows terminal",
+          "windows terminal emulator",
+          "windows terminal preview",
+          "windows terminal review",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/K701Myz57oU"
+        },
+        "title": "The BEST Terminal for Windows? (Fluent Terminal Review)",
+        "video": {
+          "duration": 401,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bHDfMMjTzPym1ARRaq6ZS4kxr5QqkwZ74j",
+      "amount": "0.005",
+      "canonical_url": "lbry://@taimoorahmad#e/what-s-the-point-of-javascript#2",
+      "claim_id": "2b7f15966e67d21a71a0a119c6ab927f5326bdc1",
+      "claim_op": "update",
+      "confirmations": 27015,
+      "height": 690832,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 687039,
+        "creation_height": 687039,
+        "creation_timestamp": 1577051171,
+        "effective_amount": "6.005",
+        "expiration_height": 2789439,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "6.0",
+        "take_over_height": 687039,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "what-s-the-point-of-javascript",
+      "normalized_name": "what-s-the-point-of-javascript",
+      "nout": 0,
+      "permanent_url": "lbry://what-s-the-point-of-javascript#2b7f15966e67d21a71a0a119c6ab927f5326bdc1",
+      "short_url": "lbry://what-s-the-point-of-javascript#2",
+      "signing_channel": {
+        "address": "bHDfMMjTzPym1ARRaq6ZS4kxr5QqkwZ74j",
+        "amount": "0.005",
+        "canonical_url": "lbry://@taimoorahmad#e",
+        "claim_id": "eb14d5246d14f81728cbb62dbfb4d0df9cf7d590",
+        "claim_op": "update",
+        "confirmations": 28219,
+        "has_signing_key": false,
+        "height": 689628,
+        "meta": {
+          "activation_height": 687011,
+          "claims_in_channel": 104,
+          "creation_height": 686983,
+          "creation_timestamp": 1577041956,
+          "effective_amount": "481.000673",
+          "expiration_height": 2789383,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "480.995673",
+          "take_over_height": 689630,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@taimoorahmad",
+        "normalized_name": "@taimoorahmad",
+        "nout": 0,
+        "permanent_url": "lbry://@taimoorahmad#eb14d5246d14f81728cbb62dbfb4d0df9cf7d590",
+        "short_url": "lbry://@taimoorahmad#e",
+        "timestamp": 1577465936,
+        "txid": "8feb21abd77eedc457723d9a4a5cd5dbe031201f5216273c85b802a0187be751",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UC9_2rdTefiAnSpOz9NMe9QA"
+          },
+          "description": "Subscribe if you're into the following content or a mix of them all!\n- Programming videos\n- Motivational content\n- Productivity content\n- Stoicism\n\nConnect with me on Discord, Twitter, GitHub, Indie Hackers and more!\nP.S. Don't use my PayPal link, as I am now boycotting Paypal.",
+          "locations": [
+            {
+              "country": "CA"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004eeee4be131136c3eaa9f0f382948674fcbb05314944525e943cb391c5e8e7c8ee4d264431dfea736ee5ac1a0b73be25d173a6506efc5af5a435944c7ea707396",
+          "public_key_id": "bQtW54KazTD3T3te12VQmveAr2dVfT3Luf",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UC9_2rdTefiAnSpOz9NMe9QA"
+          },
+          "title": "Taimoor Ahmad"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1577658260,
+      "txid": "4a4898384c25134597dd26564fd1ff8a030e630cbd937056e2e97c3a4ab49faf",
+      "type": "claim",
+      "value": {
+        "description": "What do Javascript frameworks do exactly? Should you use Javascript frameworks? Is it worth the time to learn a Javascript framework? Should you use a Javascript framework or plain JS? What are the most popular Javascript frameworks? I answer these Javascript questions in this video! And yes, there are other reasons to use JS frameworks, but these are the main 3 benefits JS frameworks give you.\n\n// Get connected with me (Remember to sub!)\nTWITTER - https://twitter.com/TaimoorBeLike\nDISCORD - https://discordapp.com/invite/Q4aJJ5f \nGITHUB - https://github.com/taimoorgit\nPAYPAL - https://paypal.me/taimoorapps\n\n// Programming Content\nGet MOTIVATED to code - https://youtu.be/GCynFN2ImPQ\nLearn Javascript in 24 mins - https://youtu.be/7K9618ReWPs\nLearn Vim in 12 mins - https://youtu.be/aZ41grUQTK8\nCodeSandbox.io Tutorial - https://youtu.be/JKP50Nu31N8\nBuild your first React web app - https://youtu.be/pPsIKy10hcY\nBuild your first React Native app - https://youtu.be/bPTaMjDBdqs\n\n// Productivity Content\nOne STOIC principle you need to know - https://youtu.be/CspgdfDBymU\nHow to make productivity a habit - https://youtu.be/Nwnux6W7ybU\n2 lesson from Atomic Habits - https://youtu.be/sg1Af5R5HM8\nApps I use for productivity - https://youtu.be/PDj6MD1ZChY\nBe productive on the go - https://youtu.be/xvFGlcCzfc0\nOvercoming \"Cringe\" - https://youtu.be/U_zmbfzeWlw\n\n// My Programming Setup\nMy Computer - ThinkPad X390 16GB RAM i7\nMy SSD - http://geni.us/stQDXv\nTrackball - http://geni.us/0Bzy\nWireless Headphones - http://geni.us/b8NlaBV\nMechanical Keyboard - http://geni.us/vBMHH \nSoftware: VSCode, Jetbrains, Windows 10 Pro, WSL\n\n// My Recording Setup\nDSLR Camera - http://geni.us/WAuMB\nSD Card - http://geni.us/gBKYJ\nTripod - http://geni.us/TyTw0 \nSoftbox - http://geni.us/rayG\nVoice Recorder - http://geni.us/wlTW \nMicrophone - http://geni.us/dr5w \nSoftware: OBS, Premiere Pro, Photoshop\n\n// Book Recommendations\nAtomic Habits (productivity) - http://geni.us/GFlXv\n10% Happier (mindfulness) - http://geni.us/CV2H\nUnscripted (entrepreneurship) - http://geni.us/vtjsNcC\nHead First Java (best book to learn Java and OOP) - http://geni.us/xT3C8gv\nEffective Java (best book on OO design patterns) - http://geni.us/GYCxB34\nThe Lean Startup (learn about Agile and more) - http://geni.us/cWIQ4B\n\nI am an Amazon Associate and earn commissions from affiliate links (at no extra cost to you)\n...\nhttps://www.youtube.com/watch?v=IpISMlXJUVg",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1574540841",
+        "source": {
+          "hash": "011b1a8ee0bb3ee71fa96c0199872c676ec2c2f86d71a5052ccc5043dfb0ec150458d9d7525c2057f3fc06cacabb3d66",
+          "media_type": "video/mp4",
+          "name": "what-s-the-point-of-javascript.mp4",
+          "sd_hash": "c77d3a2c3c91d00321f234d72d852696440c86de510b67702b74206c2b02cc15fa3b82f55ec587adc9d1614fe313f0ad",
+          "size": "109349965"
+        },
+        "stream_type": "video",
+        "tags": [
+          "pop culture",
+          "angular",
+          "angular explained",
+          "angular vs plain js",
+          "angular vs vue",
+          "angularjs",
+          "angularjs explained",
+          "best javascript framework",
+          "javascript frameworks",
+          "javascript frameworks vs plain js",
+          "javascript framewors explained",
+          "react",
+          "react explained",
+          "react vs angular",
+          "react vs plain js",
+          "react vs vue",
+          "reactjs",
+          "reactjs explained",
+          "taimoor ahmad",
+          "vue explained",
+          "what do javascript frameworks do",
+          "what is a javascript framework",
+          "what is the point of javascript frameworks",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/IpISMlXJUVg"
+        },
+        "title": "What's the point of Javascript frameworks? (React, Angular, Vue, etc.)",
+        "video": {
+          "duration": 346,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    }
+  ],
+  "page": 1,
+  "page_size": 20,
+  "total_items": 37,
+  "total_pages": 2
+}

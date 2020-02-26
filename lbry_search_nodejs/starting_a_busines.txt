@@ -1,0 +1,132 @@
+{
+  "blocked": {
+    "channels": [],
+    "total": 0
+  },
+  "items": [
+    {
+      "address": "bH5fEac1of5P1Tq6BgfFSwytzgKFxx61WP",
+      "amount": "0.01",
+      "canonical_url": "lbry://@moneyincomeprofit#e/how-to-start-a-business-with-little-to#a",
+      "claim_id": "aedd1fd1739d2d78cf454d700d019837b9ac1b3d",
+      "claim_op": "create",
+      "confirmations": 126249,
+      "height": 591597,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 591597,
+        "creation_height": 591597,
+        "creation_timestamp": 1561712320,
+        "effective_amount": "0.01",
+        "expiration_height": 2693997,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 591597,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "how-to-start-a-business-with-little-to",
+      "normalized_name": "how-to-start-a-business-with-little-to",
+      "nout": 0,
+      "permanent_url": "lbry://how-to-start-a-business-with-little-to#aedd1fd1739d2d78cf454d700d019837b9ac1b3d",
+      "short_url": "lbry://how-to-start-a-business-with-little-to#a",
+      "signing_channel": {
+        "address": "bFGwZGhxLnbmjsgodNJvvyubzdMoVj9gZR",
+        "amount": "0.01",
+        "canonical_url": "lbry://@moneyincomeprofit#e",
+        "claim_id": "ea49746435356bd1a50b3f9c59ebc6f55c0bee3a",
+        "claim_op": "create",
+        "confirmations": 126545,
+        "has_signing_key": false,
+        "height": 591301,
+        "meta": {
+          "activation_height": 591301,
+          "claims_in_channel": 1255,
+          "creation_height": 591301,
+          "creation_timestamp": 1561665124,
+          "effective_amount": "0.01",
+          "expiration_height": 2693701,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 591301,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@moneyincomeprofit",
+        "normalized_name": "@moneyincomeprofit",
+        "nout": 0,
+        "permanent_url": "lbry://@moneyincomeprofit#ea49746435356bd1a50b3f9c59ebc6f55c0bee3a",
+        "short_url": "lbry://@moneyincomeprofit#e",
+        "timestamp": 1561665124,
+        "txid": "ef9a413c9b9dcab420f3331297c0a0e0ed512d6d2c49e6d52b6eb3674999ca65",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCrbEnJbQrpIZtzrHElQMEFw"
+          },
+          "description": "MONEY INCOME and PROFIT  is all about building sustainable cash flow ( hustling, self-employment, and businesses) and living the way you want in today's world! Why wait until you are \"retired\" to live your life? \n\nIn today's world, you are going to change jobs a gazillion times. There is no such thing as \"lifetime\" employment!  \n\nEven if you are self-employed or a business owner, however, you have more control as a generator of your cash! How would you like to gain control over your financial life in 5-10 years? The goal here is not retirement it is gaining financial freedom as fast as possible to set the stage to get RICH and then become WEALTHY.\n\nFounded in 2009 as a how-to start a resale business training platform we have grown in unbelieveable ways! The end goal has not change personal freedom through financial freedom.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004e8005bf0ee6f9c4c0892c3c7dcb1ad9c405cb566105de05324176ab524c02f116dc59d8a0f14eb2dc32784304094b96ad8c6551c4580df88ec4a7b7b689dfd48",
+          "public_key_id": "bbHPXdgKbsDXpwRSPVU1BuLtXV89hDisEn",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCrbEnJbQrpIZtzrHElQMEFw"
+          },
+          "title": "Money Income Profit"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1561712320,
+      "txid": "aa45634434e9512d686d78664963d992f263205b022b161fa1f47e5fbd6c0bda",
+      "type": "claim",
+      "value": {
+        "description": "Hi my name is Glendon Cameron I am the founder of Hustler\u2019s Kung Fu University. It is a curriculum that will help you make money. One of the biggest things for this channel is where do I start with your courses?\n\nThere are so many! I want to be sure to get what applies to me! So I am creating this video for people who need that information. All course are priced at a level you can easily buy one at a time.\n\nThe first thing you will do is get my free audiobook -  The Hustler\u2019s Mindset Pimping you mind for success. - http://www.hustlerskungfulifeskills.com/courses/copy-of-the-hustler-s-mindset-pimping-your-mind-for-success\n\nThe second course you  should get is  Money Management -The Basics of Finance and wealth DEVELOPMENT  this course will teach you how to optimize your money and prepare for the new money that will come in when you start your business - https://moneyincomeprofit.com/p/money-management-the-basics-of-finance-and-wealth-development\n\nThe third course you should get is  Becoming the BOSS - teaches you the mental shift you must make from an employee mindset to an owner mindset. http://www.hustlerskungfulifeskills.com/courses/boss\n\n...\nhttps://www.youtube.com/watch?v=ficl87ESHLw",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1519945203",
+        "source": {
+          "hash": "9514214361bfaedbb4153a169e3864e1b338dad157013c12733289de9b90a83b43d24fe02785aa107656328d0b7f5c06",
+          "media_type": "video/mp4",
+          "name": "how-to-start-a-business-with.mp4",
+          "sd_hash": "1a93f15a11759657a5385e00f6d12c22cb8b289b269a1353e968378a0a50f89aa8e048a71373f44ed1bda860aa5a4f99",
+          "size": "353534862"
+        },
+        "stream_type": "video",
+        "tags": [
+          "how to start a busines that makes money",
+          "how to start a business from home",
+          "how to start a business from home with no money in 2018",
+          "how to start a business that makes money online",
+          "how to start a business when you are broke",
+          "how to start a business when you have a job",
+          "how to start a business with little to no money in 2018",
+          "how to start a business without money from home",
+          "how to start an business online with no money",
+          "education"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/ficl87ESHLw"
+        },
+        "title": "How to Start a  BUSINESS with Little to No MONEY in 2018 - The 10 Skillsets You Need!!",
+        "video": {
+          "duration": 3688,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    }
+  ],
+  "page": 1,
+  "page_size": 20,
+  "total_items": 1,
+  "total_pages": 1
+}

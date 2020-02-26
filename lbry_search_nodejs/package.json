@@ -1,0 +1,31 @@
+{
+  "name": "lbry_search_nodejs",
+  "version": "1.0.0",
+  "description": "Searches LBRY using lbrynet command and saves results to a text file",
+  "main": "lbry_search.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JupyterJones/lbry_search_nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "lbry",
+    "lbrynet",
+    "lbry",
+    "search"
+  ],
+  "author": "Jack Northrup JupyterJones lbry.toolbox@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JupyterJones/lbry_search_nodejs/issues"
+  },
+  "homepage": "https://github.com/JupyterJones/lbry_search_nodejs#readme",
+  "dependencies": {
+    "read-last-lines": "^1.7.2",
+    "readline": "^1.3.0",
+    "shelljs": "^0.8.3"
+  }
+}

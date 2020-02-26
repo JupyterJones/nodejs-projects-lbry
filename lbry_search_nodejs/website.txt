@@ -1,0 +1,43 @@
+{
+  "code": -32500,
+  "data": {
+    "args": [],
+    "command": "claim_search",
+    "kwargs": {
+      "all_languages": [],
+      "all_locations": [],
+      "all_tags": [],
+      "any_languages": [],
+      "any_locations": [],
+      "any_tags": [],
+      "channel_ids": [],
+      "claim_ids": [],
+      "has_channel_signature": false,
+      "invalid_channel_signature": false,
+      "is_controlling": false,
+      "media_types": [],
+      "not_channel_ids": [],
+      "not_languages": [],
+      "not_locations": [],
+      "not_tags": [],
+      "order_by": [],
+      "stream_types": [],
+      "text": "website",
+      "valid_channel_signature": false
+    },
+    "name": "RPCError",
+    "traceback": [
+      "Traceback (most recent call last):",
+      "  File \"lbry/extras/daemon/daemon.py\", line 654, in _process_rpc_call",
+      "  File \"lbry/extras/daemon/daemon.py\", line 2328, in jsonrpc_claim_search",
+      "  File \"lbry/wallet/ledger.py\", line 675, in claim_search",
+      "  File \"lbry/wallet/ledger.py\", line 633, in _inflate_outputs",
+      "  File \"lbry/wallet/network.py\", line 75, in send_request",
+      "  File \"lbry/wallet/network.py\", line 71, in send_request",
+      "  File \"lbry/wallet/rpc/session.py\", line 462, in send_request",
+      "lbry.wallet.rpc.jsonrpc.RPCError: (-32000, 'sqlite query timed out')",
+      ""
+    ]
+  },
+  "message": "(-32000, 'sqlite query timed out')"
+}

@@ -1,0 +1,95 @@
+<html>
+` <input type="text"
+           id="myText"
+           value="Mickey"> 
+  
+    <button type="button" 
+            onclick="myFunction()"> 
+      Try it 
+  </button> 
+  
+    <p id="demo"></p> 
+  
+    </script> 
+        // Here the value is stored in new variable x  
+  
+        function myFunction() { 
+            var x =  
+                document.getElementById("myText").value; 
+            
+            document.getElementById( 
+              "demo").innerHTML = x; 
+        } 
+`    
+<script>
+var form =` <input type="text"
+           id="myText"
+           value="Mickey"> 
+  
+    <button type="button" 
+            onclick="myFunction()"> 
+      Try it 
+  </button> 
+  
+    <p id="demo"></p> 
+  
+    </script> 
+        // Here the value is stored in new variable x  
+  
+        function myFunction() { 
+            var x =  
+                document.getElementById("myText").value; 
+            
+            document.getElementById( 
+              "demo").innerHTML = x; 
+        } 
+`    
+
+
+
+
+var fs = require('fs');
+var http = require ('http');
+const { exec } = require('child_process');
+var yourscript = exec('lbrynet claim list',
+        (error, stdout, stderr) => {
+            console.log('stdout',stdout);
+            console.log('stderr'.stderr);
+            console.log("Last five lines: \n\n"+ stdout.slice(stdout.length - 78));
+            if (error !== null) {
+                console.log(`exec error: ${error}`);
+            }
+
+
+
+
+var testFile='testFile.junk'
+
+
+setTimeout(() => {  console.log("Okay",stdout); }, 4000);
+//const file = process.argv.slice(2)[0];
+//console.log('Filename: ', file);
+
+var server = http.createServer(function (req, res){
+    res.writeHead(200);
+var TEXT = JSON.stringify(stdout,null, 4);    
+    fs.writeFile(testFile,stdout, function(err) {
+            if(err) {
+            return console.log(err);
+            }
+            console.log(testFile," was saved!");
+    });
+            console.log(TEXT) 
+    
+   
+
+    
+            res.end(form+"\n"+stdout);
+
+    });
+
+            server.listen(8100);
+    
+            });
+</script>
+<html>

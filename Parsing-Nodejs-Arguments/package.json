@@ -1,0 +1,22 @@
+{
+  "name": "Parsing-Nodejs-Arguments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Parsing-Nodejs-Script-arguments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "form-data": "^3.0.0",
+    "http": "0.0.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "requests": "^0.3.0",
+    "shelljs": "^0.8.3"
+  }
+}

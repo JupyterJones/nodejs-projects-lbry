@@ -1,0 +1,2321 @@
+{
+  "blocked": {
+    "channels": [],
+    "total": 0
+  },
+  "items": [
+    {
+      "address": "bFVQwDw8Dc2RLYo1W1vdfm41aUJYDmMp16",
+      "amount": "0.0005",
+      "canonical_url": "lbry://@TheAudiopedia#56/What-is-RED-HERRING-PROSPECTUS#0",
+      "claim_id": "0349ef66e89c8f9121d3481c08b1058c1e30a776",
+      "claim_op": "create",
+      "confirmations": 15594,
+      "height": 702164,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 702164,
+        "creation_height": 702164,
+        "creation_timestamp": 1579475201,
+        "effective_amount": "0.0005",
+        "expiration_height": 2804564,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 702164,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "What-is-RED-HERRING-PROSPECTUS",
+      "normalized_name": "what-is-red-herring-prospectus",
+      "nout": 0,
+      "permanent_url": "lbry://What-is-RED-HERRING-PROSPECTUS#0349ef66e89c8f9121d3481c08b1058c1e30a776",
+      "short_url": "lbry://What-is-RED-HERRING-PROSPECTUS#0",
+      "signing_channel": {
+        "address": "ba3Y73XrRQgWM4JbR4V1fX9dsVeJQ2KqKH",
+        "amount": "50.0",
+        "canonical_url": "lbry://@TheAudiopedia#56",
+        "claim_id": "565be843d5f231d37a037ee6d5276dc1618b5ca3",
+        "claim_op": "update",
+        "confirmations": 13992,
+        "has_signing_key": false,
+        "height": 703766,
+        "meta": {
+          "activation_height": 588868,
+          "claims_in_channel": 8070,
+          "creation_height": 588599,
+          "creation_timestamp": 1561232666,
+          "effective_amount": "15052.0",
+          "expiration_height": 2690999,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "15002.0",
+          "take_over_height": 703684,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 5.595269249170087e-05
+        },
+        "name": "@TheAudiopedia",
+        "normalized_name": "@theaudiopedia",
+        "nout": 0,
+        "permanent_url": "lbry://@TheAudiopedia#565be843d5f231d37a037ee6d5276dc1618b5ca3",
+        "short_url": "lbry://@TheAudiopedia#56",
+        "timestamp": 1579731126,
+        "txid": "1fdd46d219cb5e3129c4baae3b41960ffe013067d329aa97f152b3d891cc8d1b",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://spee.ch/e/f9dadf9a-bb17-41da-a6a2-384bbf1f0502.jpeg"
+          },
+          "public_key": "3056301006072a8648ce3d020106052b8104000a0342000447f1b8e478a8ad5fd62fd163cab08e179634d8a87987714fd8f47b95227e096ffd0556faa1c0d8dd30d50056061ea5b8778e032e6c2ffe934ead863ec9b5ad39",
+          "public_key_id": "bQpLVZf4Lw2eah6v9s7k2vfLqV8xahLpe4",
+          "tags": [
+            "art",
+            "automotive",
+            "blockchain",
+            "business",
+            "economics",
+            "education",
+            "gaming",
+            "geography",
+            "information",
+            "music",
+            "news",
+            "philosophy",
+            "psychology",
+            "science",
+            "sports",
+            "technology"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/8/6604948b-acb3-43a5-923d-08265489c693.png"
+          },
+          "website_url": "theaudiopedia.com"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1579475201,
+      "txid": "8b3fd0e0ad19ba4c55ceea8f419ce61addbc3adcba7dcd14be2f12604d51bd72",
+      "type": "claim",
+      "value": {
+        "description": "What does RED HERRING PROSPECTUS mean? RED HERRING PROSPECTUS meaning - RED HERRING PROSPECTUS definition - RED HERRING PROSPECTUS explanation. What is the meaning of RED HERRING PROSPECTUS? What is the definition of RED HERRING PROSPECTUS? What does RED HERRING PROSPECTUS stand for? What is RED HERRING PROSPECTUS meaning? What is RED HERRING PROSPECTUS definition?\n\nSource: Wikipedia.org article, adapted under https://creativecommons.org/licenses/by-sa/3.0/ license.\n\nA red herring prospectus, as a first or preliminary prospectus, is a document submitted by a company (issuer) as part of a public offering of securities (either stocks or bonds). Most frequently associated with an initial public offering (IPO), this document, like the previously submitted Form S-1 registration statement, must be filed with the Securities and Exchange Commission (SEC).\n\nA red herring prospectus is issued to potential investors, but does not have complete particulars on the price of the securities offered and quantum of securities to be issued. The front page of the prospectus displays a bold red disclaimer stating that information in the prospectus is not complete and may be changed, and that the securities may not be sold until the registration statement, filed with the market regulator, is effective. Potential investors may not place buy orders for the security, based solely on the information contained within the preliminary prospectus. Those investors may, however, express an \"indication of interest\" in the offering, provided that they have received a copy of the red herring at least 48 hours prior to the public sale. After the registration statement becomes effective, and the stock is offered to the public, indications of interest may be converted to purchase orders, at the buyer's discretion. The final prospectus must then be promptly delivered to the buyer.\n\nContents\n\"Red-herring prospectus\" means a prospectus that does not have complete particulars on the price of the securities offered and quantum of securities offered. The red herring statement contains:\n\n1 . purpose of the issue;\n2 . disclosure of any option agreement;\n3 . underwriter's commissions and discounts;\n4 . promotion expenses;\n5 . net proceeds to the issuing company (issuer);\n6 . balance sheet;\n7 . earnings statements for last 3 years, if available;\n8 . names and address of all officers, directors, underwriters and stockholders owning 10% or more of the current outstanding stock;\n9 . copy of the underwriting agreement;\n10. legal opinion on the issue;\n11. copies of the articles of incorporation of the issuer.\n\nSince the registration statement (SEC Form S-1) is a very lengthy and complex document, the Securities Act of 1933 requires the preparation of a shorter document, known as a prospectus, for investors to read. The Preliminary (or Red Herring) Prospectus is distributed during the quiet period, before the registration statement has become effective with the Securities and Exchange Commission (SEC). Upon the registration becoming effective, a \"Final Prospectus\" is prepared and distributed which includes the final public offering price and the number of shares issued. Only then, can the public offering of shares be completed.\n\nThe name \"Red Herring\" relates to the red lettered disclaimer displayed on the front page of each preliminary prospectus. That disclaimer contains information similar to the following:\n\nA Registration Statement relating to these securities has been filed with the Securities and Exchange Commission but has not yet become effective. Information contained herein is subject to completion or amendment. These securities may not be sold nor may offers to buy be accepted prior to the time the Registration Statement becomes effective.\n\nThe wording can be, and usually is, slightly different with each individual filing. An example is the 2012 Facebook prospectus.\n\nThe minimum period between the filing of a Registration and its effective date is 20 days, called the \"cooling-off period.\" The SEC can deem the registration \"deficient\" in which case registration does not become effective until the deficiencies are corrected. The SEC does not approve the securities registered with it, does not pass on the investment merits, nor guarantee the accuracy of the statements within the registration statement or prospectus. The SEC merely attempts to make certain that all pertinent information is disclosed.",
+        "languages": [
+          "en"
+        ],
+        "license": "None",
+        "release_time": "1579475153",
+        "source": {
+          "hash": "79afeeb1a13e5f4505dcb43f43aedc52dbff3be83c8937774cd461e9b8b8532e5bf7e60408bd10afed2fe2e087cf3c3a",
+          "media_type": "video/mp4",
+          "name": "417441081_What is RED HERRING PROSPECTUS.mp4",
+          "sd_hash": "6e2c513db640990bc81861b1db96b3e3c8b2666d4157a1f4ac0026587c632ae547214c67ca69eb007ccd9acd3cfc3eb6",
+          "size": "6988587"
+        },
+        "stream_type": "video",
+        "tags": [
+          "red herring prospectus",
+          "securities",
+          "what is red herring prospectus",
+          "red herring prospectus meaning",
+          "red herring prospectus definition",
+          "red herring prospectus explanation",
+          "what is the meaning of red herring prospectus",
+          "what is the definition of red herring prospectus",
+          "what does red herring prospectus mean",
+          "what does red herring prospectus stand for",
+          "what is red herring prospectus meaning",
+          "what is red herring prospectus definition"
+        ],
+        "thumbnail": {
+          "url": "https://spee.ch/1/dx6z5ABsVJVgz9WSKv9QHmWD.png"
+        },
+        "title": "What is RED HERRING PROSPECTUS?",
+        "video": {
+          "duration": 313,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bDoksurburgsSScVobe34HQjVEWyKZyDWd",
+      "amount": "0.005",
+      "canonical_url": "lbry://@TealDeer#5/tl-dr-genetic-determinism-the#4",
+      "claim_id": "463bae8fb0f53c2be238b8b0f7cf9ac7a1908a61",
+      "claim_op": "update",
+      "confirmations": 3444,
+      "height": 714314,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 713617,
+        "creation_height": 713617,
+        "creation_timestamp": 1581307975,
+        "effective_amount": "0.005",
+        "expiration_height": 2816017,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 713617,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "tl-dr-genetic-determinism-the",
+      "normalized_name": "tl-dr-genetic-determinism-the",
+      "nout": 0,
+      "permanent_url": "lbry://tl-dr-genetic-determinism-the#463bae8fb0f53c2be238b8b0f7cf9ac7a1908a61",
+      "short_url": "lbry://tl-dr-genetic-determinism-the#4",
+      "signing_channel": {
+        "address": "bDoksurburgsSScVobe34HQjVEWyKZyDWd",
+        "amount": "0.005",
+        "canonical_url": "lbry://@TealDeer#5",
+        "claim_id": "5c5844c7adbabe7360c374d61ee853e3e18c4968",
+        "claim_op": "update",
+        "confirmations": 3441,
+        "has_signing_key": false,
+        "height": 714317,
+        "meta": {
+          "activation_height": 713613,
+          "claims_in_channel": 293,
+          "creation_height": 713613,
+          "creation_timestamp": 1581307437,
+          "effective_amount": "5.005",
+          "expiration_height": 2816013,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "5.0",
+          "take_over_height": 713613,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 6.141129415482283e-05
+        },
+        "name": "@TealDeer",
+        "normalized_name": "@tealdeer",
+        "nout": 0,
+        "permanent_url": "lbry://@TealDeer#5c5844c7adbabe7360c374d61ee853e3e18c4968",
+        "short_url": "lbry://@TealDeer#5",
+        "timestamp": 1581419967,
+        "txid": "809247dc536b46b178b355e5f39bb1fee230470861614213032caf46eac308b5",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCMIj-wEiKIcGAcLoBO2ciQQ"
+          },
+          "description": "TL;DR:  I'm your therapy animal on the internet.  Videos best enjoyed at at least 1.25 times speed.\n\nFeel free to send me studies or articles that might be interesting.  I also accept fan art/music:\ntherealtealdeer@gmail.com\nminds.com/tealdeer",
+          "locations": [
+            {
+              "country": "GB"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004afd302553cb4fcb6ee6f8704a2540e784f8d7d9e9fb304e205c39e25b0be33b0d36a140407fea5a3a97740f7832068f60d56c0a5693c9c51a613e07351513988",
+          "public_key_id": "bSufBanAc5Ua4ZecFNdMTjLiy6mhq3Rm53",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCMIj-wEiKIcGAcLoBO2ciQQ"
+          },
+          "title": "TL;DR"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1581419346,
+      "txid": "129bf4d3306dc54150eb90c38bed4e009432a949ba142ec05bbc96a14bbd5699",
+      "type": "claim",
+      "value": {
+        "description": "Bio-truther!  Genetic fatalist!  Biological determinism!  Using biology to justify X!  Neuro-sexist!  WE'VE EVOLVED BEYOND OUR BIOLOGY!\n\nIf you're ever heard any of these phrases or more when talking about how some behavioral patterns have genetic sources this video and book may help you combat the ignorance of evolutionary psychology that spawns such ridiculous statements.\n\nRemember this is only a excerpt from the introduction of a beginners guide but I thought it addressed these common 'rebuttal' points reasonably well, obviously there is a wealth more nuance and information available on the subject but this is a good starting point.\n\nBuy the full book here:\nhttp://www.amazon.co.uk/Evolutionary-Psychology-Beginners-Guide-Guides/dp/1851683569\n\nDonations are greatly appreciated and enable me to acquire the delicious berries I need to live:\nhttps://www.patreon.com/TealDeer\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n...\nhttps://www.youtube.com/watch?v=cX_L3DdElcU",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1446754534",
+        "source": {
+          "hash": "79e7c7693bb3e584e0281b8e67b45127b3d8e0e8525aa9756b3c5c6eedab9759e2227ba33fb17fd613cad30eee66a88c",
+          "media_type": "video/mp4",
+          "name": "tl-dr-genetic-determinism-the.mp4",
+          "sd_hash": "730d53969b54b37b81496790fb1e29ffe0e351bd38f8c23fbb7c90dbdca84b5cbdee4cf4ac270c7b34bf4ff18ead5aa1",
+          "size": "30813420"
+        },
+        "stream_type": "video",
+        "tags": [
+          "behaviour",
+          "bio-truth",
+          "biological determinism",
+          "evolution",
+          "evolutionary psychology",
+          "fatalism",
+          "feminism",
+          "genetic determinism",
+          "genetics",
+          "neuro-sexism",
+          "population",
+          "psychology",
+          "red herring",
+          "social justice",
+          "sociology",
+          "entertainment"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/cX_L3DdElcU"
+        },
+        "title": "TL;DR - Genetic Determinism: The Evolutionary Red Herring",
+        "video": {
+          "duration": 1103,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bNyicGyqphDuhtNWaFhn7TPisEAomQ3KZf",
+      "amount": "0.005",
+      "canonical_url": "lbry://@rhetoricalentertainment#6/rhetorical-sunrise-oct-30-2017-your-red#9",
+      "claim_id": "91e08a9b1af1330046ca6ad0187b87fb582152fa",
+      "claim_op": "update",
+      "confirmations": 32708,
+      "height": 685050,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 684929,
+        "creation_height": 684929,
+        "creation_timestamp": 1576713097,
+        "effective_amount": "0.005",
+        "expiration_height": 2787329,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 684929,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "rhetorical-sunrise-oct-30-2017-your-red",
+      "normalized_name": "rhetorical-sunrise-oct-30-2017-your-red",
+      "nout": 0,
+      "permanent_url": "lbry://rhetorical-sunrise-oct-30-2017-your-red#91e08a9b1af1330046ca6ad0187b87fb582152fa",
+      "short_url": "lbry://rhetorical-sunrise-oct-30-2017-your-red#9",
+      "signing_channel": {
+        "address": "bNyicGyqphDuhtNWaFhn7TPisEAomQ3KZf",
+        "amount": "0.005",
+        "canonical_url": "lbry://@rhetoricalentertainment#6",
+        "claim_id": "6923714113f3b738b3d9e5c5e237ae6b99619a08",
+        "claim_op": "update",
+        "confirmations": 32708,
+        "has_signing_key": false,
+        "height": 685050,
+        "meta": {
+          "activation_height": 684786,
+          "claims_in_channel": 409,
+          "creation_height": 684786,
+          "creation_timestamp": 1576690740,
+          "effective_amount": "0.005",
+          "expiration_height": 2787186,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 684786,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@rhetoricalentertainment",
+        "normalized_name": "@rhetoricalentertainment",
+        "nout": 0,
+        "permanent_url": "lbry://@rhetoricalentertainment#6923714113f3b738b3d9e5c5e237ae6b99619a08",
+        "short_url": "lbry://@rhetoricalentertainment#6",
+        "timestamp": 1576734301,
+        "txid": "4a1aa4c34364267d4cfff3832c04f6c879470b21dfed055ddbdbd48d6d8b725f",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCHvH6MXXhWa2ZSoyMu6swiQ"
+          },
+          "description": "At Rhetorical Entertainment our goal is to provide content that is entertaining, thought provoking or both.  We discuss society, politics and culture in a way that is intended to relay our own opinions while keeping an open mind and have enlightening discourse.  Our goal is not so much to change your mind as it is to help you expand your perspective.\n\nOriginal author of The Constitution For The Internet. Original Digitalist.",
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004a24ed1487192110a1b02fd3bdd6e3b5c84f902e7df0fa50f21c13db66057c92817746220574891f1a02f8fc7b8ee21577436b54340e516ce738fc78ab6b5e285",
+          "public_key_id": "bSJjj5BJPe5hgXGwGKy3AShdKc2sYYH1aF",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCHvH6MXXhWa2ZSoyMu6swiQ"
+          },
+          "title": "Rhetorical Entertainment"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1576734301,
+      "txid": "9e18c3b1ecbece8e8406a6a2951f941fe4482036480a8f7432e2152512781181",
+      "type": "claim",
+      "value": {
+        "description": "Start Time: 4:20\n\nThanks for watching!\n\nHere\u2019s how you can support me financially:\nTips & Subscriptions: http://bit.ly/RhetoricalSupport\nStreamLabs: http://bit.ly/RhetoricalStreamLabs\nPatreon: http://bit.ly/RhetoricalPatrons\nMerch: http://bit.ly/RhetoricalShirts\n\nOther Links:\nSocial Media: http://bit.ly/SocialRhetorical\nSources: http://RhetoricalEntertainment.com\nColumns: http://bit.ly/RhetoricalWriting\n\nMusic provided by Argofox:\n\nIntro/Outro:\nReatch - Funk City: https://youtu.be/yPx-WpR2zsk\n\nWaiting Room:\nSkyberyl - Animate https://youtu.be/4v8zfuv3Xt8\nEzaOne - Supernova https://youtu.be/xZDYu5azS-c\nDekron - Time Machine https://youtu.be/9CmEOQDN9Qc\nFadent - By Night https://youtu.be/Wria6-wG9YU\nMeezong - Melood https://youtu.be/YJKpnmZdAoE\nRAAL - Dimah https://youtu.be/qbudu-G1JZY\nCrystal Drop - Fall http://youtu.be/gd2N_0NINRQ\ndaPlaque - Dream https://youtu.be/3QFcidG8YwU\nInaki - Rewind https://youtu.be/Ix4-2dPC5lk\nDigital Math - Journey (Part 2) (Polygon Remix) https://youtu.be/2_i-Qg4EEfI\nMeizong - Glassette https://youtu.be/6Vl7kdOc8oI\n...\nhttps://www.youtube.com/watch?v=OwbEUaYf6qc",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1509367307",
+        "source": {
+          "hash": "57dd9fc1f886ad4301d07b0467104a791b8f7f0f4e546a962dd55a653ad2fa1a02d6ee686d7967df806f116331053d04",
+          "media_type": "video/mp4",
+          "name": "rhetorical-sunrise-oct-30-2017.mp4",
+          "sd_hash": "531a3dc5890f749e740d085f150c5bacd95d28dbc6316e74d6c6a08341f32d4eb3b9051c7515e74687721bcc8d404081",
+          "size": "441870299"
+        },
+        "stream_type": "video",
+        "tags": [
+          "news & politics"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/OwbEUaYf6qc"
+        },
+        "title": "Rhetorical Sunrise Oct. 30, 2017 - Your Red Herring's Chasing A Straw Man",
+        "video": {
+          "duration": 1358,
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bUC1rrcWCjwSZ2So2BXmWXUQTSe4h7ozbr",
+      "amount": "0.01",
+      "canonical_url": "lbry://@energydess#b/st4ck#1",
+      "claim_id": "1e31b46579409f4783627e7dcd3a1a81134ff013",
+      "claim_op": "create",
+      "confirmations": 109431,
+      "height": 608327,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 608327,
+        "creation_height": 608327,
+        "creation_timestamp": 1564425406,
+        "effective_amount": "0.01",
+        "expiration_height": 2710727,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 608327,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "st4ck",
+      "normalized_name": "st4ck",
+      "nout": 0,
+      "permanent_url": "lbry://st4ck#1e31b46579409f4783627e7dcd3a1a81134ff013",
+      "short_url": "lbry://st4ck#1",
+      "signing_channel": {
+        "address": "bDHWjBkK3fcsbD467zL1H9y5MXes44cbG5",
+        "amount": "0.01",
+        "canonical_url": "lbry://@energydess#b",
+        "claim_id": "bc663d3b5a987cdd7602e655d25e04ddaa2867a1",
+        "claim_op": "create",
+        "confirmations": 109464,
+        "has_signing_key": false,
+        "height": 608294,
+        "meta": {
+          "activation_height": 608294,
+          "claims_in_channel": 508,
+          "creation_height": 608294,
+          "creation_timestamp": 1564420973,
+          "effective_amount": "0.01",
+          "expiration_height": 2710694,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 608294,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@energydess",
+        "normalized_name": "@energydess",
+        "nout": 0,
+        "permanent_url": "lbry://@energydess#bc663d3b5a987cdd7602e655d25e04ddaa2867a1",
+        "short_url": "lbry://@energydess#b",
+        "timestamp": 1564420973,
+        "txid": "f43fe5e98aa1a5b37a06433d17e87b75c8555e3b301fc0d328201af8c2086698",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCIv7XyqtF0mRaSqipMT7r_A"
+          },
+          "description": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442, \u0441 \u0412\u0430\u043c\u0438 Dess :)\n\u042f \u0441\u043d\u0438\u043c\u0430\u044e \u041f\u041e\u041b\u0415\u0417\u041d\u042b\u0415 \u0432\u0438\u0434\u0435\u043e \u043f\u0440\u043e STEAM, \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u044e, \u043a\u0430\u043a \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0411\u0415\u0421\u041f\u041b\u0410\u0422\u041d\u041e \u0438\u0433\u0440\u044b, \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e \u0440\u0430\u0437\u043d\u044b\u0435 \u0411\u0410\u0413\u0418 \u0432 \u0438\u0433\u0440\u0430\u0445 \u0438 \u043c\u043d\u043e\u0433\u043e\u0435 \u0434\u0440\u0443\u0433\u043e\u0435. \u0421\u043e \u043c\u043d\u043e\u0439 \u0442\u044b \u0441\u0442\u0430\u043d\u0435\u0448\u044c \u043f\u043e-\u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u043c\u0443 \u043f\u0440\u043e\u0448\u0430\u0440\u0435\u043d\u043d\u044b\u043c \u0432 \u044d\u0442\u043e\u043c \u043c\u0438\u0440\u0435! \u041f\u0440\u0438\u044f\u0442\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430) \n\nTelegram \u0434\u043b\u044f \u0441\u0432\u044f\u0437\u0438 - @EnergyDess",
+          "locations": [
+            {
+              "country": "RU"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a034200048afcb1c5da04289981704e5f90d7e1c23a340c8abeb4913448df16d39deb72c67c7f27cb0bbe1b723873e63502b78c14891ac8016df74434c49a07992a6f4009",
+          "public_key_id": "bJBYUY23rUGo1Fht6DL75VRAMUHy5fDxnP",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCIv7XyqtF0mRaSqipMT7r_A"
+          },
+          "title": "EnergyDess"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1564425406,
+      "txid": "c0f46b69ad74a66ba0ffc847132de12c873bfff71fbc6b5bf6281d1f2984eb24",
+      "type": "claim",
+      "value": {
+        "description": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442, \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u044f \u0412\u0430\u043c \u043f\u043e\u043a\u0430\u0436\u0443 \u043e\u0447\u0435\u043d\u044c \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0439 \u0437\u043d\u0430\u0447\u043e\u043a \u0432 \u0441\u0442\u0438\u043c.\n\u041f\u043e\u043d\u0440\u0430\u0432\u0438\u043b\u043e\u0441\u044c? \u041d\u0430\u0436\u043c\u0438 \u25ba http://bit.ly/EnergyDess\n\n\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 - Wallpaper Engine.\n\n\u041c\u043e\u0438 \u0434\u0440\u0443\u0437\u044c\u044f:\nMYE: https://www.youtube.com/user/AllvideoMYE\n\n\u042f \u0412\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0435: https://vk.com/energy_dess\n\u0413\u0440\u0443\u043f\u043f\u0430 \u0412\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0435: https://vk.com/energydess\n...\nhttps://www.youtube.com/watch?v=Q-9EE9cNfgA",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1501422831",
+        "source": {
+          "hash": "9f8e187919fe36dfe6ae841a44b8e52fa9882c165298109afb3dd8ea544331a58a7c803e9d137bfdec224b6f18c4252c",
+          "media_type": "video/mp4",
+          "name": "st4ck.mp4",
+          "sd_hash": "a5e76260f4b324b26b4b612b23c9b4017efa9c36fd616b9f1adec0f31843cffc603c9b5a48f47ec260447f294f5b6f12",
+          "size": "11621275"
+        },
+        "stream_type": "video",
+        "tags": [
+          "gaming",
+          "dess",
+          "energydess",
+          "free steam games",
+          "red herring",
+          "steam",
+          "steam lvl",
+          "steam lvl up",
+          "summer sale",
+          "gaming"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/Q-9EE9cNfgA"
+        },
+        "title": "\u042d\u041a\u0421\u041a\u041b\u042e\u0417\u0418\u0412\u041d\u042b\u0419 \u0417\u041d\u0410\u0427\u041e\u041a \u0421\u0422\u0418\u041c \u0412 \u0427\u0415\u0421\u0422\u042c \u0418\u0413\u0420\u041e\u041a\u0410 ST4CK",
+        "video": {
+          "duration": 110,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bUC1rrcWCjwSZ2So2BXmWXUQTSe4h7ozbr",
+      "amount": "0.01",
+      "canonical_url": "lbry://@energydess#b/steam-12#6",
+      "claim_id": "6ad680d24e9ae20fa9fe2779c2206d6e85e2c8fa",
+      "claim_op": "create",
+      "confirmations": 109431,
+      "height": 608327,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 608327,
+        "creation_height": 608327,
+        "creation_timestamp": 1564425406,
+        "effective_amount": "0.01",
+        "expiration_height": 2710727,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 608327,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "steam-12",
+      "normalized_name": "steam-12",
+      "nout": 0,
+      "permanent_url": "lbry://steam-12#6ad680d24e9ae20fa9fe2779c2206d6e85e2c8fa",
+      "short_url": "lbry://steam-12#6",
+      "signing_channel": {
+        "address": "bDHWjBkK3fcsbD467zL1H9y5MXes44cbG5",
+        "amount": "0.01",
+        "canonical_url": "lbry://@energydess#b",
+        "claim_id": "bc663d3b5a987cdd7602e655d25e04ddaa2867a1",
+        "claim_op": "create",
+        "confirmations": 109464,
+        "has_signing_key": false,
+        "height": 608294,
+        "meta": {
+          "activation_height": 608294,
+          "claims_in_channel": 508,
+          "creation_height": 608294,
+          "creation_timestamp": 1564420973,
+          "effective_amount": "0.01",
+          "expiration_height": 2710694,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 608294,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@energydess",
+        "normalized_name": "@energydess",
+        "nout": 0,
+        "permanent_url": "lbry://@energydess#bc663d3b5a987cdd7602e655d25e04ddaa2867a1",
+        "short_url": "lbry://@energydess#b",
+        "timestamp": 1564420973,
+        "txid": "f43fe5e98aa1a5b37a06433d17e87b75c8555e3b301fc0d328201af8c2086698",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCIv7XyqtF0mRaSqipMT7r_A"
+          },
+          "description": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442, \u0441 \u0412\u0430\u043c\u0438 Dess :)\n\u042f \u0441\u043d\u0438\u043c\u0430\u044e \u041f\u041e\u041b\u0415\u0417\u041d\u042b\u0415 \u0432\u0438\u0434\u0435\u043e \u043f\u0440\u043e STEAM, \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u044e, \u043a\u0430\u043a \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0411\u0415\u0421\u041f\u041b\u0410\u0422\u041d\u041e \u0438\u0433\u0440\u044b, \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e \u0440\u0430\u0437\u043d\u044b\u0435 \u0411\u0410\u0413\u0418 \u0432 \u0438\u0433\u0440\u0430\u0445 \u0438 \u043c\u043d\u043e\u0433\u043e\u0435 \u0434\u0440\u0443\u0433\u043e\u0435. \u0421\u043e \u043c\u043d\u043e\u0439 \u0442\u044b \u0441\u0442\u0430\u043d\u0435\u0448\u044c \u043f\u043e-\u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u043c\u0443 \u043f\u0440\u043e\u0448\u0430\u0440\u0435\u043d\u043d\u044b\u043c \u0432 \u044d\u0442\u043e\u043c \u043c\u0438\u0440\u0435! \u041f\u0440\u0438\u044f\u0442\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430) \n\nTelegram \u0434\u043b\u044f \u0441\u0432\u044f\u0437\u0438 - @EnergyDess",
+          "locations": [
+            {
+              "country": "RU"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a034200048afcb1c5da04289981704e5f90d7e1c23a340c8abeb4913448df16d39deb72c67c7f27cb0bbe1b723873e63502b78c14891ac8016df74434c49a07992a6f4009",
+          "public_key_id": "bJBYUY23rUGo1Fht6DL75VRAMUHy5fDxnP",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCIv7XyqtF0mRaSqipMT7r_A"
+          },
+          "title": "EnergyDess"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1564425406,
+      "txid": "85fa37c1898df7036275216918171f6509e471916385e147936b796e7b5a0a90",
+      "type": "claim",
+      "value": {
+        "description": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442, \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u044f \u043f\u043e\u043a\u0430\u0436\u0443 \u0412\u0430\u043c \u0432\u0441\u0435 \u0441\u0435\u043a\u0440\u0435\u0442\u043d\u044b\u0435 \u0437\u043d\u0430\u0447\u043a\u0438 \u0432 steam \u0438 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e, \u043d\u043e \u0438 \u0440\u0430\u0441\u0441\u043a\u0430\u0436\u0443 \u043a\u0430\u043a \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u0438\u0445 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c. \n\u0421\u0423\u041f\u0415\u0420 \u0420\u0423\u041b\u0415\u0422\u041e\u0427\u041a\u0410 - http://mycsarena.ru/\n\n==================================\n\n\ud83d\udd25\u041b\u0443\u0447\u0448\u0438\u0435 \u0444\u043e\u043d\u044b \u043f\u0440\u043e\u0444\u0438\u043b\u044f STEAM: https://www.art-steam.com/fony-steam-profilya \ud83d\udc48\n\n\ud83d\udd25\u0410\u041d\u0418\u041c\u0410\u0426\u0418\u042f \u041f\u0420\u041e\u0424\u0418\u041b\u0415\u0419 STEAM: https://www.art-steam.com \ud83d\udc48\n\n==================================\n...\nhttps://www.youtube.com/watch?v=9fDWwQRxDrE",
+        "languages": [
+          "ru"
+        ],
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1500894000",
+        "source": {
+          "hash": "de0151ca02f4053aeaba60005f86cf4209256a47cd2fd773dee897e4dd5198e87e194af2f71ccb36c40bde6fce045f56",
+          "media_type": "video/mp4",
+          "name": "steam.mp4",
+          "sd_hash": "6536b53180ad87cd91a1e712108e5cb4a76495d1d5d4c84449d336280952a69f700247c24ca6a662c0039014cd4a0886",
+          "size": "57287235"
+        },
+        "stream_type": "video",
+        "tags": [
+          "gaming",
+          "dess",
+          "energydess",
+          "free steam games",
+          "red herring",
+          "steam",
+          "steam lvl",
+          "steam lvl up",
+          "summer sale",
+          "gaming"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/9fDWwQRxDrE"
+        },
+        "title": "\u0421\u0415\u041a\u0420\u0415\u0422\u041d\u042b\u0415 \u0417\u041d\u0410\u0427\u041a\u0418 STEAM. \u041f\u041e\u0414\u0420\u041e\u0411\u041d\u0410\u042f \u0418\u041d\u0424\u041e\u0420\u041c\u0410\u0426\u0418\u042f!",
+        "video": {
+          "duration": 398,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bFFCenG4k2eiEbdjwbisxsjKGPzT6FfMeZ",
+      "amount": "0.1",
+      "canonical_url": "lbry://@DavidKnightShow#1/PROOF-Dems-Don\u2019t-Believe-Russia-Hacked-Election#f",
+      "claim_id": "f97022d94bc1ca2f48f4697fa07e025b754706ae",
+      "claim_op": "create",
+      "confirmations": 17760,
+      "height": 699998,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 699998,
+        "creation_height": 699998,
+        "creation_timestamp": 1579125462,
+        "effective_amount": "5.1",
+        "expiration_height": 2802398,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "5.0",
+        "take_over_height": 699998,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "PROOF-Dems-Don\u2019t-Believe-Russia-Hacked-Election",
+      "normalized_name": "proof-dems-don\u2019t-believe-russia-hacked-election",
+      "nout": 0,
+      "permanent_url": "lbry://PROOF-Dems-Don\u2019t-Believe-Russia-Hacked-Election#f97022d94bc1ca2f48f4697fa07e025b754706ae",
+      "short_url": "lbry://PROOF-Dems-Don\u2019t-Believe-Russia-Hacked-Election#f",
+      "signing_channel": {
+        "address": "bUum3yTchJUr8rEX6ksWPt4BVpQsGdp9kf",
+        "amount": "0.1",
+        "canonical_url": "lbry://@DavidKnightShow#1",
+        "claim_id": "13b951ee9fde736f732e5b27d8e16fc3bb5f876b",
+        "claim_op": "update",
+        "confirmations": 111608,
+        "has_signing_key": false,
+        "height": 606150,
+        "meta": {
+          "activation_height": 605697,
+          "claims_in_channel": 499,
+          "creation_height": 605697,
+          "creation_timestamp": 1564005584,
+          "effective_amount": "0.1",
+          "expiration_height": 2708097,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 605697,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@DavidKnightShow",
+        "normalized_name": "@davidknightshow",
+        "nout": 0,
+        "permanent_url": "lbry://@DavidKnightShow#13b951ee9fde736f732e5b27d8e16fc3bb5f876b",
+        "short_url": "lbry://@DavidKnightShow#1",
+        "timestamp": 1564078294,
+        "txid": "371f10f20d2b62cad87a9a384f2ac932678450331bbecc4237d9664d5bc97491",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://spee.ch/4/51eb49c1-c55c-427a-a9a0-2378f941512e.jpg"
+          },
+          "description": "Tune in LIVE M-F 8am-11am central at: [https://www.infowars.com/show/](https://)\n\nGet a text alert for the #DavidKnightShow!\nText: DavidKnight\nTo: 33222\n\nGet breaking news alerts directly from Infowars!\nText: NEWS\nTo: 33222\n\n",
+          "email": "mods_davidkshow@infowars.com",
+          "public_key": "3056301006072a8648ce3d020106052b8104000a034200048e66a08c6727248592f0dbf18770375d2c6bbe41aacf4c1299b3e7855320aa389da87ae65ffffeda9aa3be7e9b567ca52c7679c9529e076805bb167dafe14cb8",
+          "public_key_id": "bMEcB29aAAd9t3o2rcVhqGGzoaK1BwvP4y",
+          "tags": [
+            "infowars",
+            "davidknightshow ",
+            "usa",
+            "davidknight",
+            "libertytarian",
+            "1a",
+            "2a",
+            "news",
+            "live",
+            "newswars ",
+            "prisonplanet"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/5/657b29b8-b59b-4779-9928-772ff2eaa998.jpg"
+          },
+          "title": "The David Knight Show",
+          "website_url": "https;//www.infowars.com/david-knight-show/"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1579125462,
+      "txid": "d30e7418f68b13b7253a8fada39a4ce5351d81329d7cbe54ba89187275728e43",
+      "type": "claim",
+      "value": {
+        "description": "As DNC contractor CrowdStrike floats the same red herring about Burisma documents that they did about Hillary\u2019s DNC documents \u2014 but a recent announcement about the primaries proves they never believed the hacking narrative.\n\nWatch uncensored: https://banned.video/watch?id=5e1f72095abcc70025391ccd\n\n_________________________________\n_________________________________\n\nTune in to the #DavidKnightShow LIVE M-F 8am-11am central at: https://banned.video\n\nSupport: https://infowarsstore.com\n\nNewsletter: https://infowars.com/newsletter\n\nSubscribestar: https://subscribestar.com/davidknight\n\nDiscord: https://discord.gg/jrU4TSU\n\nGet Text Alerts!\nText 'NEWS' to '33222'",
+        "languages": [
+          "en"
+        ],
+        "license": "None",
+        "release_time": "1579125105",
+        "source": {
+          "hash": "e86a56e4e7fffc03e5eb48419ef9c90a4044302efa54ce55823a742344c82a438183efe6a771449f9c7436747c0b710e",
+          "media_type": "video/mp4",
+          "name": "880683981_PROOF Dems Don\u2019t Believe Russia Hacked Election.mp4",
+          "sd_hash": "17da6e26a251f60c83ece1560e4562d1bd8e31da0e44ad7b03b952039e2fc6520eadfade01bd70486e2785bee1e40fe2",
+          "size": "202141973"
+        },
+        "stream_type": "video",
+        "tags": [
+          "davidknightshow",
+          "davidknight",
+          "biden",
+          "russia",
+          "dnc",
+          "hillary"
+        ],
+        "thumbnail": {
+          "url": "https://spee.ch/4/KE0QuJ75o8ZTRuPAsOJea9Fb.jpeg"
+        },
+        "title": "PROOF: Dems Don\u2019t Believe Russia \u201cHacked\u201d Election",
+        "video": {
+          "duration": 678,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bDoksurburgsSScVobe34HQjVEWyKZyDWd",
+      "amount": "0.005",
+      "canonical_url": "lbry://@TealDeer#5/tl-dr-genetic-determinism-the-red#7",
+      "claim_id": "7ca315b37d84f6c894d7329585c63c6e5bf31ce9",
+      "claim_op": "update",
+      "confirmations": 3444,
+      "height": 714314,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 713618,
+        "creation_height": 713618,
+        "creation_timestamp": 1581308426,
+        "effective_amount": "0.005",
+        "expiration_height": 2816018,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 713618,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "tl-dr-genetic-determinism-the-red",
+      "normalized_name": "tl-dr-genetic-determinism-the-red",
+      "nout": 0,
+      "permanent_url": "lbry://tl-dr-genetic-determinism-the-red#7ca315b37d84f6c894d7329585c63c6e5bf31ce9",
+      "short_url": "lbry://tl-dr-genetic-determinism-the-red#7",
+      "signing_channel": {
+        "address": "bDoksurburgsSScVobe34HQjVEWyKZyDWd",
+        "amount": "0.005",
+        "canonical_url": "lbry://@TealDeer#5",
+        "claim_id": "5c5844c7adbabe7360c374d61ee853e3e18c4968",
+        "claim_op": "update",
+        "confirmations": 3441,
+        "has_signing_key": false,
+        "height": 714317,
+        "meta": {
+          "activation_height": 713613,
+          "claims_in_channel": 293,
+          "creation_height": 713613,
+          "creation_timestamp": 1581307437,
+          "effective_amount": "5.005",
+          "expiration_height": 2816013,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "5.0",
+          "take_over_height": 713613,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 6.141129415482283e-05
+        },
+        "name": "@TealDeer",
+        "normalized_name": "@tealdeer",
+        "nout": 0,
+        "permanent_url": "lbry://@TealDeer#5c5844c7adbabe7360c374d61ee853e3e18c4968",
+        "short_url": "lbry://@TealDeer#5",
+        "timestamp": 1581419967,
+        "txid": "809247dc536b46b178b355e5f39bb1fee230470861614213032caf46eac308b5",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCMIj-wEiKIcGAcLoBO2ciQQ"
+          },
+          "description": "TL;DR:  I'm your therapy animal on the internet.  Videos best enjoyed at at least 1.25 times speed.\n\nFeel free to send me studies or articles that might be interesting.  I also accept fan art/music:\ntherealtealdeer@gmail.com\nminds.com/tealdeer",
+          "locations": [
+            {
+              "country": "GB"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004afd302553cb4fcb6ee6f8704a2540e784f8d7d9e9fb304e205c39e25b0be33b0d36a140407fea5a3a97740f7832068f60d56c0a5693c9c51a613e07351513988",
+          "public_key_id": "bSufBanAc5Ua4ZecFNdMTjLiy6mhq3Rm53",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCMIj-wEiKIcGAcLoBO2ciQQ"
+          },
+          "title": "TL;DR"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1581419346,
+      "txid": "f1bb51728db4533401ba9ac538205efd71c415834c69f25dbe2435ffef79db65",
+      "type": "claim",
+      "value": {
+        "description": "Somewhat a quick (lol 30 minutes) look at the argument that the study of epigenetics, neuroplasticity and environmental interactions somehow disproves evolutionary psychology when in reality it is a part of the discipline.\n\nSources used:\nhttps://www.pearsonhighered.com/product/Wickens-Foundations-of-Biopsychology-2nd-Edition/9780131971387.html\nhttp://www.ehbonline.org/article/S1090-5138(09)00109-3/abstract\nhttps://www.psychologytoday.com/blog/homo-consumericus/201006/congenitally-blind-men-prefer-the-female-hourglass-figure-literally\nhttp://www.ingentaconnect.com/content/sbp/sbp/1996/00000024/00000002/art00005\nhttp://www.sciencedirect.com/science/article/pii/S0301051105000293\n\nGad Saad has a youtube channel.  I highly recommend it:\nhttps://www.youtube.com/channel/UCLH7qUqM0PLieCVaHA7RegA\n\nDonations are greatly appreciated and enable me to acquire the delicious berries I need to live:\nhttps://www.patreon.com/TealDeer\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n...\nhttps://www.youtube.com/watch?v=9yVJEoglgB8",
+        "languages": [
+          "en-GB"
+        ],
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1469640355",
+        "source": {
+          "hash": "0248d3c129ef033f545d77ad4e24d1615dccda6b4d71fab69c896d8ba3781d32055a5ef2508b8f5ad0dfdc8cf37326b9",
+          "media_type": "video/mp4",
+          "name": "tl-dr-genetic-determinism-the.mp4",
+          "sd_hash": "cbba1d9a689dc4ca0c20f845b5c04975ca3240d6c97cb7957ba311d0c9bf74f4a85643daefe950b112ca194c3e73b22a",
+          "size": "61930623"
+        },
+        "stream_type": "video",
+        "tags": [
+          "biological behaviour",
+          "epigenetics",
+          "evo psych",
+          "evolutionary psychology",
+          "evolutionary redherring",
+          "female preference",
+          "genetic determinism",
+          "human attraction",
+          "male preference",
+          "mate selection in humans",
+          "neuroplasticity",
+          "neuropsychology",
+          "teal deer",
+          "what men find attractive",
+          "what men want",
+          "what women find attractive",
+          "what women want",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/9yVJEoglgB8"
+        },
+        "title": "TL;DR - Genetic Determinism: The Red Herring Returns",
+        "video": {
+          "duration": 1824,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bCpPoqdLaPujtPWf4vMjMPnpHJN8FwP8wj",
+      "amount": "0.00001",
+      "canonical_url": "lbry://@Gutenberg#a/0020125#d",
+      "claim_id": "db195a26a72ab6eb4ae85c7d99efd88de34fd29e",
+      "claim_op": "create",
+      "confirmations": 131519,
+      "height": 586239,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 586239,
+        "creation_height": 586239,
+        "creation_timestamp": 1560847384,
+        "effective_amount": "0.00001",
+        "expiration_height": 2688639,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 586239,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "0020125",
+      "normalized_name": "0020125",
+      "nout": 0,
+      "permanent_url": "lbry://0020125#db195a26a72ab6eb4ae85c7d99efd88de34fd29e",
+      "short_url": "lbry://0020125#d",
+      "signing_channel": {
+        "address": "bQSQo2ruMrnTWrdsRSHRWWVkDhUUtX46Fq",
+        "amount": "10.0",
+        "canonical_url": "lbry://@Gutenberg#a",
+        "claim_id": "aaeda15cc0cafe689793a00d5e6c5a231e3b6ee8",
+        "claim_op": "update",
+        "confirmations": 46732,
+        "has_signing_key": false,
+        "height": 671026,
+        "meta": {
+          "activation_height": 588635,
+          "claims_in_channel": 52400,
+          "creation_height": 584603,
+          "creation_timestamp": 1560582865,
+          "effective_amount": "1126.0",
+          "expiration_height": 2687003,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "1116.0",
+          "take_over_height": 588635,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@Gutenberg",
+        "normalized_name": "@gutenberg",
+        "nout": 0,
+        "permanent_url": "lbry://@Gutenberg#aaeda15cc0cafe689793a00d5e6c5a231e3b6ee8",
+        "short_url": "lbry://@Gutenberg#a",
+        "timestamp": 1574488922,
+        "txid": "b03892d01b6698df2e6f9cbc07fffef5f2672c764a1f3645047eddc68b8e8087",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://i.imgur.com/D7Cngmx.png"
+          },
+          "description": "**http://www.gutenberg.org/**\n\n**Project Gutenberg** is a library of over 60,000 free eBooks. Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for enjoyment and education.",
+          "public_key": "3056301006072a8648ce3d020106052b8104000a034200042794e473df7c1f87373d2835bb70a2735584c58a33deb8742982d2057d415a13f7029e73261c76d660b6666dcbe5a76cf2a0d9d8fba5a5d5edf66ec8ac44c6ab",
+          "public_key_id": "bJtdDnHmnAMJW9vfUw8iNPft3PaehgdYwu",
+          "tags": [
+            "education",
+            "public domain",
+            "book",
+            "books",
+            "textbook",
+            "textbooks",
+            "mobi",
+            "pdf",
+            "epub",
+            "txt",
+            "gutenberg"
+          ],
+          "thumbnail": {
+            "url": "https://i.imgur.com/tZojRkm.jpg"
+          },
+          "title": "Gutenberg",
+          "website_url": "http://www.gutenberg.org/"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1560847384,
+      "txid": "acbe495107781827122fa61979c4adf6d6aebca42cd48597763b666052835781",
+      "type": "claim",
+      "value": {
+        "description": "Link to book: https://www.gutenberg.org/ebooks/20125  \n  Read book as text file http://www.gutenberg.org/cache/epub/20125/pg20125.txt  \n Read book online  https://www.gutenberg.org/cache/epub/20125/pg20125-images.html  \n Read book online  https://www.gutenberg.org/files/20125/20125-h/20125-h.htm  \n   \n  Author: Lippmann, Walter  \n  Webpage: http://en.wikipedia.org/wiki/Walter_Lippmann  \n  Description: http://en.wikipedia.org/wiki/Walter_Lippmann",
+        "languages": [
+          "en"
+        ],
+        "license": "Public",
+        "source": {
+          "hash": "0d329c4d81ac2617a75dc9a0a5a0d5c473834b9c61d0d3b25f5dfb6b1e0dfad41e009a1cb3cb5f0d115e7e34f6562702",
+          "media_type": "application/epub+zip",
+          "name": "0020125.epub",
+          "sd_hash": "597ccc71836506889f1cfce6893926b860061867bdb4c875ad13caa5fc5424d82accbae206e4160eceb32b28d1bef25f",
+          "size": "172454"
+        },
+        "stream_type": "document",
+        "tags": [
+          "Social problems",
+          "United States",
+          "Politics and government",
+          "Politics",
+          "Lippmann, Walter",
+          "ents Introduction",
+          "Routineer and inventor",
+          "The taboo",
+          "The changing focus",
+          "The golden rule and after",
+          "Well meaning but unmeaning: the Chicago vice report",
+          "Some necessary iconoclasm",
+          "The making of creeds",
+          "The red herring",
+          "Revolution and culture."
+        ],
+        "thumbnail": {
+          "url": "https://lbry-cover-images.s3.us-east-2.amazonaws.com/gutenberg/0020125.jpg"
+        },
+        "title": "A Preface to Politics"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bPtZ8eRDNJ8zh9Z6j11nN2HGTUvrgfNb13",
+      "amount": "0.005",
+      "canonical_url": "lbry://@eevblog#7/eevblog-689-back-to-the-future-time#1",
+      "claim_id": "1c97cc7ec43fab2230f0b421e99ef2549daecdfd",
+      "claim_op": "update",
+      "confirmations": 44038,
+      "height": 673720,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 466355,
+        "creation_height": 466355,
+        "creation_timestamp": 1541695818,
+        "effective_amount": "0.005",
+        "expiration_height": 2568755,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 466355,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "eevblog-689-back-to-the-future-time",
+      "normalized_name": "eevblog-689-back-to-the-future-time",
+      "nout": 0,
+      "permanent_url": "lbry://eevblog-689-back-to-the-future-time#1c97cc7ec43fab2230f0b421e99ef2549daecdfd",
+      "short_url": "lbry://eevblog-689-back-to-the-future-time#1",
+      "signing_channel": {
+        "address": "bPtZ8eRDNJ8zh9Z6j11nN2HGTUvrgfNb13",
+        "amount": "10.0",
+        "canonical_url": "lbry://@eevblog#7",
+        "claim_id": "74333143a3dcc001a5602aa524583fc75a013d75",
+        "claim_op": "update",
+        "confirmations": 28282,
+        "has_signing_key": false,
+        "height": 689476,
+        "meta": {
+          "activation_height": 470346,
+          "claims_in_channel": 1158,
+          "creation_height": 466314,
+          "creation_timestamp": 1541688973,
+          "effective_amount": "33595.662909",
+          "expiration_height": 2568714,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "33585.662909",
+          "take_over_height": 496318,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.8065046072006226
+        },
+        "name": "@eevblog",
+        "normalized_name": "@eevblog",
+        "nout": 0,
+        "permanent_url": "lbry://@eevblog#74333143a3dcc001a5602aa524583fc75a013d75",
+        "short_url": "lbry://@eevblog#7",
+        "timestamp": 1577441964,
+        "txid": "a21e0c8f779552e60e592e55a40acc4bc480a2da42b43eb7fba23f5a913f616b",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UC2DjFE7Xf11URZqWBigcVOQ"
+          },
+          "description": "NO SCRIPT, NO FEAR, ALL OPINION\nAn off-the-cuff Video Blog about Electronics Engineering, for engineers, hobbyists, enthusiasts, hackers and Makers\nHosted by Dave Jones from Sydney Australia\n\nDONATIONS:\nPayPal: david@alternatezone.com\n\nPatreon: https://www.patreon.com/eevblog\n\nEEVblog2: http://www.youtube.com/EEVblog2\n\nEMAIL:\nAdvertising/Commercial: eevblog+business@gmail.com\nFan mail: eevblog+fan@gmail.com\nHate Mail: eevblog+hate@gmail.com\n\nPLEASE:\nDO NOT ask for personal advice on something, post it in the EEVblog forum\nI get over 80,000 video views *each day*. That means a *lot* of email asking for advice, I simply can't keep up. \nI read ALL email, and try to read all Youtube comments, but please don't be offended if I don't have time to reply.\n\nSnail Mail:\nMailbag\nPO Box 7949\nBaulkham Hills NSW 2153\nAUSTRALIA",
+          "email": "dave@eevblog.com",
+          "locations": [
+            {
+              "country": "AU"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004d027ea0f3fad627d791d9c4e7872dcd179397932689730a1dec94a448f5936afd6f8b5e91dd9e813f3d6eceedcfe33dcbce9349653c404b123f6d2b5205eeab2",
+          "public_key_id": "bTq3NfHWX6f7ZGifKJHMqBynspjjyhU847",
+          "tags": [
+            "learning",
+            "science",
+            "technology"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/3/069b9f26-80f7-4ae6-a894-a850ad96205f.jpg"
+          },
+          "title": "EEVblog",
+          "website_url": "https://www.eevblog.com"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1574921958,
+      "txid": "8702775436556863c0d10f3a9a39cc69e99d1baf74b2bb78f7b79e6c0344b244",
+      "type": "claim",
+      "value": {
+        "description": "Dave troubleshoots the Back To The Future Time Circuits in 'real-time\", warts and all.\nA journey of red herrings, garden paths, the bleeding obvious, and the inevitability of Murphy's Law.\nCan you discover the fault before Dave does?\n\nDiscussion and comparison of the Tagarno microscope vs the Mantis 3D stereo microscope.\n\nGithub schematics: https://github.com/shackspace/bttf\nTLC59282 Datasheet: http://www.ti.com/lit/ds/symlink/tlc59282.pdf\nForum: http://www.eevblog.com/forum/blog/eevblog-689-back-to-the-future-time-circuits-troubleshooting/\nThe live camera feed: http://www.eevblog.com/live\n...\nhttps://www.youtube.com/watch?v=4-PhbPS5LQU",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1417643765",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "a0148ce88871cc9421f32f47e87fde5af37845188d882e034a2c15135cadd9e011da197d736485a40f44a79613946e84",
+          "size": "412008371"
+        },
+        "stream_type": "video",
+        "tags": [
+          "learning",
+          "technology",
+          "back to the future",
+          "bttf",
+          "circuit",
+          "display",
+          "diy",
+          "lenticular distance",
+          "logic analyser",
+          "mantis microscope",
+          "oscilloscope",
+          "smd",
+          "soldering",
+          "tagarno microscope",
+          "time circuits",
+          "timing",
+          "troubleshooting",
+          "science & technology"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/4-PhbPS5LQU"
+        },
+        "title": "EEVblog #689 - Back To The Future Time Circuits Troubleshooting",
+        "video": {
+          "duration": 2616,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bWKwYcrDL92Rha5RsHXjXxFmT8HN7En9ZF",
+      "amount": "0.1",
+      "canonical_url": "lbry://@Trailers#e5/knives-out-trailer-2_h1080p_x264#1",
+      "claim_id": "1c15b3ac99bba192205b734ea31986431a608480",
+      "claim_op": "create",
+      "confirmations": 7988,
+      "height": 709770,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 709770,
+        "creation_height": 709770,
+        "creation_timestamp": 1580692399,
+        "effective_amount": "234.1",
+        "expiration_height": 2812170,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "234.0",
+        "take_over_height": 709770,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "knives-out-trailer-2_h1080p_x264",
+      "normalized_name": "knives-out-trailer-2_h1080p_x264",
+      "nout": 0,
+      "permanent_url": "lbry://knives-out-trailer-2_h1080p_x264#1c15b3ac99bba192205b734ea31986431a608480",
+      "short_url": "lbry://knives-out-trailer-2_h1080p_x264#1",
+      "signing_channel": {
+        "address": "bWKwYcrDL92Rha5RsHXjXxFmT8HN7En9ZF",
+        "amount": "0.1",
+        "canonical_url": "lbry://@Trailers#e5",
+        "claim_id": "e5491b6d554afdf1d30228c887211e1e95d0312d",
+        "claim_op": "update",
+        "confirmations": 8486,
+        "has_signing_key": false,
+        "height": 709272,
+        "meta": {
+          "activation_height": 713214,
+          "claims_in_channel": 42,
+          "creation_height": 709182,
+          "creation_timestamp": 1580598302,
+          "effective_amount": "43.2",
+          "expiration_height": 2811582,
+          "is_controlling": false,
+          "reposted": 0,
+          "support_amount": "43.1",
+          "take_over_height": 0,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.012364676222205162
+        },
+        "name": "@Trailers",
+        "normalized_name": "@trailers",
+        "nout": 0,
+        "permanent_url": "lbry://@Trailers#e5491b6d554afdf1d30228c887211e1e95d0312d",
+        "short_url": "lbry://@Trailers#e5",
+        "timestamp": 1580613214,
+        "txid": "93c08416bbbc24c11f42b45ff7ce8b8374519b732af4cfd4456938cec95f7032",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://i.imgur.com/onqQebs.png"
+          },
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004ffa14174f1e190c12d0792b9db758b4ca683168e4ab48dea4d31ec84168d2747ba5c2387705f99325c7e5edd97e9db90f202ed27e96ca278443b19a1bdf7ea19",
+          "public_key_id": "bb5uAKjHo8ypD2GhFf9EZi4Ua8yeHdXh5B",
+          "tags": [
+            "art",
+            "trailer",
+            "trailers",
+            "movie",
+            "movies"
+          ],
+          "thumbnail": {
+            "url": "https://i.imgur.com/IqzYGwq.jpg"
+          },
+          "title": "Trailers"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1580692399,
+      "txid": "b2365400bc0df059e98373f99adc5cae8ac36d1df404bd5cfbf012aeee2e4bce",
+      "type": "claim",
+      "value": {
+        "description": "Acclaimed writer and director Rian Johnson (Brick, Looper, Star Wars: The Last Jedi) pays tribute to mystery mastermind Agatha Christie in KNIVES OUT, a fresh, modern-day murder mystery where everyone is a suspect. When renowned crime novelist Harlan Thrombey (Christopher Plummer) is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc (Daniel Craig) is mysteriously enlisted to investigate. From Harlan\u2019s dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan\u2019s untimely death. With an all-star ensemble cast including Chris Evans, Ana de Armas, Jamie Lee Curtis, Toni Collette, Don Johnson, Michael Shannon, LaKeith Stanfield, Katherine Langford and Jaeden Martell, KNIVES OUT is a fun, witty and stylish whodunit guaranteed to keep audiences guessing until the very end.",
+        "languages": [
+          "en"
+        ],
+        "license": "None",
+        "release_time": "1580692254",
+        "source": {
+          "hash": "a74091a66e4b50055afbeda6dd2ae7e1da3acef2c4f0cb8275f9c355b987c194b045b3eae14cb9cc647eb6e153528872",
+          "media_type": "video/mp4",
+          "name": "633188857_knives-out-trailer-2_h1080p_x264.mp4",
+          "sd_hash": "2a5e8354ac881ed632a92187a221808c17d4675a0c01548a1391d0e007bded18035017a6e4f54f7eeee927c554c4ce10",
+          "size": "40230168"
+        },
+        "stream_type": "video",
+        "tags": [
+          "art",
+          "homepagecagematch"
+        ],
+        "thumbnail": {
+          "url": "https://spee.ch/0/AHmxKpuvFIiIvnGzWc6QAldf.png"
+        },
+        "title": "Knives Out Trailer",
+        "video": {
+          "duration": 147,
+          "height": 1056,
+          "width": 1920
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bS8czqrudVG6PxJ8Equj7M88roUHQDCW6T",
+      "amount": "0.005",
+      "canonical_url": "lbry://@Omnizoa#7/stop-gaslighting-me#b",
+      "claim_id": "bde3bed8ed2936050ed5fb785f3fffa4b0696dc3",
+      "claim_op": "update",
+      "confirmations": 44526,
+      "height": 673232,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 602367,
+        "creation_height": 602367,
+        "creation_timestamp": 1563470633,
+        "effective_amount": "0.005",
+        "expiration_height": 2704767,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 602367,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "stop-gaslighting-me",
+      "normalized_name": "stop-gaslighting-me",
+      "nout": 0,
+      "permanent_url": "lbry://stop-gaslighting-me#bde3bed8ed2936050ed5fb785f3fffa4b0696dc3",
+      "short_url": "lbry://stop-gaslighting-me#b",
+      "signing_channel": {
+        "address": "bS8czqrudVG6PxJ8Equj7M88roUHQDCW6T",
+        "amount": "0.005",
+        "canonical_url": "lbry://@Omnizoa#7",
+        "claim_id": "724a4088d29d16c8b82a1e40b923232a3c73d6d3",
+        "claim_op": "update",
+        "confirmations": 44526,
+        "has_signing_key": false,
+        "height": 673232,
+        "meta": {
+          "activation_height": 443870,
+          "claims_in_channel": 264,
+          "creation_height": 443870,
+          "creation_timestamp": 1538097704,
+          "effective_amount": "589.002457",
+          "expiration_height": 2546270,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "588.997457",
+          "take_over_height": 443870,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@Omnizoa",
+        "normalized_name": "@omnizoa",
+        "nout": 0,
+        "permanent_url": "lbry://@Omnizoa#724a4088d29d16c8b82a1e40b923232a3c73d6d3",
+        "short_url": "lbry://@Omnizoa#7",
+        "timestamp": 1574843412,
+        "txid": "e340185f7c8236b37619fb1c2beec4519edc75d17b31439180fa39452a8276e0",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCy7gWknV1ZzuEDfhNsudVxw"
+          },
+          "description": "Bring an open mind, leave your taboos at the door, nothing is immune to criticism. Question Everything.",
+          "public_key": "3056301006072a8648ce3d020106052b8104000a034200041e9af419ab4496f63a69fb2ba87a015366ce5ada455411692b0a5abf09e405a79e7281215f42ffa6c824b3a7595ba21192ff11cc8f7a66d8c130144da6b6d644",
+          "public_key_id": "bRnnzWmJVSbkm8jdW9Bu64GVTKvojFqW26",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCy7gWknV1ZzuEDfhNsudVxw"
+          },
+          "title": "Omnizoa"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1574843412,
+      "txid": "9dda906aa31633fdaf9f392a167e7aeea9ca6fc193d7271344982d4d5a8332b3",
+      "type": "claim",
+      "value": {
+        "description": "This is not intended to harsh on Markiplier, only draw attention to a lazy trend.  I'm also not condemning everyone for referencing Wikipedia, I do it myself, but any channel unironically called \"TruthRevolt\" with the pretentious pomposity to condescendingly explain concepts they clearly learned only yesterday and then not even attempting to hide the all of two seconds of research they did on the topic deserves to get ragged on pretty hard.\n\nOpening Theme: Another Day by Dream Theater (Remixed by 8-Bit Sounds)\n\nBackground Music: Rabanastre - Lowtown by Hayato Matsuo from Final Fantasy XII (Remixed by G- Orchestra)\n\nSources:\nhttps://en.wikipedia.org/wiki/Gaslighting\nhttps://www.youtube.com/watch?v=uNqSmQ67dwU\nhttps://www.youtube.com/watch?v=3aw3df-LpbY\n...\nhttps://www.youtube.com/watch?v=6c5md89svwQ",
+        "languages": [
+          "en"
+        ],
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1563264459",
+        "source": {
+          "hash": "e0abaec5ddf56ec7dfa42f519c8a6f1615c596ba42ed93dcd889446e05cf305c2460fa234a877d487df5c90ddc9fa828",
+          "media_type": "video/mp4",
+          "name": "stop-gaslighting-me.mp4",
+          "sd_hash": "87a2d913903787361666991361de58aa166526d3b926a1f978cbd22a66ddd468b0dc056787183034aab01fdfe8e7fb98",
+          "size": "139697309"
+        },
+        "stream_type": "video",
+        "tags": [
+          "argument",
+          "debate",
+          "excuse",
+          "excuses",
+          "fallacious",
+          "fallacy",
+          "gaslight",
+          "gaslighting",
+          "lie",
+          "lies",
+          "logic",
+          "lying",
+          "manipulation",
+          "mental abuse",
+          "red herring",
+          "refutation",
+          "news & politics"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/6c5md89svwQ"
+        },
+        "title": "\"Stop Gaslighting Me\"",
+        "video": {
+          "duration": 558,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bW5c6iypzdMoGNGKrkccvE8cRykXg3FVFo",
+      "amount": "0.01",
+      "canonical_url": "lbry://@kataanglover1#9/the-cat-king-ni-no-kuni-wrath-of-the#5",
+      "claim_id": "533aa759c7be726aa6f4c15008c4d9cfffec381c",
+      "claim_op": "create",
+      "confirmations": 121396,
+      "height": 596362,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 596362,
+        "creation_height": 596362,
+        "creation_timestamp": 1562498810,
+        "effective_amount": "0.01",
+        "expiration_height": 2698762,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 596362,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "the-cat-king-ni-no-kuni-wrath-of-the",
+      "normalized_name": "the-cat-king-ni-no-kuni-wrath-of-the",
+      "nout": 0,
+      "permanent_url": "lbry://the-cat-king-ni-no-kuni-wrath-of-the#533aa759c7be726aa6f4c15008c4d9cfffec381c",
+      "short_url": "lbry://the-cat-king-ni-no-kuni-wrath-of-the#5",
+      "signing_channel": {
+        "address": "bZjjkP5ZvcykUjgwjUa4HBiSQ8dtr3Yb84",
+        "amount": "0.01",
+        "canonical_url": "lbry://@kataanglover1#9",
+        "claim_id": "9b84dbf4cb2a3f3c684bcf2b05635065dfcfd928",
+        "claim_op": "create",
+        "confirmations": 127316,
+        "has_signing_key": false,
+        "height": 590442,
+        "meta": {
+          "activation_height": 590442,
+          "claims_in_channel": 1061,
+          "creation_height": 590442,
+          "creation_timestamp": 1561526805,
+          "effective_amount": "0.01",
+          "expiration_height": 2692842,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 590442,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@kataanglover1",
+        "normalized_name": "@kataanglover1",
+        "nout": 0,
+        "permanent_url": "lbry://@kataanglover1#9b84dbf4cb2a3f3c684bcf2b05635065dfcfd928",
+        "short_url": "lbry://@kataanglover1#9",
+        "timestamp": 1561526805,
+        "txid": "0ba02f85243972acb4dbdf114f79801dcdd66d6d6f36d39d2cbc95b62bc0bfb1",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCidqdI2EZupjuQZFmvvKJ-w"
+          },
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004ea9da7d26ef1fc44990cd80963fe70895970bfa9e7131e62125c5707b2154e6b5f4f97a7b43f65fa971ef80948dc9f1458b2dea8b723e8d1b333d8c243a92251",
+          "public_key_id": "bSWjbLURmiFM13WZpVh3YigSXL4KK2FEDp",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCidqdI2EZupjuQZFmvvKJ-w"
+          },
+          "title": "SKR/FTEM Gaming"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1562498810,
+      "txid": "4d9db50db4eee8be27f4850ae677494cbaaf4c89871cd00bb416ff213f4c3c80",
+      "type": "claim",
+      "value": {
+        "description": "Welcome to my lets play of Ni No Kuni: Wrath Of The White Witch. In this series, I will play the entire game with commentary. \n \nIn this video, I start my adventure and meet a new friend. \n\nWhere you can get the game\nhttps://www.amazon.com/Ni-No-Kuni-Wrath-sony-playstation3/dp/B007A7UJ4S/ref=sr_1_1?ie=UTF8&qid=1527312832&sr=8-1&keywords=ni+no+kuni+wrath+of+the+white+witch&dpID=51umkwUdW1L&preST=_SY300_QL70_&dpSrc=srch\n\nTwitch\nhttps://go.twitch.tv/kataanglover1\n\n...\nhttps://www.youtube.com/watch?v=iN50gpwvJSE",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1530054010",
+        "source": {
+          "hash": "e910cfacbf9261def16b31c5660e46a268db9b120a513ccd139321d980b234cada87759475b9d9eef23cb1201c8771fe",
+          "media_type": "video/mp4",
+          "name": "the-cat-king-ni-no-kuni-wrath.mp4",
+          "sd_hash": "5a274e7daf2e43381248e4b18b7ceb8924f32edb72cd39fa04b624edff2c6090b529a7a5d4a30f8e8df03de4f380ab5f",
+          "size": "189724202"
+        },
+        "stream_type": "video",
+        "tags": [
+          "gaming",
+          "news",
+          "pop culture",
+          "technology",
+          "animation",
+          "anime",
+          "cat king",
+          "commentary",
+          "cut scene",
+          "ding dong dell",
+          "drippy",
+          "gameplay",
+          "kataanglover",
+          "lets play",
+          "level",
+          "level 5",
+          "location",
+          "lost boys",
+          "meowjesty",
+          "oliver",
+          "outfit",
+          "part 8",
+          "playstation",
+          "playstation 3",
+          "playthrough",
+          "ps3",
+          "quest",
+          "red herring",
+          "skr",
+          "sony",
+          "stampy",
+          "stampylonghead",
+          "stampylongnose",
+          "studio ghibli",
+          "town",
+          "video game",
+          "walkthrough",
+          "wand",
+          "gaming"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/iN50gpwvJSE"
+        },
+        "title": "The Cat King! | Ni No Kuni: Wrath of the White Witch #5",
+        "video": {
+          "duration": 806,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bW5c6iypzdMoGNGKrkccvE8cRykXg3FVFo",
+      "amount": "0.01",
+      "canonical_url": "lbry://@kataanglover1#9/back-home-ni-no-kuni-wrath-of-the-white#b",
+      "claim_id": "bc4032d646b42e9bfea03c4b507e0d5017222962",
+      "claim_op": "create",
+      "confirmations": 121395,
+      "height": 596363,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 596363,
+        "creation_height": 596363,
+        "creation_timestamp": 1562498841,
+        "effective_amount": "0.01",
+        "expiration_height": 2698763,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 596363,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "back-home-ni-no-kuni-wrath-of-the-white",
+      "normalized_name": "back-home-ni-no-kuni-wrath-of-the-white",
+      "nout": 0,
+      "permanent_url": "lbry://back-home-ni-no-kuni-wrath-of-the-white#bc4032d646b42e9bfea03c4b507e0d5017222962",
+      "short_url": "lbry://back-home-ni-no-kuni-wrath-of-the-white#b",
+      "signing_channel": {
+        "address": "bZjjkP5ZvcykUjgwjUa4HBiSQ8dtr3Yb84",
+        "amount": "0.01",
+        "canonical_url": "lbry://@kataanglover1#9",
+        "claim_id": "9b84dbf4cb2a3f3c684bcf2b05635065dfcfd928",
+        "claim_op": "create",
+        "confirmations": 127316,
+        "has_signing_key": false,
+        "height": 590442,
+        "meta": {
+          "activation_height": 590442,
+          "claims_in_channel": 1061,
+          "creation_height": 590442,
+          "creation_timestamp": 1561526805,
+          "effective_amount": "0.01",
+          "expiration_height": 2692842,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 590442,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@kataanglover1",
+        "normalized_name": "@kataanglover1",
+        "nout": 0,
+        "permanent_url": "lbry://@kataanglover1#9b84dbf4cb2a3f3c684bcf2b05635065dfcfd928",
+        "short_url": "lbry://@kataanglover1#9",
+        "timestamp": 1561526805,
+        "txid": "0ba02f85243972acb4dbdf114f79801dcdd66d6d6f36d39d2cbc95b62bc0bfb1",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbnails.lbry.com/banner-UCidqdI2EZupjuQZFmvvKJ-w"
+          },
+          "locations": [
+            {
+              "country": "US"
+            }
+          ],
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004ea9da7d26ef1fc44990cd80963fe70895970bfa9e7131e62125c5707b2154e6b5f4f97a7b43f65fa971ef80948dc9f1458b2dea8b723e8d1b333d8c243a92251",
+          "public_key_id": "bSWjbLURmiFM13WZpVh3YigSXL4KK2FEDp",
+          "thumbnail": {
+            "url": "https://thumbnails.lbry.com/UCidqdI2EZupjuQZFmvvKJ-w"
+          },
+          "title": "SKR/FTEM Gaming"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1562498841,
+      "txid": "91800a56cd35b885b57837eab1bad5457fa459dd0dce399162ee547766d77526",
+      "type": "claim",
+      "value": {
+        "description": "Welcome to my lets play of Ni No Kuni: Wrath Of The White Witch. In this series, I will play the entire game with commentary. \n \nIn this video, I start my adventure and meet a new friend. \n\nWhere you can get the game\nhttps://www.amazon.com/Ni-No-Kuni-Wrath-sony-playstation3/dp/B007A7UJ4S/ref=sr_1_1?ie=UTF8&qid=1527312832&sr=8-1&keywords=ni+no+kuni+wrath+of+the+white+witch&dpID=51umkwUdW1L&preST=_SY300_QL70_&dpSrc=srch\n\nTwitch\nhttps://go.twitch.tv/kataanglover1\n\n...\nhttps://www.youtube.com/watch?v=rLri5CKtp_Y",
+        "license": "Copyrighted (contact publisher)",
+        "release_time": "1530140403",
+        "source": {
+          "hash": "6bd056f65c4bb147661a212892157a8ec6a52ae02c0fabec3a8076ce33721cfbc55a925dd805497f8d3416cfc22a8dc2",
+          "media_type": "video/mp4",
+          "name": "back-home-ni-no-kuni-wrath-of.mp4",
+          "sd_hash": "5325a3b85744906845cde847b9ccf0a1443125ea61fb5a14b839e1565f1ded804f8ce6065d8511768de985346cfa5891",
+          "size": "249726296"
+        },
+        "stream_type": "video",
+        "tags": [
+          "gaming",
+          "news",
+          "pop culture",
+          "technology",
+          "animation",
+          "anime",
+          "cat king",
+          "commentary",
+          "cut scene",
+          "ding dong dell",
+          "drippy",
+          "gameplay",
+          "kataanglover",
+          "lets play",
+          "level",
+          "level 5",
+          "location",
+          "lost boys",
+          "meowjesty",
+          "oliver",
+          "outfit",
+          "part 8",
+          "playstation",
+          "playstation 3",
+          "playthrough",
+          "ps3",
+          "quest",
+          "red herring",
+          "skr",
+          "sony",
+          "stampy",
+          "stampy cat",
+          "stampylonghead",
+          "stampylongnose",
+          "studio ghibli",
+          "town",
+          "video game",
+          "walkthrough",
+          "wand",
+          "gaming"
+        ],
+        "thumbnail": {
+          "url": "https://thumbnails.lbry.com/rLri5CKtp_Y"
+        },
+        "title": "Back Home! | Ni No Kuni: Wrath of The White Witch #6",
+        "video": {
+          "duration": 1109,
+          "height": 720,
+          "width": 1280
+        }
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bb6KCNjieWzzJouX6cGohQn4ivEwxxR7m9",
+      "amount": "0.0001",
+      "canonical_url": "lbry://@Books#f/LemonySnicketASeriesofUnfortunateEvents6TheE#c",
+      "claim_id": "c0b90ad0221d7ef7a9c549a3d79f8089632da9f6",
+      "claim_op": "create",
+      "confirmations": 193290,
+      "height": 524468,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 524468,
+        "creation_height": 524468,
+        "creation_timestamp": 1550971429,
+        "effective_amount": "0.0001",
+        "expiration_height": 2626868,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 524468,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "LemonySnicketASeriesofUnfortunateEvents6TheE",
+      "normalized_name": "lemonysnicketaseriesofunfortunateevents6thee",
+      "nout": 0,
+      "permanent_url": "lbry://LemonySnicketASeriesofUnfortunateEvents6TheE#c0b90ad0221d7ef7a9c549a3d79f8089632da9f6",
+      "short_url": "lbry://LemonySnicketASeriesofUnfortunateEvents6TheE#c",
+      "signing_channel": {
+        "address": "bDBqLusQVELUBeEtnfHpMfAmPTQYEnEZQr",
+        "amount": "20.0",
+        "canonical_url": "lbry://@Books#f",
+        "claim_id": "fa1c5e4636d4087018dfdbb10d5a4838a10f50dd",
+        "claim_op": "create",
+        "confirmations": 495402,
+        "has_signing_key": false,
+        "height": 222356,
+        "meta": {
+          "activation_height": 224170,
+          "claims_in_channel": 6601,
+          "creation_height": 222356,
+          "creation_timestamp": 1502569544,
+          "effective_amount": "772.0",
+          "expiration_height": 2324756,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "752.0",
+          "take_over_height": 224170,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@Books",
+        "normalized_name": "@books",
+        "nout": 0,
+        "permanent_url": "lbry://@Books#fa1c5e4636d4087018dfdbb10d5a4838a10f50dd",
+        "short_url": "lbry://@Books#f",
+        "timestamp": 1502569544,
+        "txid": "7d1712dc40c402feed08b22c1a33d7cbb3f35cb426a3105456fa307a03c6f225",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004b2e5828b78305b5786113f831956f7d206a6c847da47f060bdffce886fc78344acaddb69b57dc611f0c4e7de00df011e96081038f18c497530cdc1fbbb0e9ca8",
+          "public_key_id": "bTAto8HwPbM1yQbzVo4SYm6VazbLJqTHpQ"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1550971429,
+      "txid": "007a878601c0561b1a922876a00c9cdf66f959fa6456fa4cce358fcca4dc9fdc",
+      "type": "claim",
+      "value": {
+        "author": "Lemony Snicket",
+        "description": "Title: A Series of Unfortunate Events #6_ The E\n Author: Lemony Snicket\n File Type: Mobi\n Subject:Children's Books\n Description:\n In their most daring misadventure, the Baudelaire orphans are adopted by very, very rich people, whose penthouse apartment is located mysteriously close to the place where all their misfortune began. Even though their new home in the city is fancy, and the children are clever and charming, I'm sorry to say that still, the unlucky orphans will encounter more disaster and woe. In fact, in this sixth book in A Series of Unfortunate Events, the children will experience a darkened staircase, a red herring, an auction, parsley soda, some friends in a dire situation, a secret passageway, and pinstripe suits.Both literary and irreverent, hilarious and deftly crafted, A Series of Unfortunate Events offers an exquisitely dark comedy in the tradition of Edward Gorey and Roald Dahl. Lemon Snicket's uproariously unhappy books continue to win readers, despite all his warning.Ages 10+\n ",
+        "languages": [
+          "en"
+        ],
+        "license": "Public",
+        "source": {
+          "media_type": "application/x-ext-mobi",
+          "sd_hash": "c4bef5790a6b62d8d4f18c1b288406abe5f6aa0044b1a788d989e57d1070c39835e70e58a657e3c3378f6b169107026e"
+        },
+        "stream_type": "binary",
+        "thumbnail": {
+          "url": "https://i.imgur.com/wzWS8RI.jpg"
+        },
+        "title": "Lemony Snicket--A Series of Unfortunate Events #6 The E"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bPfj1EnCzbmwjYQmcEtTVfdHfUDqUD3foa",
+      "amount": "0.0001",
+      "canonical_url": "lbry://@Books#f/JeffreyCohenAFarewelltoLegsAnAaronTuckerMyst#8",
+      "claim_id": "885c84033abc3b340ef0ccfe3e924b1f81a90ec7",
+      "claim_op": "create",
+      "confirmations": 193350,
+      "height": 524408,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 524408,
+        "creation_height": 524408,
+        "creation_timestamp": 1550961972,
+        "effective_amount": "0.0001",
+        "expiration_height": 2626808,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 524408,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "JeffreyCohenAFarewelltoLegsAnAaronTuckerMyst",
+      "normalized_name": "jeffreycohenafarewelltolegsanaarontuckermyst",
+      "nout": 0,
+      "permanent_url": "lbry://JeffreyCohenAFarewelltoLegsAnAaronTuckerMyst#885c84033abc3b340ef0ccfe3e924b1f81a90ec7",
+      "short_url": "lbry://JeffreyCohenAFarewelltoLegsAnAaronTuckerMyst#8",
+      "signing_channel": {
+        "address": "bDBqLusQVELUBeEtnfHpMfAmPTQYEnEZQr",
+        "amount": "20.0",
+        "canonical_url": "lbry://@Books#f",
+        "claim_id": "fa1c5e4636d4087018dfdbb10d5a4838a10f50dd",
+        "claim_op": "create",
+        "confirmations": 495402,
+        "has_signing_key": false,
+        "height": 222356,
+        "meta": {
+          "activation_height": 224170,
+          "claims_in_channel": 6601,
+          "creation_height": 222356,
+          "creation_timestamp": 1502569544,
+          "effective_amount": "772.0",
+          "expiration_height": 2324756,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "752.0",
+          "take_over_height": 224170,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@Books",
+        "normalized_name": "@books",
+        "nout": 0,
+        "permanent_url": "lbry://@Books#fa1c5e4636d4087018dfdbb10d5a4838a10f50dd",
+        "short_url": "lbry://@Books#f",
+        "timestamp": 1502569544,
+        "txid": "7d1712dc40c402feed08b22c1a33d7cbb3f35cb426a3105456fa307a03c6f225",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004b2e5828b78305b5786113f831956f7d206a6c847da47f060bdffce886fc78344acaddb69b57dc611f0c4e7de00df011e96081038f18c497530cdc1fbbb0e9ca8",
+          "public_key_id": "bTAto8HwPbM1yQbzVo4SYm6VazbLJqTHpQ"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1550961972,
+      "txid": "65858869f4ccd00b105045ea56ccfa220d9d59c4d5d705f84126c7be04a9cf8e",
+      "type": "claim",
+      "value": {
+        "author": "Jeffrey Cohen",
+        "description": "Title: A Farewell to Legs_ An Aaron Tucker Myst\n Author: Jeffrey Cohen\n File Type: Mobi\n Subject:Fiction:Detective\n Description:\n Work-at-home dad, devoted husband, aspiring screenwriter -- all ways to describe the unwilling sleuth Aaron Tucker, whom one re-viewer dubbed a combination of Bart Simpson and James Bond. In A Farewell to Legs, the second installment of the Aaron Tucker Mystery Series, Aaron is back on the trail again, this time trying to ferret out the murderer of a former classmate, a D.C. lobbyist whose enemies finally stick it to him, literally -- with a six-inch steak knife. The deceased leaves behind a bombshell of a widow, a hidden bankroll of $13 million, and a cloud of political controversy, all of which lead Aaron to a barrel of red herrings. But in the life of Aaron Tucker, one mystery is never enough (though he'd be quick to tell you otherwise). He's also been dele-gated the odious task of tracking down Buzbee School's secret stink-bomber, and his wife, the beautiful attorney Abby Stein, is being stalked by a former client. All in a day's work for the 5'4 freelance writer, who, as procrastinator extraordinaire, would rather be doing anything but investigating.\n ",
+        "languages": [
+          "en"
+        ],
+        "license": "Public",
+        "source": {
+          "media_type": "application/x-ext-mobi",
+          "sd_hash": "34c7becfaf983e593c4467fb069e726810ab9fb7c0ee251d47704949f9ecada35e0bb131dbc430c27aa56b769698bc24"
+        },
+        "stream_type": "binary",
+        "thumbnail": {
+          "url": "https://i.imgur.com/LlZ1yRR.jpg"
+        },
+        "title": "Jeffrey Cohen--A Farewell to Legs An Aaron Tucker Myst"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bG61iJBEAgxyCy8rF1c2kN6M1oEMU3chX6",
+      "amount": "0.0001",
+      "canonical_url": "lbry://@Books#f/JoNesboTheSnowman#6",
+      "claim_id": "6a286c489de03f141ba7c25ecd0b3603349ab74d",
+      "claim_op": "create",
+      "confirmations": 193345,
+      "height": 524413,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 524413,
+        "creation_height": 524413,
+        "creation_timestamp": 1550962816,
+        "effective_amount": "0.0001",
+        "expiration_height": 2626813,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 524413,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "JoNesboTheSnowman",
+      "normalized_name": "jonesbothesnowman",
+      "nout": 0,
+      "permanent_url": "lbry://JoNesboTheSnowman#6a286c489de03f141ba7c25ecd0b3603349ab74d",
+      "short_url": "lbry://JoNesboTheSnowman#6",
+      "signing_channel": {
+        "address": "bDBqLusQVELUBeEtnfHpMfAmPTQYEnEZQr",
+        "amount": "20.0",
+        "canonical_url": "lbry://@Books#f",
+        "claim_id": "fa1c5e4636d4087018dfdbb10d5a4838a10f50dd",
+        "claim_op": "create",
+        "confirmations": 495402,
+        "has_signing_key": false,
+        "height": 222356,
+        "meta": {
+          "activation_height": 224170,
+          "claims_in_channel": 6601,
+          "creation_height": 222356,
+          "creation_timestamp": 1502569544,
+          "effective_amount": "772.0",
+          "expiration_height": 2324756,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "752.0",
+          "take_over_height": 224170,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@Books",
+        "normalized_name": "@books",
+        "nout": 0,
+        "permanent_url": "lbry://@Books#fa1c5e4636d4087018dfdbb10d5a4838a10f50dd",
+        "short_url": "lbry://@Books#f",
+        "timestamp": 1502569544,
+        "txid": "7d1712dc40c402feed08b22c1a33d7cbb3f35cb426a3105456fa307a03c6f225",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004b2e5828b78305b5786113f831956f7d206a6c847da47f060bdffce886fc78344acaddb69b57dc611f0c4e7de00df011e96081038f18c497530cdc1fbbb0e9ca8",
+          "public_key_id": "bTAto8HwPbM1yQbzVo4SYm6VazbLJqTHpQ"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1550962816,
+      "txid": "2490dfd9ba1000a4e2db589cfd8924c3cc138e9bf3ae01c812f46bb3eee301eb",
+      "type": "claim",
+      "value": {
+        "author": "Jo Nesbo",
+        "description": "Title: The Snowman\n Author: Jo Nesbo\n File Type: Mobi\n Subject:Fiction:Thriller\n Description:Amazon.com ReviewstrongAmazon Best Books of the Month, May 2011strong: The Snowman, Norwegian author Jo Nesb\u00f8's thriller, should please even the most die-hard Stieg Larsson fans. On the first day of snow, a child wakes up to find his mother has disappeared during the night. Outside, a snowman has appeared out of nowhere, the calling card of one of the most terrifying serial killers in recent fiction. A letter from the perpetrator draws Detective Hole further and further into the case, and together with his new partner, Katrine Bratt, he hunts the Snowman through twists and turns that become increasingly personal and may drive Hole to the brink of insanity. Brilliantly crafted, this credible and dark page-turner fully fleshes out the characters, especially Hole, a hardened detective with sharp instincts and real heart. What is the link between the victims? Is the Snowman a suspicious doctor, a notorious playboy, or one of Hole's peers on the force? The police keep thinking they've caught the criminal, but Hole's astute observations may steer him around the red herrings and right into the hands of the cold-as-ice killer. --Miriam LandisReview\u201cJo Nesb\u00f8 is my new favorite thriller writer and Harry Hole my new hero.\u201d \u2014Michael Connelly \n ",
+        "languages": [
+          "en"
+        ],
+        "license": "Public",
+        "source": {
+          "media_type": "application/x-ext-mobi",
+          "sd_hash": "ee05ed1463d817d3f4c83a8f034f82259d5aca38ef50f646a2694a640f743296eec12b5c57d9dcb597d856208ef8ce95"
+        },
+        "stream_type": "binary",
+        "thumbnail": {
+          "url": "https://i.imgur.com/ZCMmRfh.jpg"
+        },
+        "title": "Jo Nesbo--The Snowman"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "baE1gAbrofPnHsrfzjYNhkJtWsSfbrTX32",
+      "amount": "0.008561",
+      "canonical_url": "lbry://@Epicenter#0/ec-k3pM8vB2QYc#0",
+      "claim_id": "08681dba91d8f705d351e120246a4400b88f0412",
+      "claim_op": "update",
+      "confirmations": 421176,
+      "height": 296582,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 177127,
+        "creation_height": 177127,
+        "creation_timestamp": 1495205703,
+        "effective_amount": "0.008561",
+        "expiration_height": 2279527,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 177127,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "ec-k3pM8vB2QYc",
+      "normalized_name": "ec-k3pm8vb2qyc",
+      "nout": 0,
+      "permanent_url": "lbry://ec-k3pM8vB2QYc#08681dba91d8f705d351e120246a4400b88f0412",
+      "short_url": "lbry://ec-k3pM8vB2QYc#0",
+      "signing_channel": {
+        "address": "baE1gAbrofPnHsrfzjYNhkJtWsSfbrTX32",
+        "amount": "0.0098355",
+        "canonical_url": "lbry://@Epicenter#0",
+        "claim_id": "0ffdc076ea2485ddf444f7d49bced34d39c59ebf",
+        "claim_op": "update",
+        "confirmations": 421185,
+        "has_signing_key": false,
+        "height": 296573,
+        "meta": {
+          "activation_height": 176822,
+          "claims_in_channel": 184,
+          "creation_height": 176822,
+          "creation_timestamp": 1495156057,
+          "effective_amount": "0.0098355",
+          "expiration_height": 2279222,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 176822,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@Epicenter",
+        "normalized_name": "@epicenter",
+        "nout": 0,
+        "permanent_url": "lbry://@Epicenter#0ffdc076ea2485ddf444f7d49bced34d39c59ebf",
+        "short_url": "lbry://@Epicenter#0",
+        "timestamp": 1514555946,
+        "txid": "d423fc8293a66cbdefb5f637459254765dc35211d8434625f80f7bc7003b9ce3",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004a7969fdef1817a82515c92a93041d88f995a05519f329bd5248223b65a48e90909181e702a214c1545aa3d5da20b7d96f6a508dc91b835087ca33137b26d1a89",
+          "public_key_id": "bScVspBHdy2PbS15fQUkVfdZLTwfrGnmz1"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1514557823,
+      "txid": "9235ee10b4cfb6e95bfcff8c8cfb1c8674799cdc50f37c67a2bebd01372e8da3",
+      "type": "claim",
+      "value": {
+        "author": "Epicenter",
+        "description": "Support the show, consider donating: 3A4MKzcxBMPPssUMMSSjvTBvgBTu4iy4m5 (http://bit.ly/1G0laAA)\n\nOne topic that is guaranteed to cause heated discussion among cryptocurrency enthusiasts is the idea that blockchains can be controlled by known validators and function without an underlying cryptocurrency. Some think this is a non-sensical idea fabricated by those spineless enough to want to appease regulators and but clueless enough to miss the whole point of cryptocurrencies. But others believe that Bitcoin is unsuited for a lof of 'Bitcoin 2.0' applications and that permissioned ledgers have wide-reaching potential to increase efficiency and transparency.\n\nTim Swanson joined us for an important discussion of permissioned ledgers. He's among their best-known proponents and has recently published a whitepaper discussing how they work and looking at different startups in the space.\n\nTopics covered included:\n- Why the 'blockchains without bitcoin' idea is so controversial\n- Why it is strange that KYC is done widely on Bitcoin users but not on the validators\n- Why even semi-decentralized blockchains can provide big efficiency gains\n- Why the 51% attack possibility is an obstacle for the use of Bitcoin as a settlement network\n- Why financial institutions don't care about censorship resistance but do care about irreversibility\n\nLinks mentioned in this episode: \n\n- Tim Swanson: Permissioned Distributed Ledgers Whitepaper http://bit.ly/1QLDrMn\n- Tim Swanson: Needing a Token to Operate a Distributed Ledger is a Red Herring: http://bit.ly/1JdB94z\n- Robert Sams: No, Bitcoin is not the future of securities settlement http://bit.ly/1eCRz9P\n- JP Koning: Why bitcoin has failed to achieve liftoff as a medium of exchange http://bit.ly/1GhoxmQ \n\nSponsors: \n\n- Shapeshift: Buy and sell alt coins instantly at http://ShapeShift.io\n- Vaultoro: Trade gold to Bitcoin instantly and securely starting at just 1mg at http://vaultoro.com\n\nShow notes: http://epicenterbitcoin.com/podcast/084\nSoundCloud: http://soundcloud.com/epicenterbitcoin/eb-084\n\n\nEpicenter Bitcoin is hosted by Brian Fabian Crain & S\u00e9bastien Couture.\n \n- Visit our website: http://epicenterbitcoin.com\n- Subscribe to our newsletter: http://epicenterbitcoin.com/newsletter\n- Twitter: http://twitter.com/epicenterbtc",
+        "languages": [
+          "en"
+        ],
+        "license": "Creative Commons License",
+        "source": {
+          "media_type": "video/mp4",
+          "sd_hash": "2db3352144cf15cbf595a3af3adb29fd946ba873484e4b5bb9d69249ac56bbe708d9be8d9c984c6fa98eb2657feeafc7"
+        },
+        "stream_type": "video",
+        "thumbnail": {
+          "url": "http://berk.ninja/thumbnails/k3pM8vB2QYc"
+        },
+        "title": "EB84 \u2013 Tim Swanson: Permissioned Ledgers And The Case For Blockchains Without Bitcoin"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bSeZnyTmTAomq3MscPe7P6PvBtX6CBaZSz",
+      "amount": "0.0001",
+      "canonical_url": "lbry://@Books#f/LisaUngerBlackOutANovel#7",
+      "claim_id": "78d11d6c1608a995c61e0f50729dd2d67fc638a8",
+      "claim_op": "create",
+      "confirmations": 193282,
+      "height": 524476,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 524476,
+        "creation_height": 524476,
+        "creation_timestamp": 1550973304,
+        "effective_amount": "0.0001",
+        "expiration_height": 2626876,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 524476,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "LisaUngerBlackOutANovel",
+      "normalized_name": "lisaungerblackoutanovel",
+      "nout": 0,
+      "permanent_url": "lbry://LisaUngerBlackOutANovel#78d11d6c1608a995c61e0f50729dd2d67fc638a8",
+      "short_url": "lbry://LisaUngerBlackOutANovel#7",
+      "signing_channel": {
+        "address": "bDBqLusQVELUBeEtnfHpMfAmPTQYEnEZQr",
+        "amount": "20.0",
+        "canonical_url": "lbry://@Books#f",
+        "claim_id": "fa1c5e4636d4087018dfdbb10d5a4838a10f50dd",
+        "claim_op": "create",
+        "confirmations": 495402,
+        "has_signing_key": false,
+        "height": 222356,
+        "meta": {
+          "activation_height": 224170,
+          "claims_in_channel": 6601,
+          "creation_height": 222356,
+          "creation_timestamp": 1502569544,
+          "effective_amount": "772.0",
+          "expiration_height": 2324756,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "752.0",
+          "take_over_height": 224170,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@Books",
+        "normalized_name": "@books",
+        "nout": 0,
+        "permanent_url": "lbry://@Books#fa1c5e4636d4087018dfdbb10d5a4838a10f50dd",
+        "short_url": "lbry://@Books#f",
+        "timestamp": 1502569544,
+        "txid": "7d1712dc40c402feed08b22c1a33d7cbb3f35cb426a3105456fa307a03c6f225",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004b2e5828b78305b5786113f831956f7d206a6c847da47f060bdffce886fc78344acaddb69b57dc611f0c4e7de00df011e96081038f18c497530cdc1fbbb0e9ca8",
+          "public_key_id": "bTAto8HwPbM1yQbzVo4SYm6VazbLJqTHpQ"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1550973304,
+      "txid": "4757e1bd43f5a9437a168d3f6b6e2b6e4953eef31de74dee9e65b87e989a832a",
+      "type": "claim",
+      "value": {
+        "author": "Lisa Unger",
+        "description": "Title: Black Out_ A Novel\n Author: Lisa Unger\n File Type: Mobi\n Subject:Fiction:Suspense\n Description:From Publishers WeeklyStarred Review. Annie Powers leads the perfect life in Florida with her husband, Gray, and their four-year-old daughter in this stellar character-driven stand-alone from bestseller Unger (_A Sliver of Truth_). Less than a decade earlier, however, Annie was Ophelia March, the teenage captive\u2014or accomplice\u2014of spree killer Marlowe Geary. Gray, a partner in his father's private security consultant firm, tracked Marlowe and rescued Ophelia after sending the killer's car over a cliff. Reinventing herself with Gray's help, Annie can't remember all that happened during her years with Marlowe, and she's prone to panic attacks and blackouts. When a strange man appears on her property, Annie's sure Marlowe is back. As a shady police detective digs into her past, Annie must try to recover the memories she buried if she's ever going to be free from Marlowe. Unger expertly turns what could have been a routine serial-killer story into a haunting odyssey for Annie, dropping red herrings and clues along the way until the reader feels as unsettled as Annie. (June) br   Reed Business Information, a division of Reed Elsevier Inc.  FromAnnie Powers seems to lead an idyllic suburban life. She has a devoted husband, a cherubic young daughter, and a beautiful home with sweeping views of the Gulf of Florida. But not so many years ago, Annie was entangled in a scenario that was anything but serene. Her emotionally twisted relationship with serial killer Marlowe Geary had turned her from a moody teen into a criminal accomplice with a hardened heart. Only by faking her death and taking on a new identity was Annie able to jettison her past\u2014or so she thought. Her husband, Gray, had long insisted that Marlowe was dead. But after an eerie encounter on the beach, Annie is not so sure. As the cracks in her carefully constructed facade deepen, she flees her family, determined to learn the truth. Annie\u2019s mental state becomes more precarious with each passing day, until she can no longer distinguish what\u2019s imaginary from what\u2019s real. There\u2019s a bit too much shifting between present and past in this stand-alone psychological thriller by Unger, author of the best-selling and critically acclaimed Ridley Jones series. But the author makes up for an occasionally awkward narrative with the compelling character of Annie: dark, troubled, and teetering on the brink. --Allison Block \n ",
+        "languages": [
+          "en"
+        ],
+        "license": "Public",
+        "source": {
+          "media_type": "application/x-ext-mobi",
+          "sd_hash": "f5ab0ea0c530d232c2a231704b09c7fc1a4163615da270b0875289f9d2feaeef4fe2cbdaf4bdbc32a319e9912a56616e"
+        },
+        "stream_type": "binary",
+        "thumbnail": {
+          "url": "https://i.imgur.com/XuvIbLu.jpg"
+        },
+        "title": "Lisa Unger--Black Out A Novel"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bF7HyCCwdE7W6eAySz7vYqyfXn34ZPU5UU",
+      "amount": "0.0001",
+      "canonical_url": "lbry://@Books#f/AnnePerryBedfordSquare#c",
+      "claim_id": "c834f65b6a02351a1767bfbb1918721cf98c417c",
+      "claim_op": "update",
+      "confirmations": 192279,
+      "height": 525479,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 517595,
+        "creation_height": 517595,
+        "creation_timestamp": 1549870285,
+        "effective_amount": "0.0001",
+        "expiration_height": 2619995,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 517595,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "AnnePerryBedfordSquare",
+      "normalized_name": "anneperrybedfordsquare",
+      "nout": 0,
+      "permanent_url": "lbry://AnnePerryBedfordSquare#c834f65b6a02351a1767bfbb1918721cf98c417c",
+      "short_url": "lbry://AnnePerryBedfordSquare#c",
+      "signing_channel": {
+        "address": "bDBqLusQVELUBeEtnfHpMfAmPTQYEnEZQr",
+        "amount": "20.0",
+        "canonical_url": "lbry://@Books#f",
+        "claim_id": "fa1c5e4636d4087018dfdbb10d5a4838a10f50dd",
+        "claim_op": "create",
+        "confirmations": 495402,
+        "has_signing_key": false,
+        "height": 222356,
+        "meta": {
+          "activation_height": 224170,
+          "claims_in_channel": 6601,
+          "creation_height": 222356,
+          "creation_timestamp": 1502569544,
+          "effective_amount": "772.0",
+          "expiration_height": 2324756,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "752.0",
+          "take_over_height": 224170,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@Books",
+        "normalized_name": "@books",
+        "nout": 0,
+        "permanent_url": "lbry://@Books#fa1c5e4636d4087018dfdbb10d5a4838a10f50dd",
+        "short_url": "lbry://@Books#f",
+        "timestamp": 1502569544,
+        "txid": "7d1712dc40c402feed08b22c1a33d7cbb3f35cb426a3105456fa307a03c6f225",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004b2e5828b78305b5786113f831956f7d206a6c847da47f060bdffce886fc78344acaddb69b57dc611f0c4e7de00df011e96081038f18c497530cdc1fbbb0e9ca8",
+          "public_key_id": "bTAto8HwPbM1yQbzVo4SYm6VazbLJqTHpQ"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1551134670,
+      "txid": "c2c0004ce4904837a15a2dd42f0c1bbaa368004f613dccc4d5cb3445c1bd28c7",
+      "type": "claim",
+      "value": {
+        "author": "Anne Perry",
+        "description": "Title: Bedford Square\n Author: Anne Perry\n File Type: Mobi\n Subject:Mystery:Historical\n Description:Amazon.com ReviewEven if you prefer the tougher, edgier William Monk books by Anne Perry, such as __, theres no denying the wealth of detail and the powerful emotions at work in her longer series of Victorian murder mysteries featuring Thomas and Charlotte Pitt. The Pitt books effectively merge Henry James with Raymond Chandler by having a middleclass policeman married to a socialite, Perry can probe both worlds, as she does in Bedford Square, a story of high-level blackmail and murder.A famous historical scandal called the Tranby Croft affair (a gambling case involving the Prince of Wales) is very much in the news when the body of a working-class man is found early one morning on the posh doorstep of General Brandon Balantyne. No one in the house claims to know the murdered man, but he has a valuable piece of jewelry belonging to the Balantynes in his pocket. Thomas Pitt and his outspoken aide, Sergeant Tellman, must tread lightly, but Charlotte--and especially her sharp relative Lady Vespasia Cumming-Gould--arent restrained by such social niceties. Gracie, the Pitts smart and rough-tongued maid, is also a valued asset to the investigation, which proceeds in a satisfying, if not particularly surprising, manner to a highly dramatic conclusion. Other recent books in the Pitt series include __, strong, and strong. --Dick AdlerFrom Publishers WeeklyHistory, social commentary and suspense blend artfully in this 19th installment (after Brunswick Gardens, 1998) in Perrys popular series featuring London Police Superintendent Thomas Pitt and his adventurous wife, Charlotte. The mystery arises when a body is found outside the home of respectable General Brandon Balantyne (who appeared in two earlier Pitt novels). Pitt and Sergeant Tellman, whose class prejudices are challenged during the investigation, are mystified by the bodys identity and the motive for the murder. Their diggings lead them to a parallel case, when Pitt discovers that six honorable men, including Balantyne and Assistant Police Commissioner Cornwallis, are being blackmailed. Perry uses the historical Tranby Croft gambling scandal involving the Prince of Wales as backdrop, highlighting how even the imputation of wrongdoing can tarnish someones good name. To find the blackmailer, Pitt seeks a common bond among the accused. The careful reader may spy that link before Pitt does, but will nonetheless be swept along by the narratives rush and engaged by its attention to period detail. Aiding Pitt is a cast of smart, well-drawn female characters Charlotte, whose social connections afford her access to societys upper crust Gracie, the Pitts uneducated but no-nonsense maid and Lady Vespasia Cumming-Gould, Charlottes worldly-wise relation, who dominates the narrative once she joins the investigation. Pitt solves the case based on a clever red herring, uncovering the murderer in a quick, horrifying finale. Yet again, Perry delivers an astute and gripping examination of life behind Victorian Englands virtuous facade. Mystery Guild main selection author tour. br  1999 Reed Business Information, Inc. \n ",
+        "languages": [
+          "en"
+        ],
+        "license": "Public",
+        "source": {
+          "media_type": "application/x-ext-mobi",
+          "sd_hash": "471b9bf0e056814d34e222b4f972c389c44ddda8ad4def017599d2efc137ae288462a3ee8f67f0935653894d1a7c582e"
+        },
+        "stream_type": "binary",
+        "thumbnail": {
+          "url": "https://i.imgur.com/p5qZZJ2.jpg"
+        },
+        "title": "Anne Perry--Bedford Square"
+      },
+      "value_type": "stream"
+    },
+    {
+      "address": "bX8RMpRA3TuXiZeYX7zFeGvQJ8GaFEYM7P",
+      "amount": "0.0001",
+      "canonical_url": "lbry://@Books#f/ChristopherFowlerFullDarkHouse#2",
+      "claim_id": "2051d3ef05d86ff8969ae7ee9e50ace5f6188e9c",
+      "claim_op": "create",
+      "confirmations": 199700,
+      "height": 518058,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 518058,
+        "creation_height": 518058,
+        "creation_timestamp": 1549945185,
+        "effective_amount": "0.0001",
+        "expiration_height": 2620458,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 518058,
+        "trending_global": 0.0,
+        "trending_group": 0,
+        "trending_local": 0.0,
+        "trending_mixed": 0.0
+      },
+      "name": "ChristopherFowlerFullDarkHouse",
+      "normalized_name": "christopherfowlerfulldarkhouse",
+      "nout": 0,
+      "permanent_url": "lbry://ChristopherFowlerFullDarkHouse#2051d3ef05d86ff8969ae7ee9e50ace5f6188e9c",
+      "short_url": "lbry://ChristopherFowlerFullDarkHouse#2",
+      "signing_channel": {
+        "address": "bDBqLusQVELUBeEtnfHpMfAmPTQYEnEZQr",
+        "amount": "20.0",
+        "canonical_url": "lbry://@Books#f",
+        "claim_id": "fa1c5e4636d4087018dfdbb10d5a4838a10f50dd",
+        "claim_op": "create",
+        "confirmations": 495402,
+        "has_signing_key": false,
+        "height": 222356,
+        "meta": {
+          "activation_height": 224170,
+          "claims_in_channel": 6601,
+          "creation_height": 222356,
+          "creation_timestamp": 1502569544,
+          "effective_amount": "772.0",
+          "expiration_height": 2324756,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "752.0",
+          "take_over_height": 224170,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "@Books",
+        "normalized_name": "@books",
+        "nout": 0,
+        "permanent_url": "lbry://@Books#fa1c5e4636d4087018dfdbb10d5a4838a10f50dd",
+        "short_url": "lbry://@Books#f",
+        "timestamp": 1502569544,
+        "txid": "7d1712dc40c402feed08b22c1a33d7cbb3f35cb426a3105456fa307a03c6f225",
+        "type": "claim",
+        "value": {
+          "public_key": "3056301006072a8648ce3d020106052b8104000a03420004b2e5828b78305b5786113f831956f7d206a6c847da47f060bdffce886fc78344acaddb69b57dc611f0c4e7de00df011e96081038f18c497530cdc1fbbb0e9ca8",
+          "public_key_id": "bTAto8HwPbM1yQbzVo4SYm6VazbLJqTHpQ"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1549945185,
+      "txid": "cfc8737f9762eae7c06f3eb50b4c44b2a2fdbd599866b74d862b0e5cc4ad270b",
+      "type": "claim",
+      "value": {
+        "author": "Christopher Fowler",
+        "description": "Title: Full Dark House\n Author: Christopher Fowler\n File Type: Mobi\n Subject:Mystery:Historical\n Description:From Publishers WeeklyIt's no surprise to find plenty of gothic touches in British author Fowler's debut mystery, the first in a series, given the renown of his horror fiction (_Rune_, etc.). When 80-year-old police detective Arthur Bryant gets blown up in an explosion at the North London Peculiar Crimes Unit headquarters, his longtime partner, John May, investigates his death. After some long, lecturing dialogue and an early chapter told from the viewpoint of a character who turns out to be of no consequence, the author reaches the core of his story\u2014a flashback to the duo's first case during the London Blitz. In late 1940, the Palace Theatre is staging a production of Orpheus in the Underworld when the body of a dancer is found, sans feet. From this point forward, the intrigues of the theater murders, which decimate the cast, create considerable drama. The potency of Greek myth, conjured up by the opera being staged, is skillfully played out in the detectives' theories about the killer. The dynamic between May and Bryant makes for compelling reading, while the hubris of a police underling, Sidney Biddle, provides additional tension. Both past and present plots reach satisfying resolutions. Now that Fowler has set the stage, no doubt his second Bryant and May mystery will get off to a better start. br   Reed Business Information, a division of Reed Elsevier Inc.  From School Library JournalAdultHigh School\u2013This mystery features the impending retirement of a Scotland Yard detective and the death of another. When Arthur Bryant is apparently blown up, his erstwhile partner, John May, begins reflecting on their first case together more than 60 years earlier. May, a raw recruit of 19, and Bryant, a 23-year-old detective, became the core of the Peculiar Crimes Unit, created to handle cases that were too important to ignore, yet that somehow seemed disproportionately insignificant in the face of the hundreds of civilians killed each night during the Blitz. Both men had been hurried through training and were suddenly faced with the strange case of the Palace Phantom, a killer victimizing the cast in an elaborate production of Offenbach's Orpheus in the Underworld. May was both intrigued by and dismayed at Bryant's methods and seeming flights of fancy. He used everything from crime-scene forensics to spiritualists to help him build his case. Fowler skillfully shifts the action between 1940 and the 21st century, building suspense and growing awareness as each case comes to its respective climax. Not surprisingly, they are connected. The details of wartime London and the destruction and deprivation of daily life are vividly conveyed. Today's teens will identify with the young lives so drastically affected by the war while following the clues, and red herrings, to a satisfactory conclusion._\u2013Susan H. Woodcock, Fairfax County Public Library, Chantilly, VA_ br   Reed Business Information, a division of Reed Elsevier Inc.  \n ",
+        "languages": [
+          "en"
+        ],
+        "license": "Public",
+        "source": {
+          "media_type": "application/octet-stream",
+          "sd_hash": "605565540f89f4d50e39aad8c70c33efdb99471deffaa361408753f438c97601ad258834fd257f0acf1ca0915e3eb2e6"
+        },
+        "stream_type": "binary",
+        "thumbnail": {
+          "url": "https://i.imgur.com/bBSmmZg.jpg"
+        },
+        "title": "Christopher Fowler--Full Dark House"
+      },
+      "value_type": "stream"
+    }
+  ],
+  "page": 1,
+  "page_size": 20,
+  "total_items": 22,
+  "total_pages": 2
+}
